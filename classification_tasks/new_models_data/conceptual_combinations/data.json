@@ -1,0 +1,1757 @@
+{
+  "train": [
+    {
+      "inputs": "Concept: turbulent peace. Question: Which of the following sentences best characterizes turbulent peaces?\n option: Turbulent peace is full of harmony.\n option: Turbulent peace is windy.\n option: Turbulent peace is dangerous for planes.\n option: Turbulent peace is short-lived.\nAnswer:\n(a) Turbulent peace is short-lived.\n(b) Turbulent peace is dangerous for planes.\n(c) Turbulent peace is windy.\n(d) Turbulent peace is full of harmony.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Turbulent peace is short-lived.",
+        "(b) Turbulent peace is dangerous for planes.",
+        "(c) Turbulent peace is windy.",
+        "(d) Turbulent peace is full of harmony."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 0
+    },
+    {
+      "inputs": "Concept: timeless times. Question: Which of the following sentences best characterizes timeless times?\n option: The 60's were timeless times.\n option: Timeless times go by quickly.\n option: People often run out of timeless times.\n option: Timeless times are quickly forgotten.\nAnswer:\n(a) The 60's were timeless times.\n(b) People often run out of timeless times.\n(c) Timeless times go by quickly.\n(d) Timeless times are quickly forgotten.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) The 60's were timeless times.",
+        "(b) People often run out of timeless times.",
+        "(c) Timeless times go by quickly.",
+        "(d) Timeless times are quickly forgotten."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 1
+    },
+    {
+      "inputs": "Concept: Old news. Question: Which of the following sentences best characterizes old news?\n option: Old news is a liberal media conspiracy.\n option: Old news is reporting about old people.\n option: New discoveries about the past are old news.\n option: Old news is established knowledge.\nAnswer:\n(a) Old news is established knowledge.\n(b) Old news is reporting about old people.\n(c) Old news is a liberal media conspiracy.\n(d) New discoveries about the past are old news.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Old news is established knowledge.",
+        "(b) Old news is reporting about old people.",
+        "(c) Old news is a liberal media conspiracy.",
+        "(d) New discoveries about the past are old news."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 2
+    },
+    {
+      "inputs": "Concept: Long shorts. Question: Which of the following sentences best characterizes long shorts?\n option: Long shorts are risky.\n option: Long shorts end at the knee.\n option: Long shorts are made with extra water.\n option: Long shorts are too revealing.\nAnswer:\n(a) Long shorts end at the knee.\n(b) Long shorts are made with extra water.\n(c) Long shorts are too revealing.\n(d) Long shorts are risky.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Long shorts end at the knee.",
+        "(b) Long shorts are made with extra water.",
+        "(c) Long shorts are too revealing.",
+        "(d) Long shorts are risky."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 3
+    },
+    {
+      "inputs": "Concept: deadly caregiver. Question: Which of the following sentences best characterizes deadly caregivers?\n option: Healthcare systems struggle due to the lack of deadly caregivers.\n option: Morphine overdoses are deadly caregivers.\n option: Deadly caregivers take care of terminal patients.\n option: Homicidal nurses are deadly caregivers.\nAnswer:\n(a) Homicidal nurses are deadly caregivers.\n(b) Deadly caregivers take care of terminal patients.\n(c) Healthcare systems struggle due to the lack of deadly caregivers.\n(d) Morphine overdoses are deadly caregivers.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Homicidal nurses are deadly caregivers.",
+        "(b) Deadly caregivers take care of terminal patients.",
+        "(c) Healthcare systems struggle due to the lack of deadly caregivers.",
+        "(d) Morphine overdoses are deadly caregivers."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 4
+    },
+    {
+      "inputs": "Concept: moving definition. Question: Which of the following sentences best characterizes moving definitions?\n option: Moving definitions can be very fast.\n option: Moving definitions define movements.\n option: Moving definitions can be expensive.\n option: Moving definitions change often.\nAnswer:\n(a) Moving definitions change often.\n(b) Moving definitions can be very fast.\n(c) Moving definitions define movements.\n(d) Moving definitions can be expensive.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Moving definitions change often.",
+        "(b) Moving definitions can be very fast.",
+        "(c) Moving definitions define movements.",
+        "(d) Moving definitions can be expensive."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 5
+    },
+    {
+      "inputs": "Concept: mild spice. Question: Which of the following sentences best characterizes mild spices?\n option: Mild spices are fine for delicate stomachs.\n option: Mild spices are not for the faint of heart.\n option: Mexican food is known for its mild spices.\n option: Mild spices are lukewarm.\nAnswer:\n(a) Mild spices are fine for delicate stomachs.\n(b) Mild spices are lukewarm.\n(c) Mexican food is known for its mild spices.\n(d) Mild spices are not for the faint of heart.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Mild spices are fine for delicate stomachs.",
+        "(b) Mild spices are lukewarm.",
+        "(c) Mexican food is known for its mild spices.",
+        "(d) Mild spices are not for the faint of heart."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 6
+    },
+    {
+      "inputs": "Concept: confident doubter. Question: Which of the following sentences best characterizes confident doubters?\n option: Confident doubters are easy to persuade.\n option: Confident doubters are secure in their mistrust.\n option: Confident doubters are debatable.\n option: Confident doubters are good confidants.\nAnswer:\n(a) Confident doubters are secure in their mistrust.\n(b) Confident doubters are easy to persuade.\n(c) Confident doubters are good confidants.\n(d) Confident doubters are debatable.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Confident doubters are secure in their mistrust.",
+        "(b) Confident doubters are easy to persuade.",
+        "(c) Confident doubters are good confidants.",
+        "(d) Confident doubters are debatable."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 7
+    },
+    {
+      "inputs": "Concept: Sinless sinner. Question: Which of the following sentences best characterizes sinless sinners?\n option: Sinless sinners are letters of the alphabet.\n option: Sinless sinners have no clue.\n option: No one can be a sinless sinner.\n option: Sinless sinners can be venial or capital.\nAnswer:\n(a) No one can be a sinless sinner.\n(b) Sinless sinners have no clue.\n(c) Sinless sinners are letters of the alphabet.\n(d) Sinless sinners can be venial or capital.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) No one can be a sinless sinner.",
+        "(b) Sinless sinners have no clue.",
+        "(c) Sinless sinners are letters of the alphabet.",
+        "(d) Sinless sinners can be venial or capital."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 8
+    },
+    {
+      "inputs": "Concept: Resounding silence. Question: Which of the following sentences best characterizes resounding silences?\n option: Resounding silences are literally deafening.\n option: Resounding silences are quiet.\n option: Resounding silences are a bad omen.\n option: Resounding silences are produced by musical instruments.\nAnswer:\n(a) Resounding silences are quiet.\n(b) Resounding silences are literally deafening.\n(c) Resounding silences are produced by musical instruments.\n(d) Resounding silences are a bad omen.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Resounding silences are quiet.",
+        "(b) Resounding silences are literally deafening.",
+        "(c) Resounding silences are produced by musical instruments.",
+        "(d) Resounding silences are a bad omen."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 9
+    },
+    {
+      "inputs": "Concept: good pain. Question: Which of the following sentences best characterizes good pain?\n option: Good pain is always bad.\n option: Medieval torture elicits good pain.\n option: Getting punched by an angel elicits good pain.\n option: Massage and exercise elicit good pain.\nAnswer:\n(a) Massage and exercise elicit good pain.\n(b) Good pain is always bad.\n(c) Medieval torture elicits good pain.\n(d) Getting punched by an angel elicits good pain.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Massage and exercise elicit good pain.",
+        "(b) Good pain is always bad.",
+        "(c) Medieval torture elicits good pain.",
+        "(d) Getting punched by an angel elicits good pain."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 10
+    },
+    {
+      "inputs": "Concept: pointless point. Question: Which of the following sentences best characterizes pointless points?\n option: Pointless points are not pointy enough.\n option: Pointless points win basketball matches.\n option: Pointless points are important for punctuation.\n option: Pointless points make bad arguments.\nAnswer:\n(a) Pointless points make bad arguments.\n(b) Pointless points are not pointy enough.\n(c) Pointless points are important for punctuation.\n(d) Pointless points win basketball matches.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Pointless points make bad arguments.",
+        "(b) Pointless points are not pointy enough.",
+        "(c) Pointless points are important for punctuation.",
+        "(d) Pointless points win basketball matches."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 11
+    },
+    {
+      "inputs": "Concept: Pretty ugly. Question: Which of the following sentences best characterizes pretty ugly people?\n option: Pretty ugly people are homely.\n option: Pretty ugly people are pretty.\n option: Pretty ugly people are dangerous.\n option: Pretty ugly people are morally corrupt.\nAnswer:\n(a) Pretty ugly people are homely.\n(b) Pretty ugly people are pretty.\n(c) Pretty ugly people are dangerous.\n(d) Pretty ugly people are morally corrupt.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Pretty ugly people are homely.",
+        "(b) Pretty ugly people are pretty.",
+        "(c) Pretty ugly people are dangerous.",
+        "(d) Pretty ugly people are morally corrupt."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 12
+    },
+    {
+      "inputs": "Concept: short pants. Question: Which of the following sentences best characterizes short pants?\n option: Short pants cannot reach high.\n option: Short pants have empty pockets.\n option: Short pants are better made.\n option: Short pants expose knees.\nAnswer:\n(a) Short pants expose knees.\n(b) Short pants cannot reach high.\n(c) Short pants have empty pockets.\n(d) Short pants are better made.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Short pants expose knees.",
+        "(b) Short pants cannot reach high.",
+        "(c) Short pants have empty pockets.",
+        "(d) Short pants are better made."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 0
+    },
+    {
+      "inputs": "Concept: small couches. Question: Which of the following sentences best characterizes small couches?\n option: Small couches are smaller than chairs.\n option: Small couches seat only two people.\n option: Small couches are perfect for big families.\n option: Small couches fit in an envelope.\nAnswer:\n(a) Small couches seat only two people.\n(b) Small couches fit in an envelope.\n(c) Small couches are perfect for big families.\n(d) Small couches are smaller than chairs.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Small couches seat only two people.",
+        "(b) Small couches fit in an envelope.",
+        "(c) Small couches are perfect for big families.",
+        "(d) Small couches are smaller than chairs."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 1
+    },
+    {
+      "inputs": "Concept: ancient saws. Question: Which of the following sentences best characterizes ancient saws?\n option: Ancient saws are rusty.\n option: Ancient saws are wise.\n option: Ancient saws are precious.\n option: Ancient saws are sharp.\nAnswer:\n(a) Ancient saws are rusty.\n(b) Ancient saws are sharp.\n(c) Ancient saws are precious.\n(d) Ancient saws are wise.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Ancient saws are rusty.",
+        "(b) Ancient saws are sharp.",
+        "(c) Ancient saws are precious.",
+        "(d) Ancient saws are wise."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 2
+    },
+    {
+      "inputs": "Concept: crowded funerals. Question: Which of the following sentences best characterizes crowded funerals?\n option: Crowded funerals are held at mass graves.\n option: Very popular people have crowded funerals.\n option: Crowded funerals are good places to go shopping.\n option: Crowded funerals describe a crowd of people burying each other.\nAnswer:\n(a) Very popular people have crowded funerals.\n(b) Crowded funerals are held at mass graves.\n(c) Crowded funerals are good places to go shopping.\n(d) Crowded funerals describe a crowd of people burying each other.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Very popular people have crowded funerals.",
+        "(b) Crowded funerals are held at mass graves.",
+        "(c) Crowded funerals are good places to go shopping.",
+        "(d) Crowded funerals describe a crowd of people burying each other."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 3
+    },
+    {
+      "inputs": "concept: loony bin. Question: Which of the following sentences best characterizes loony bins?\n option: Loony bins are bird houses.\n option: Loony bins are the same size as garbage bins.\n option: Loony bin is Canadian slang for piggy bank.\n option: Loony bins are residences for people with serious mental health issues.\nAnswer:\n(a) Loony bins are residences for people with serious mental health issues.\n(b) Loony bins are the same size as garbage bins.\n(c) Loony bin is Canadian slang for piggy bank.\n(d) Loony bins are bird houses.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Loony bins are residences for people with serious mental health issues.",
+        "(b) Loony bins are the same size as garbage bins.",
+        "(c) Loony bin is Canadian slang for piggy bank.",
+        "(d) Loony bins are bird houses."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 4
+    },
+    {
+      "inputs": "concept: folding companies. Question: Which of the following sentences best characterizes folding companies?\n option: Folding companies contribute to unemployment.\n option: Folding companies produce folds.\n option: Folding companies can fit in small spaces.\n option: Folding companies manufacture origami.\nAnswer:\n(a) Folding companies contribute to unemployment.\n(b) Folding companies can fit in small spaces.\n(c) Folding companies manufacture origami.\n(d) Folding companies produce folds.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Folding companies contribute to unemployment.",
+        "(b) Folding companies can fit in small spaces.",
+        "(c) Folding companies manufacture origami.",
+        "(d) Folding companies produce folds."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 5
+    },
+    {
+      "inputs": "Concept: wooden deer. Question: Which of the following sentences best characterizes wooden deer?\n option: Wooden deer do not run away from hunters.\n option: Wooden deer panic when caught in the headlights of an oncoming car.\n option: Wooden deer are larger than other deer species.\n option: Wooden deer live in the forests of North America.\nAnswer:\n(a) Wooden deer do not run away from hunters.\n(b) Wooden deer are larger than other deer species.\n(c) Wooden deer live in the forests of North America.\n(d) Wooden deer panic when caught in the headlights of an oncoming car.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Wooden deer do not run away from hunters.",
+        "(b) Wooden deer are larger than other deer species.",
+        "(c) Wooden deer live in the forests of North America.",
+        "(d) Wooden deer panic when caught in the headlights of an oncoming car."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 6
+    },
+    {
+      "inputs": "Concept: Russian novels. Question: Which of the following sentences best characterizes Russian novels?\n option: Russian novels are communist.\n option: Russian novels are written in Russian.\n option: Russian novels are cold in the winter.\n option: Russian novels are unfinished.\nAnswer:\n(a) Russian novels are written in Russian.\n(b) Russian novels are communist.\n(c) Russian novels are cold in the winter.\n(d) Russian novels are unfinished.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Russian novels are written in Russian.",
+        "(b) Russian novels are communist.",
+        "(c) Russian novels are cold in the winter.",
+        "(d) Russian novels are unfinished."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 7
+    },
+    {
+      "inputs": "Concept: uncaged canaries. Question: Which of the following sentences best characterizes uncaged canaries?\n option: Uncaged canaries can freely express their political opinions.\n option: Uncaged canaries live in South America.\n option: Uncaged canaries are ten times as powerful.\n option: Uncaged canaries grow more wings.\nAnswer:\n(a) Uncaged canaries live in South America.\n(b) Uncaged canaries are ten times as powerful.\n(c) Uncaged canaries can freely express their political opinions.\n(d) Uncaged canaries grow more wings.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Uncaged canaries live in South America.",
+        "(b) Uncaged canaries are ten times as powerful.",
+        "(c) Uncaged canaries can freely express their political opinions.",
+        "(d) Uncaged canaries grow more wings."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 8
+    },
+    {
+      "inputs": "Concept: cheating cyclists. Question: Which of the following sentences best characterizes cheating cyclists?\n option: Cheating cyclists have extramarital affairs.\n option: Cheating cyclists use performance-enhancing drugs.\n option: Cheating cyclists carry their bicycles.\n option: Cheating cyclists use loaded dice.\nAnswer:\n(a) Cheating cyclists use performance-enhancing drugs.\n(b) Cheating cyclists use loaded dice.\n(c) Cheating cyclists have extramarital affairs.\n(d) Cheating cyclists carry their bicycles.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Cheating cyclists use performance-enhancing drugs.",
+        "(b) Cheating cyclists use loaded dice.",
+        "(c) Cheating cyclists have extramarital affairs.",
+        "(d) Cheating cyclists carry their bicycles."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 9
+    },
+    {
+      "inputs": "Concept: free speech. Question: Which of the following sentences best characterizes free speech?\n option: Free speech is available with a coupon.\n option: People have more free speech on holiday.\n option: An empty seat is free speech.\n option: Free speech is the right to speak your mind.\nAnswer:\n(a) Free speech is the right to speak your mind.\n(b) An empty seat is free speech.\n(c) Free speech is available with a coupon.\n(d) People have more free speech on holiday.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Free speech is the right to speak your mind.",
+        "(b) An empty seat is free speech.",
+        "(c) Free speech is available with a coupon.",
+        "(d) People have more free speech on holiday."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 10
+    },
+    {
+      "inputs": "Concept: standing desks. Question: Which of the following sentences best characterizes standing desks?\n option: Standing desks are bipedal.\n option: Standing desks are tall enough that small children can walk underneath them.\n option: Standing desks are best used with standing chairs.\n option: Standing desks are for unusually tall people.\nAnswer:\n(a) Standing desks are tall enough that small children can walk underneath them.\n(b) Standing desks are best used with standing chairs.\n(c) Standing desks are bipedal.\n(d) Standing desks are for unusually tall people.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Standing desks are tall enough that small children can walk underneath them.",
+        "(b) Standing desks are best used with standing chairs.",
+        "(c) Standing desks are bipedal.",
+        "(d) Standing desks are for unusually tall people."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 11
+    },
+    {
+      "inputs": "Concept: American cheese. Question: Which of the following sentences best characterizes American cheese?\n option: American cheese is made from the milk of Americans.\n option: American cheese was discovered by Columbus.\n option: American cheese is a kind of apple pie.\n option: American cheese melts very easily.\nAnswer:\n(a) American cheese melts very easily.\n(b) American cheese is a kind of apple pie.\n(c) American cheese was discovered by Columbus.\n(d) American cheese is made from the milk of Americans.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) American cheese melts very easily.",
+        "(b) American cheese is a kind of apple pie.",
+        "(c) American cheese was discovered by Columbus.",
+        "(d) American cheese is made from the milk of Americans."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 12
+    },
+    {
+      "inputs": "Concept: angry bosses. Question: Which of the following sentences best characterizes angry bosses?\n option: Angry bosses is a fun game.\n option: Angry bosses sting employees.\n option: Angry bosses are itchy.\n option: Angry bosses reprimand employees.\nAnswer:\n(a) Angry bosses reprimand employees.\n(b) Angry bosses are itchy.\n(c) Angry bosses sting employees.\n(d) Angry bosses is a fun game.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Angry bosses reprimand employees.",
+        "(b) Angry bosses are itchy.",
+        "(c) Angry bosses sting employees.",
+        "(d) Angry bosses is a fun game."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 13
+    },
+    {
+      "inputs": "Concept: empty stores. Question: Which of the following sentences best characterizes empty stores?\n option: Empty stores are light.\n option: Empty stores make money.\n option: Empty stores are crowded.\n option: Empty stores lose money.\nAnswer:\n(a) Empty stores lose money.\n(b) Empty stores make money.\n(c) Empty stores are crowded.\n(d) Empty stores are light.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Empty stores lose money.",
+        "(b) Empty stores make money.",
+        "(c) Empty stores are crowded.",
+        "(d) Empty stores are light."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 14
+    },
+    {
+      "inputs": "Concept: hissing tires. Question: Which of the following sentences best characterizes hissing tires?\n option: Hissing tires are to be expected in warm weather.\n option: Hissing tires disapprove of your driving.\n option: Hissing tires are designed by sound engineers.\n option: Hissing tires are unsafe for driving.\nAnswer:\n(a) Hissing tires are unsafe for driving.\n(b) Hissing tires disapprove of your driving.\n(c) Hissing tires are designed by sound engineers.\n(d) Hissing tires are to be expected in warm weather.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Hissing tires are unsafe for driving.",
+        "(b) Hissing tires disapprove of your driving.",
+        "(c) Hissing tires are designed by sound engineers.",
+        "(d) Hissing tires are to be expected in warm weather."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 15
+    },
+    {
+      "inputs": "Concept: message threads. Question: Which of the following sentences best characterizes message threads?\n option: Message threads can be tied into knots.\n option: Message threads should be held between two fingers.\n option: Message threads are useful for sewing.\n option: Message threads contain multiple messages produced in sequence.\nAnswer:\n(a) Message threads contain multiple messages produced in sequence.\n(b) Message threads should be held between two fingers.\n(c) Message threads are useful for sewing.\n(d) Message threads can be tied into knots.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Message threads contain multiple messages produced in sequence.",
+        "(b) Message threads should be held between two fingers.",
+        "(c) Message threads are useful for sewing.",
+        "(d) Message threads can be tied into knots."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 16
+    },
+    {
+      "inputs": "concept: bar stool. Question: Which of the following sentences best characterizes bar stools?\n option: Bar stools are common in ballet classes.\n option: Bar stools have long legs.\n option: Bar stools are bowel movements in pubs.\n option: Bar stools are stools that block an entrance.\nAnswer:\n(a) Bar stools have long legs.\n(b) Bar stools are common in ballet classes.\n(c) Bar stools are stools that block an entrance.\n(d) Bar stools are bowel movements in pubs.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Bar stools have long legs.",
+        "(b) Bar stools are common in ballet classes.",
+        "(c) Bar stools are stools that block an entrance.",
+        "(d) Bar stools are bowel movements in pubs."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 17
+    },
+    {
+      "inputs": "Concept: dirty bowls. Question: Which of the following sentences best characterizes dirty bowls?\n option: Dirty bowls are delicious.\n option: Dirty bowls are sticky.\n option: Dirty bowls are classy.\n option: Dirty bowls are rusty.\nAnswer:\n(a) Dirty bowls are sticky.\n(b) Dirty bowls are rusty.\n(c) Dirty bowls are delicious.\n(d) Dirty bowls are classy.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Dirty bowls are sticky.",
+        "(b) Dirty bowls are rusty.",
+        "(c) Dirty bowls are delicious.",
+        "(d) Dirty bowls are classy."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 18
+    },
+    {
+      "inputs": "Concept: burning questions. Question: Which of the following sentences best characterizes burning questions?\n option: Burning questions are multiple choice.\n option: Sunscreen can prevent burning questions.\n option: Burning questions are blazing hot.\n option: Burning questions are urgent.\nAnswer:\n(a) Burning questions are urgent.\n(b) Burning questions are blazing hot.\n(c) Sunscreen can prevent burning questions.\n(d) Burning questions are multiple choice.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Burning questions are urgent.",
+        "(b) Burning questions are blazing hot.",
+        "(c) Sunscreen can prevent burning questions.",
+        "(d) Burning questions are multiple choice."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 19
+    },
+    {
+      "inputs": "Concept: nuclear plants. Question: Which of the following sentences best characterizes nuclear plants?\n option: Nuclear plants have a man, woman and child.\n option: Nuclear plants use uranium to make electricity.\n option: Nuclear plants are in every biological cell.\n option: Nuclear plants need a lot of fertilizer.\nAnswer:\n(a) Nuclear plants use uranium to make electricity.\n(b) Nuclear plants have a man, woman and child.\n(c) Nuclear plants are in every biological cell.\n(d) Nuclear plants need a lot of fertilizer.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Nuclear plants use uranium to make electricity.",
+        "(b) Nuclear plants have a man, woman and child.",
+        "(c) Nuclear plants are in every biological cell.",
+        "(d) Nuclear plants need a lot of fertilizer."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 20
+    },
+    {
+      "inputs": "Concept: tumbling gymnasts. Question: Which of the following sentences best characterizes tumbling gymnasts?\n option: Tumbling gymnasts are typically clumsy\n option: Tumbling gymnasts work best on a warm cycle\n option: Tumbling gymnasts are likely to have tripped over something.\n option: Tumbling gymnasts require plenty of floor space\nAnswer:\n(a) Tumbling gymnasts require plenty of floor space\n(b) Tumbling gymnasts are likely to have tripped over something.\n(c) Tumbling gymnasts are typically clumsy\n(d) Tumbling gymnasts work best on a warm cycle",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Tumbling gymnasts require plenty of floor space",
+        "(b) Tumbling gymnasts are likely to have tripped over something.",
+        "(c) Tumbling gymnasts are typically clumsy",
+        "(d) Tumbling gymnasts work best on a warm cycle"
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 21
+    },
+    {
+      "inputs": "Concept: weighted dice. Question: Which of the following sentences best characterizes weighted dice?\n option: Weighted dice are too heavy for children to lift.\n option: Weighted dice bounce less than unweighted dice.\n option: Weighted dice are good for building muscle.\n option: Weighted dice are used by dishonest players.\nAnswer:\n(a) Weighted dice are used by dishonest players.\n(b) Weighted dice are too heavy for children to lift.\n(c) Weighted dice bounce less than unweighted dice.\n(d) Weighted dice are good for building muscle.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Weighted dice are used by dishonest players.",
+        "(b) Weighted dice are too heavy for children to lift.",
+        "(c) Weighted dice bounce less than unweighted dice.",
+        "(d) Weighted dice are good for building muscle."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 22
+    },
+    {
+      "inputs": "Concept: old whiteboards. Question: Which of the following sentences best characterizes old whiteboards?\n option: Old whiteboards are ridden with disease.\n option: Old whiteboards have marks on them that can no longer be erased.\n option: Old whiteboards are for retirement homes.\n option: Old whiteboards forget everything.\nAnswer:\n(a) Old whiteboards have marks on them that can no longer be erased.\n(b) Old whiteboards are for retirement homes.\n(c) Old whiteboards are ridden with disease.\n(d) Old whiteboards forget everything.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Old whiteboards have marks on them that can no longer be erased.",
+        "(b) Old whiteboards are for retirement homes.",
+        "(c) Old whiteboards are ridden with disease.",
+        "(d) Old whiteboards forget everything."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 23
+    },
+    {
+      "inputs": "Concept: contagious laughter. Question: Which of the following sentences best characterizes contagious laughter?\n option: Contagious laughter makes you sneeze.\n option: There is a vaccine for contagious laughter.\n option: Contagious laughter can cause permanent damage.\n option: Shared jokes cause contagious laughter.\nAnswer:\n(a) Shared jokes cause contagious laughter.\n(b) Contagious laughter makes you sneeze.\n(c) Contagious laughter can cause permanent damage.\n(d) There is a vaccine for contagious laughter.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Shared jokes cause contagious laughter.",
+        "(b) Contagious laughter makes you sneeze.",
+        "(c) Contagious laughter can cause permanent damage.",
+        "(d) There is a vaccine for contagious laughter."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 24
+    },
+    {
+      "inputs": "Concept: blind ostriches. Question: Which of the following sentences best characterizes blind ostriches?\n option: Blind ostriches are vulnerable.\n option: Blind ostriches use white canes.\n option: Blind ostriches are strong.\n option: Blind ostriches block the light.\nAnswer:\n(a) Blind ostriches are vulnerable.\n(b) Blind ostriches block the light.\n(c) Blind ostriches are strong.\n(d) Blind ostriches use white canes.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Blind ostriches are vulnerable.",
+        "(b) Blind ostriches block the light.",
+        "(c) Blind ostriches are strong.",
+        "(d) Blind ostriches use white canes."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 25
+    },
+    {
+      "inputs": "Concept: magic mushrooms. Question: Which of the following sentences best characterizes magic mushrooms?\n option: Magic mushrooms exist only in fairy tales.\n option: Magic mushrooms induce hallucinations.\n option: Magic mushrooms are often cooked in stews.\n option: Magic mushrooms give superpowers.\nAnswer:\n(a) Magic mushrooms induce hallucinations.\n(b) Magic mushrooms exist only in fairy tales.\n(c) Magic mushrooms are often cooked in stews.\n(d) Magic mushrooms give superpowers.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Magic mushrooms induce hallucinations.",
+        "(b) Magic mushrooms exist only in fairy tales.",
+        "(c) Magic mushrooms are often cooked in stews.",
+        "(d) Magic mushrooms give superpowers."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 26
+    },
+    {
+      "inputs": "Concept: drained pools. Question: Which of the following sentences best characterizes drained pools?\n option: Drained pools are fun to dive into, headfirst.\n option: Drained pools cool you off on a hot day.\n option: Drained pools are dangerous, if you can't swim.\n option: Drained pools can be used for skateboarding.\nAnswer:\n(a) Drained pools can be used for skateboarding.\n(b) Drained pools cool you off on a hot day.\n(c) Drained pools are dangerous, if you can't swim.\n(d) Drained pools are fun to dive into, headfirst.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Drained pools can be used for skateboarding.",
+        "(b) Drained pools cool you off on a hot day.",
+        "(c) Drained pools are dangerous, if you can't swim.",
+        "(d) Drained pools are fun to dive into, headfirst."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 27
+    },
+    {
+      "inputs": "Concept: casual shirts. Question: Which of the following sentences best characterizes casual shirts?\n option: Casual shirts do not want relationships.\n option: Casual shirts use a lot of swear words.\n option: Casual shirts are pulled over your head.\n option: Casual shirts should be worn at formal dinner parties.\nAnswer:\n(a) Casual shirts are pulled over your head.\n(b) Casual shirts do not want relationships.\n(c) Casual shirts use a lot of swear words.\n(d) Casual shirts should be worn at formal dinner parties.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Casual shirts are pulled over your head.",
+        "(b) Casual shirts do not want relationships.",
+        "(c) Casual shirts use a lot of swear words.",
+        "(d) Casual shirts should be worn at formal dinner parties."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 28
+    },
+    {
+      "inputs": "Concept: smelly trucks. Question: Which of the following sentences best characterizes smelly trucks?\n option: Smelly trucks are painted red.\n option: Smelly trucks emit lots of black smoke.\n option: Smelly trucks are lightweight.\n option: Smelly trucks are very efficient.\nAnswer:\n(a) Smelly trucks emit lots of black smoke.\n(b) Smelly trucks are very efficient.\n(c) Smelly trucks are lightweight.\n(d) Smelly trucks are painted red.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Smelly trucks emit lots of black smoke.",
+        "(b) Smelly trucks are very efficient.",
+        "(c) Smelly trucks are lightweight.",
+        "(d) Smelly trucks are painted red."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 29
+    },
+    {
+      "inputs": "Concept: hot people. Question: Which of the following sentences best characterizes hot people?\n option: Hot people are on fire.\n option: Hot people are stolen property.\n option: Hot people are attractive.\n option: Hot people are spicy.\nAnswer:\n(a) Hot people are attractive.\n(b) Hot people are on fire.\n(c) Hot people are stolen property.\n(d) Hot people are spicy.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Hot people are attractive.",
+        "(b) Hot people are on fire.",
+        "(c) Hot people are stolen property.",
+        "(d) Hot people are spicy."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 30
+    },
+    {
+      "inputs": "concept: party politics. Question: Which of the following sentences best characterizes party politics?\n option: Party politics are where politicians let loose.\n option: Party politics have hors d'oeuvres and decorations.\n option: Party politics are votes about celebrations.\n option: Party politics concern leadership races and policy.\nAnswer:\n(a) Party politics concern leadership races and policy.\n(b) Party politics have hors d'oeuvres and decorations.\n(c) Party politics are votes about celebrations.\n(d) Party politics are where politicians let loose.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Party politics concern leadership races and policy.",
+        "(b) Party politics have hors d'oeuvres and decorations.",
+        "(c) Party politics are votes about celebrations.",
+        "(d) Party politics are where politicians let loose."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 31
+    },
+    {
+      "inputs": "Concept: magic bean. Question: Which of the following sentences best characterizes magic beans?\n option: Magic beans are vegetables for TV magicians.\n option: Magic beans make the best coffee.\n option: Magic beans are candy.\n option: Magic beans grow into plants with amazing properties.\nAnswer:\n(a) Magic beans grow into plants with amazing properties.\n(b) Magic beans are candy.\n(c) Magic beans are vegetables for TV magicians.\n(d) Magic beans make the best coffee.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Magic beans grow into plants with amazing properties.",
+        "(b) Magic beans are candy.",
+        "(c) Magic beans are vegetables for TV magicians.",
+        "(d) Magic beans make the best coffee."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 0
+    },
+    {
+      "inputs": "Concept: mirrored world. Question: Which of the following sentences best characterizes mirrored world?\n option: In mirrored world, mirrors do not exist.\n option: In mirrored world, right and left are reversed.\n option: In mirrored world, mirrors are very expensive.\n option: In mirrored world, people like to look at themselves in mirrors.\nAnswer:\n(a) In mirrored world, right and left are reversed.\n(b) In mirrored world, people like to look at themselves in mirrors.\n(c) In mirrored world, mirrors do not exist.\n(d) In mirrored world, mirrors are very expensive.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) In mirrored world, right and left are reversed.",
+        "(b) In mirrored world, people like to look at themselves in mirrors.",
+        "(c) In mirrored world, mirrors do not exist.",
+        "(d) In mirrored world, mirrors are very expensive."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 1
+    },
+    {
+      "inputs": "Concept: Wicked witches. Question: Which of the following sentences best characterizes wicked witches?\n option: Wicked witches eat all the sugar.\n option: Wicked witches wear white gowns.\n option: Wicked witches are skateboarders with magical powers.\n option: Wicked witches poison princesses.\nAnswer:\n(a) Wicked witches poison princesses.\n(b) Wicked witches wear white gowns.\n(c) Wicked witches are skateboarders with magical powers.\n(d) Wicked witches eat all the sugar.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Wicked witches poison princesses.",
+        "(b) Wicked witches wear white gowns.",
+        "(c) Wicked witches are skateboarders with magical powers.",
+        "(d) Wicked witches eat all the sugar."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 2
+    },
+    {
+      "inputs": "Concept: boulder-sized diamond. Question: Which of the following sentences best characterizes boulder-sized diamonds?\n option: Boulder-sized diamonds are diamond-shaped rocks.\n option: Boulder-sized diamonds would be extremely valuable.\n option: Boulder-sized diamonds are desirable in engagement rings.\n option: Boulder-sized diamonds are found on ski hills.\nAnswer:\n(a) Boulder-sized diamonds would be extremely valuable.\n(b) Boulder-sized diamonds are desirable in engagement rings.\n(c) Boulder-sized diamonds are diamond-shaped rocks.\n(d) Boulder-sized diamonds are found on ski hills.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Boulder-sized diamonds would be extremely valuable.",
+        "(b) Boulder-sized diamonds are desirable in engagement rings.",
+        "(c) Boulder-sized diamonds are diamond-shaped rocks.",
+        "(d) Boulder-sized diamonds are found on ski hills."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 3
+    },
+    {
+      "inputs": "Concept: invisible man. Question: Which of the following sentences best characterizes invisible men?\n option: Invisible men are ugly.\n option: Invisible men have poor eyesight.\n option: Invisible men are snappy dressers.\n option: Invisible men can sneak up on you.\nAnswer:\n(a) Invisible men can sneak up on you.\n(b) Invisible men are ugly.\n(c) Invisible men have poor eyesight.\n(d) Invisible men are snappy dressers.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Invisible men can sneak up on you.",
+        "(b) Invisible men are ugly.",
+        "(c) Invisible men have poor eyesight.",
+        "(d) Invisible men are snappy dressers."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 4
+    },
+    {
+      "inputs": "Concept: yes-means-no world. Question: Which of the following sentences best characterizes yes-means-no world?\n option: In yes-means-no world, kids get to stay up late.\n option: In yes-means-no world, you agree by saying no.\n option: In yes-means-no world, everything is false.\n option: In yes-means-no world, there are no contradictions.\nAnswer:\n(a) In yes-means-no world, you agree by saying no.\n(b) In yes-means-no world, there are no contradictions.\n(c) In yes-means-no world, everything is false.\n(d) In yes-means-no world, kids get to stay up late.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) In yes-means-no world, you agree by saying no.",
+        "(b) In yes-means-no world, there are no contradictions.",
+        "(c) In yes-means-no world, everything is false.",
+        "(d) In yes-means-no world, kids get to stay up late."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 5
+    },
+    {
+      "inputs": "Concept: flat world. Question: Which of the following sentences best characterizes flat world?\n option: Flat world is a great tourist destination.\n option: Only flatworms live in flat world.\n option: Conspiracy theorists live in flat world.\n option: In flat world, everything is 2-dimensional.\nAnswer:\n(a) In flat world, everything is 2-dimensional.\n(b) Only flatworms live in flat world.\n(c) Flat world is a great tourist destination.\n(d) Conspiracy theorists live in flat world.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) In flat world, everything is 2-dimensional.",
+        "(b) Only flatworms live in flat world.",
+        "(c) Flat world is a great tourist destination.",
+        "(d) Conspiracy theorists live in flat world."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 6
+    },
+    {
+      "inputs": "Concept: Upside-down world. Question: Which of the following sentences best characterizes upside-down world?\n option: In upside-down world, dropped objects fall down.\n option: Upside-down world is made with pineapple.\n option: Diana Ross lives in upside-down world.\n option: In upside-down world, the floor is up and the ceiling is down.\nAnswer:\n(a) In upside-down world, the floor is up and the ceiling is down.\n(b) In upside-down world, dropped objects fall down.\n(c) Upside-down world is made with pineapple.\n(d) Diana Ross lives in upside-down world.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) In upside-down world, the floor is up and the ceiling is down.",
+        "(b) In upside-down world, dropped objects fall down.",
+        "(c) Upside-down world is made with pineapple.",
+        "(d) Diana Ross lives in upside-down world."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 7
+    },
+    {
+      "inputs": "Concept: man-bites-dog world. Question: Which of the following sentences best characterizes man-bites-dog world?\n option: In man-bites-dog world, men have sharp teeth and dogs are docile.\n option: Poodles love man-bites-dog world.\n option: In man-bites-dog world, men are friendly to dogs.\n option: In man-bites-dog world, newspapers thrive.\nAnswer:\n(a) In man-bites-dog world, men have sharp teeth and dogs are docile.\n(b) In man-bites-dog world, men are friendly to dogs.\n(c) In man-bites-dog world, newspapers thrive.\n(d) Poodles love man-bites-dog world.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) In man-bites-dog world, men have sharp teeth and dogs are docile.",
+        "(b) In man-bites-dog world, men are friendly to dogs.",
+        "(c) In man-bites-dog world, newspapers thrive.",
+        "(d) Poodles love man-bites-dog world."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 8
+    },
+    {
+      "inputs": "Concept: Impatient trees. Question: Which of the following sentences best characterizes impatient trees?\n option: Impatient trees prefer loamy soil.\n option: Impatient trees take a long time to bloom.\n option: Impatient trees are happy to wait.\n option: Impatient trees sag when you make them wait.\nAnswer:\n(a) Impatient trees sag when you make them wait.\n(b) Impatient trees are happy to wait.\n(c) Impatient trees prefer loamy soil.\n(d) Impatient trees take a long time to bloom.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Impatient trees sag when you make them wait.",
+        "(b) Impatient trees are happy to wait.",
+        "(c) Impatient trees prefer loamy soil.",
+        "(d) Impatient trees take a long time to bloom."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 9
+    },
+    {
+      "inputs": "The word 'ropgo' is an adjective for things that are made of ribbon. Question: Which of the following sentences best characterizes ropgo bows?\n option: Ropgo bows have branches.\n option: Ropgo bows show respect.\n option: Ropgo bows decorate gifts.\n option: Ropgo bows shoot arrows.\nAnswer:\n(a) Ropgo bows decorate gifts.\n(b) Ropgo bows have branches.\n(c) Ropgo bows show respect.\n(d) Ropgo bows shoot arrows.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Ropgo bows decorate gifts.",
+        "(b) Ropgo bows have branches.",
+        "(c) Ropgo bows show respect.",
+        "(d) Ropgo bows shoot arrows."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 0
+    },
+    {
+      "inputs": "The word 'suphe' is an adjective for things that are long and thin. Question: Which of the following sentences best characterizes suphe poles?\n option: Suphe poles are at opposite sides of a sphere.\n option: Suphe poles speak Polish.\n option: Flags hang on suphe poles.\n option: Suphe poles have positive or negative charge.\nAnswer:\n(a) Flags hang on suphe poles.\n(b) Suphe poles are at opposite sides of a sphere.\n(c) Suphe poles speak Polish.\n(d) Suphe poles have positive or negative charge.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Flags hang on suphe poles.",
+        "(b) Suphe poles are at opposite sides of a sphere.",
+        "(c) Suphe poles speak Polish.",
+        "(d) Suphe poles have positive or negative charge."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 1
+    },
+    {
+      "inputs": "The word 'muphe' is an adjective for things that are magnetic. Question: Which of the following sentences best characterizes muphe poles?\n option: Muphe poles eat cabbage rolls.\n option: Skiers use muphe poles.\n option: Muphe poles are very cold.\n option: Muphe poles have positive or negative charge.\nAnswer:\n(a) Muphe poles have positive or negative charge.\n(b) Skiers use muphe poles.\n(c) Muphe poles are very cold.\n(d) Muphe poles eat cabbage rolls.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Muphe poles have positive or negative charge.",
+        "(b) Skiers use muphe poles.",
+        "(c) Muphe poles are very cold.",
+        "(d) Muphe poles eat cabbage rolls."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 2
+    },
+    {
+      "inputs": "The word 'sopgo' is an adjective for things that are social customs. Question: Which of the following sentences best characterizes sopgo bows?\n option: Sopgo bows are expected when greeting royalty.\n option: Sopgo bows need to be strung.\n option: Birds build nests in sopgo bows.\n option: Sopgo bows are tied with knots.\nAnswer:\n(a) Sopgo bows are expected when greeting royalty.\n(b) Birds build nests in sopgo bows.\n(c) Sopgo bows are tied with knots.\n(d) Sopgo bows need to be strung.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Sopgo bows are expected when greeting royalty.",
+        "(b) Birds build nests in sopgo bows.",
+        "(c) Sopgo bows are tied with knots.",
+        "(d) Sopgo bows need to be strung."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 3
+    },
+    {
+      "inputs": "The word 'guphe' is an adjective for things that are from central Europe. Question: Which of the following sentences best characterizes guphe Poles?\n option: Guphe Poles are used for catching fish.\n option: The ozone layer is thinner at the guphe Poles.\n option: Batteries have guphe Poles.\n option: Most guphe Poles are Catholic.\nAnswer:\n(a) Most guphe Poles are Catholic.\n(b) Guphe Poles are used for catching fish.\n(c) The ozone layer is thinner at the guphe Poles.\n(d) Batteries have guphe Poles.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Most guphe Poles are Catholic.",
+        "(b) Guphe Poles are used for catching fish.",
+        "(c) The ozone layer is thinner at the guphe Poles.",
+        "(d) Batteries have guphe Poles."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 4
+    },
+    {
+      "inputs": "The word 'ulort' is an adjective for things that are underwear. Question: Which of the following sentences best characterizes ulort boxers?\n option: Ulort boxers lie on bathroom floors.\n option: Ulort boxers lie unopened.\n option: Ulort boxers lie in the sun.\n option: Ulort boxers lie to the media.\nAnswer:\n(a) Ulort boxers lie on bathroom floors.\n(b) Ulort boxers lie to the media.\n(c) Ulort boxers lie in the sun.\n(d) Ulort boxers lie unopened.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Ulort boxers lie on bathroom floors.",
+        "(b) Ulort boxers lie to the media.",
+        "(c) Ulort boxers lie in the sun.",
+        "(d) Ulort boxers lie unopened."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 5
+    },
+    {
+      "inputs": "The word 'wopgo' is an adjective for things that are weapons. Question: Which of the following sentences best characterizes wopgo bows?\n option: Wopgo bows are customary in Japan.\n option: Wopgo bows are used to play violin.\n option: Wopgo bows are aimed at targets.\n option: Wopgo bows are tied around ponytails.\nAnswer:\n(a) Wopgo bows are aimed at targets.\n(b) Wopgo bows are used to play violin.\n(c) Wopgo bows are tied around ponytails.\n(d) Wopgo bows are customary in Japan.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Wopgo bows are aimed at targets.",
+        "(b) Wopgo bows are used to play violin.",
+        "(c) Wopgo bows are tied around ponytails.",
+        "(d) Wopgo bows are customary in Japan."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 6
+    },
+    {
+      "inputs": "The word 'fogop' means frozen, and the word 'sluip' means food often eaten without cutlery. Question: Which of the following sentences best characterizes fogop sluips?\n option: Hamburgers are fogop sluips.\n option: You serve fogop sluips at formal meals.\n option: Fogop sluips are popular in winter.\n option: Ice cream is a fogop sluip.\nAnswer:\n(a) Ice cream is a fogop sluip.\n(b) You serve fogop sluips at formal meals.\n(c) Hamburgers are fogop sluips.\n(d) Fogop sluips are popular in winter.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Ice cream is a fogop sluip.",
+        "(b) You serve fogop sluips at formal meals.",
+        "(c) Hamburgers are fogop sluips.",
+        "(d) Fogop sluips are popular in winter."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 0
+    },
+    {
+      "inputs": "The word 'maxome' means a deep-seated habit, and the word 'tumtum' means something that a society finds objectionable. Question: Which of the following sentences best characterizes tumtum maxomes?\n option: Tumtum maxomes are all crimes.\n option: Tumtum maxomes do not like leaving the sofa.\n option: Many discriminatory behaviours are tumtum maxomes.\n option: Tumtum maxomes are very comfy.\nAnswer:\n(a) Many discriminatory behaviours are tumtum maxomes.\n(b) Tumtum maxomes are all crimes.\n(c) Tumtum maxomes are very comfy.\n(d) Tumtum maxomes do not like leaving the sofa.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Many discriminatory behaviours are tumtum maxomes.",
+        "(b) Tumtum maxomes are all crimes.",
+        "(c) Tumtum maxomes are very comfy.",
+        "(d) Tumtum maxomes do not like leaving the sofa."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 1
+    },
+    {
+      "inputs": "The word 'nonat' means an object that sprouts from the ground, and the word 'plinc' means a an object that has not been built by humans. Question: Which of the following sentences best characterizes plinc nonats?\n option: Plinc nonats are often inexperienced.\n option: Some plinc nonats have steel foundations.\n option: Daisies are plinc nonats.\n option: Saturn is a plinc nonat.\nAnswer:\n(a) Daisies are plinc nonats.\n(b) Some plinc nonats have steel foundations.\n(c) Saturn is a plinc nonat.\n(d) Plinc nonats are often inexperienced.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Daisies are plinc nonats.",
+        "(b) Some plinc nonats have steel foundations.",
+        "(c) Saturn is a plinc nonat.",
+        "(d) Plinc nonats are often inexperienced."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 2
+    },
+    {
+      "inputs": "The word 'pokt' means forests, and the word 'wolm' means wet. Question: Which of the following sentences best characterizes wolm pokts?\n option: Wolm pokts are outdoor showers.\n option: Wolm pokts can be dried with a towel.\n option: Rubber boots are good for walking in wolm pokts.\n option: Wolm pokts are refreshing to drink.\nAnswer:\n(a) Rubber boots are good for walking in wolm pokts.\n(b) Wolm pokts are refreshing to drink.\n(c) Wolm pokts are outdoor showers.\n(d) Wolm pokts can be dried with a towel.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Rubber boots are good for walking in wolm pokts.",
+        "(b) Wolm pokts are refreshing to drink.",
+        "(c) Wolm pokts are outdoor showers.",
+        "(d) Wolm pokts can be dried with a towel."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 3
+    },
+    {
+      "inputs": "The word 'uffish' means something that is tiring and boring, and the word 'tulgey' means something that is very time-consuming to do. Question: Which of the following sentences best characterizes uffish tulgeys?\n option: People love uffish tulgeys.\n option: Uffish tulgeys are great birthday gifts.\n option: AI systems will take care of most uffish tulgeys.\n option: The best boardgames are uffish tulgeys.\nAnswer:\n(a) AI systems will take care of most uffish tulgeys.\n(b) People love uffish tulgeys.\n(c) Uffish tulgeys are great birthday gifts.\n(d) The best boardgames are uffish tulgeys.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) AI systems will take care of most uffish tulgeys.",
+        "(b) People love uffish tulgeys.",
+        "(c) Uffish tulgeys are great birthday gifts.",
+        "(d) The best boardgames are uffish tulgeys."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 4
+    },
+    {
+      "inputs": "The word 'vorpal' means something that is difficult to express in words, and the word 'borogove' means a complicated feeling or emotion. Question: Which of the following sentences best characterizes vorpal borogoves?\n option: Psychotheraphy can help better understand vorpal borogoves.\n option: Vorpal borogoves make good subjects for water-cooler conversations.\n option: Novelists never care about vorpal borogoves.\n option: Vorpal borogoves are easy to express in equations.\nAnswer:\n(a) Psychotheraphy can help better understand vorpal borogoves.\n(b) Novelists never care about vorpal borogoves.\n(c) Vorpal borogoves are easy to express in equations.\n(d) Vorpal borogoves make good subjects for water-cooler conversations.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Psychotheraphy can help better understand vorpal borogoves.",
+        "(b) Novelists never care about vorpal borogoves.",
+        "(c) Vorpal borogoves are easy to express in equations.",
+        "(d) Vorpal borogoves make good subjects for water-cooler conversations."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 5
+    },
+    {
+      "inputs": "The word 'zazz' means eye glasses, and the word 'gogg' means strong. Question: Which of the following sentences best characterizes gogg zazzes?\n option: Gogg zazzes are bullet proof.\n option: Gogg zazzes are used by weightlifters.\n option: Coffee is served in gogg zazzes.\n option: Gogg zazzes are helpful when reading fine print.\nAnswer:\n(a) Gogg zazzes are helpful when reading fine print.\n(b) Gogg zazzes are used by weightlifters.\n(c) Coffee is served in gogg zazzes.\n(d) Gogg zazzes are bullet proof.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Gogg zazzes are helpful when reading fine print.",
+        "(b) Gogg zazzes are used by weightlifters.",
+        "(c) Coffee is served in gogg zazzes.",
+        "(d) Gogg zazzes are bullet proof."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 6
+    },
+    {
+      "inputs": "The word 'plitter' means an object that flies by flapping wings, and the word 'nith' means an object that has no feathers. Question: Which of the following sentences best characterizes plitter niths?\n option: Bats are plitter niths.\n option: Plitter niths are lighter than air.\n option: Aeroplanes are plitter niths.\n option: No insect is a plitter nith.\nAnswer:\n(a) Bats are plitter niths.\n(b) No insect is a plitter nith.\n(c) Plitter niths are lighter than air.\n(d) Aeroplanes are plitter niths.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Bats are plitter niths.",
+        "(b) No insect is a plitter nith.",
+        "(c) Plitter niths are lighter than air.",
+        "(d) Aeroplanes are plitter niths."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 7
+    },
+    {
+      "inputs": "The word 'ribo' means orange coloured, and the word 'egarl' means plants eaten by humans. Question: Which of the following sentences best characterizes ribo egarls?\n option: Ribo egarls are a member of the cactus family.\n option: Traffic cones are ribo egarls.\n option: Many ribo egarls are high in beta-carotene.\n option: Ribo egarls are eaten by redheads.\nAnswer:\n(a) Many ribo egarls are high in beta-carotene.\n(b) Ribo egarls are eaten by redheads.\n(c) Ribo egarls are a member of the cactus family.\n(d) Traffic cones are ribo egarls.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Many ribo egarls are high in beta-carotene.",
+        "(b) Ribo egarls are eaten by redheads.",
+        "(c) Ribo egarls are a member of the cactus family.",
+        "(d) Traffic cones are ribo egarls."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 8
+    },
+    {
+      "inputs": "The word 'klambo' means a combat sport, and the word 'drobb' means protective padding. Question: Which of the following sentences best characterizes klambo drobbs?\n option: Klambo drobbs are made of wood.\n option: Klambo drobbs are safety gear.\n option: Bets can be placed on klambo drobbs.\n option: Klambo drobbs are painful.\nAnswer:\n(a) Klambo drobbs are safety gear.\n(b) Klambo drobbs are painful.\n(c) Bets can be placed on klambo drobbs.\n(d) Klambo drobbs are made of wood.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Klambo drobbs are safety gear.",
+        "(b) Klambo drobbs are painful.",
+        "(c) Bets can be placed on klambo drobbs.",
+        "(d) Klambo drobbs are made of wood."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 9
+    },
+    {
+      "inputs": "The word 'ruft' means a heavy vehicle with 4 wheels, and the word 'harl' means solar powered. Question: Which of the following sentences best characterizes harl rufts?\n option: Harl rufts are environmentally friendly trucks.\n option: Harl rufts work well on cloudy days.\n option: Children play with harl rufts.\n option: Harl rufts are gas guzzlers.\nAnswer:\n(a) Harl rufts are environmentally friendly trucks.\n(b) Harl rufts are gas guzzlers.\n(c) Children play with harl rufts.\n(d) Harl rufts work well on cloudy days.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Harl rufts are environmentally friendly trucks.",
+        "(b) Harl rufts are gas guzzlers.",
+        "(c) Children play with harl rufts.",
+        "(d) Harl rufts work well on cloudy days."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 10
+    },
+    {
+      "inputs": "The word 'binne' means any animal that is furry and has four legs, and the word 'bam' means a simple sort of dwelling. Question: Which of the following sentences best characterizes binne bams?\n option: Binne bams are luxurious apartments.\n option: Binne bams are typically furnished with sofas and televisions.\n option: Binne bams are for pets.\n option: Binne bams are places where people live.\nAnswer:\n(a) Binne bams are for pets.\n(b) Binne bams are typically furnished with sofas and televisions.\n(c) Binne bams are luxurious apartments.\n(d) Binne bams are places where people live.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Binne bams are for pets.",
+        "(b) Binne bams are typically furnished with sofas and televisions.",
+        "(c) Binne bams are luxurious apartments.",
+        "(d) Binne bams are places where people live."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 11
+    },
+    {
+      "inputs": "The word 'lopso' is an adjective for people who cannot hear. Question: Which of the following sentences best characterizes lopso composers?\n option: Lopso composers listen to Mozart.\n option: Lopso composers only do blind auditions.\n option: Lopso composers have to imagine the sound of their music.\n option: Lopso composers make electronic dance music.\nAnswer:\n(a) Lopso composers have to imagine the sound of their music.\n(b) Lopso composers only do blind auditions.\n(c) Lopso composers make electronic dance music.\n(d) Lopso composers listen to Mozart.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Lopso composers have to imagine the sound of their music.",
+        "(b) Lopso composers only do blind auditions.",
+        "(c) Lopso composers make electronic dance music.",
+        "(d) Lopso composers listen to Mozart."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 0
+    },
+    {
+      "inputs": "The word ‘wajey’ is an adjective for things that glow. Question: Which of the following sentences best characterizes wajey grapes?\n option: Wajey grapes are full of worms.\n option: Wajey grapes have subtle hints of Muscat.\n option: Wajey grapes are easy to pick at night.\n option: Wajey grapes are the size of walnuts.\nAnswer:\n(a) Wajey grapes are easy to pick at night.\n(b) Wajey grapes are the size of walnuts.\n(c) Wajey grapes have subtle hints of Muscat.\n(d) Wajey grapes are full of worms.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Wajey grapes are easy to pick at night.",
+        "(b) Wajey grapes are the size of walnuts.",
+        "(c) Wajey grapes have subtle hints of Muscat.",
+        "(d) Wajey grapes are full of worms."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 1
+    },
+    {
+      "inputs": "The word 'parg' is an adjective for things that humans dislike. Question: Which of the following sentences best characterizes parg kittens?\n option: Parg kittens are normally adopted.\n option: Parg kittens dislike humans.\n option: Parg kittens are adorable little cats.\n option: Parg kittens are not cute.\nAnswer:\n(a) Parg kittens are not cute.\n(b) Parg kittens are adorable little cats.\n(c) Parg kittens dislike humans.\n(d) Parg kittens are normally adopted.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Parg kittens are not cute.",
+        "(b) Parg kittens are adorable little cats.",
+        "(c) Parg kittens dislike humans.",
+        "(d) Parg kittens are normally adopted."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 2
+    },
+    {
+      "inputs": "The word 'brillig' is an adjective for things that reflect very little light. Question: Which of the following sentences best characterizes brillig signboards?\n option: Brillig signboards are easy to see at night.\n option: Brillig signboards get very hot under direct sunlight.\n option: Brillig signboards are brightly coloured.\n option: Brillig signboards are very popular with advertisers.\nAnswer:\n(a) Brillig signboards get very hot under direct sunlight.\n(b) Brillig signboards are easy to see at night.\n(c) Brillig signboards are brightly coloured.\n(d) Brillig signboards are very popular with advertisers.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Brillig signboards get very hot under direct sunlight.",
+        "(b) Brillig signboards are easy to see at night.",
+        "(c) Brillig signboards are brightly coloured.",
+        "(d) Brillig signboards are very popular with advertisers."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 3
+    },
+    {
+      "inputs": "The word 'mimsy' is an adjective for things that are very fragile. Question: Which of the following sentences best characterizes mimsy bulls?\n option: Mimsy bulls are very popular in rodeos.\n option: Mimsy bulls make great pets.\n option: Mimsy bulls are typically very young or very ill.\n option: Mimsy bulls break into a thousand pieces when dropped.\nAnswer:\n(a) Mimsy bulls are typically very young or very ill.\n(b) Mimsy bulls are very popular in rodeos.\n(c) Mimsy bulls make great pets.\n(d) Mimsy bulls break into a thousand pieces when dropped.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Mimsy bulls are typically very young or very ill.",
+        "(b) Mimsy bulls are very popular in rodeos.",
+        "(c) Mimsy bulls make great pets.",
+        "(d) Mimsy bulls break into a thousand pieces when dropped."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 4
+    },
+    {
+      "inputs": "The word ‘diqua’ is an adjective for things that drop from the sky. Question: Which of the following sentences best characterizes diqua plates?\n option: Diqua plates are usually broken.\n option: Stylish homes use diqua plates.\n option: Diqua plates are delivered by stork.\n option: Pheasant is served on diqua plates.\nAnswer:\n(a) Diqua plates are usually broken.\n(b) Diqua plates are delivered by stork.\n(c) Stylish homes use diqua plates.\n(d) Pheasant is served on diqua plates.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Diqua plates are usually broken.",
+        "(b) Diqua plates are delivered by stork.",
+        "(c) Stylish homes use diqua plates.",
+        "(d) Pheasant is served on diqua plates."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 5
+    },
+    {
+      "inputs": "The word 'frabgous' is an adjective for things that are joyous and respectful. Question: Which of the following sentences best characterizes frabjous funerals?\n option: New Orleans is known for its frabgous funerals.\n option: People in frabgous funerals laugh at the deceased.\n option: Frabgous funerals are sad and boring.\n option: People go to frabgous funerals to club.\nAnswer:\n(a) New Orleans is known for its frabgous funerals.\n(b) Frabgous funerals are sad and boring.\n(c) People go to frabgous funerals to club.\n(d) People in frabgous funerals laugh at the deceased.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) New Orleans is known for its frabgous funerals.",
+        "(b) Frabgous funerals are sad and boring.",
+        "(c) People go to frabgous funerals to club.",
+        "(d) People in frabgous funerals laugh at the deceased."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 6
+    },
+    {
+      "inputs": "The word 'dax' is an adjective for things designed to have big holes in their surfaces. Question: Which of the following sentences best characterizes dax chairs?\n option: Dax chairs do not sell well.\n option: The value of dax chairs depends on investor confidence.\n option: Dax chairs are comfortable.\n option: Dax chairs have many responsibilities.\nAnswer:\n(a) Dax chairs do not sell well.\n(b) Dax chairs are comfortable.\n(c) The value of dax chairs depends on investor confidence.\n(d) Dax chairs have many responsibilities.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Dax chairs do not sell well.",
+        "(b) Dax chairs are comfortable.",
+        "(c) The value of dax chairs depends on investor confidence.",
+        "(d) Dax chairs have many responsibilities."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 7
+    },
+    {
+      "inputs": "The word 'vart' is an adjective for things that seek out bad smells. Question: Which of the following sentences best characterizes vart husbands?\n option: Vart husbands are very handsome.\n option: Vart husbands write bad cheques.\n option: Vart husbands always take out the garbage.\n option: Vart husbands cheat on their wives.\nAnswer:\n(a) Vart husbands always take out the garbage.\n(b) Vart husbands are very handsome.\n(c) Vart husbands write bad cheques.\n(d) Vart husbands cheat on their wives.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Vart husbands always take out the garbage.",
+        "(b) Vart husbands are very handsome.",
+        "(c) Vart husbands write bad cheques.",
+        "(d) Vart husbands cheat on their wives."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 8
+    },
+    {
+      "inputs": "The word 'borger' is an adjective for people who bite specific things for fun. Question: Which of the following sentences best characterizes dog borgers?\n option: Dog borgers are hungry.\n option: Dog borgers are tasty.\n option: Dog borgers are dogs that bite people.\n option: Dog borgers are people who bite dogs.\nAnswer:\n(a) Dog borgers are people who bite dogs.\n(b) Dog borgers are dogs that bite people.\n(c) Dog borgers are tasty.\n(d) Dog borgers are hungry.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Dog borgers are people who bite dogs.",
+        "(b) Dog borgers are dogs that bite people.",
+        "(c) Dog borgers are tasty.",
+        "(d) Dog borgers are hungry."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 9
+    }
+  ],
+  "validation": [
+    {
+      "inputs": "Concept: distasteful taste. Question: Which of the following sentences best characterizes distateful tastes?\n option: Distasteful tastes lack flavour.\n option: Distasteful tastes titillate your taste buds.\n option: Distasteful tastes are unflattering.\n option: Distasteful tastes make good dishes.\nAnswer:\n(a) Distasteful tastes are unflattering.\n(b) Distasteful tastes lack flavour.\n(c) Distasteful tastes make good dishes.\n(d) Distasteful tastes titillate your taste buds.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Distasteful tastes are unflattering.",
+        "(b) Distasteful tastes lack flavour.",
+        "(c) Distasteful tastes make good dishes.",
+        "(d) Distasteful tastes titillate your taste buds."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 0
+    },
+    {
+      "inputs": "Concept: Colourless red surfaces. Question: Which of the following sentences best characterizes colourless red surfaces?\n option: Colourless red surfaces are good tabletops for kitchens.\n option: Colourless red surfaces cannot exist.\n option: Colourless red surfaces are both red and green.\n option: Colourless red surfaces are used often in interior decoration.\nAnswer:\n(a) Colourless red surfaces cannot exist.\n(b) Colourless red surfaces are both red and green.\n(c) Colourless red surfaces are good tabletops for kitchens.\n(d) Colourless red surfaces are used often in interior decoration.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Colourless red surfaces cannot exist.",
+        "(b) Colourless red surfaces are both red and green.",
+        "(c) Colourless red surfaces are good tabletops for kitchens.",
+        "(d) Colourless red surfaces are used often in interior decoration."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 1
+    },
+    {
+      "inputs": "Concept: Extroverted introvert. Question: Which of the following sentences best characterizes extroverted introverts?\n option: Extroverted introverts are friendly but like to be alone.\n option: Extroverted introverts turn themselves inside-out.\n option: Extroverted introverts are B-list celebrities.\n option: Extroverted introverts should never meet strangers in public places.\nAnswer:\n(a) Extroverted introverts are friendly but like to be alone.\n(b) Extroverted introverts should never meet strangers in public places.\n(c) Extroverted introverts are B-list celebrities.\n(d) Extroverted introverts turn themselves inside-out.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Extroverted introverts are friendly but like to be alone.",
+        "(b) Extroverted introverts should never meet strangers in public places.",
+        "(c) Extroverted introverts are B-list celebrities.",
+        "(d) Extroverted introverts turn themselves inside-out."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 2
+    },
+    {
+      "inputs": "Concept: round tables. Question: Which of the following sentences best characterizes round tables?\n option: Round tables are used in conference rooms.\n option: Round tables can replace car wheels.\n option: Round tables are good for visualizing information.\n option: Round tables are used to play football.\nAnswer:\n(a) Round tables are used in conference rooms.\n(b) Round tables are used to play football.\n(c) Round tables are good for visualizing information.\n(d) Round tables can replace car wheels.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Round tables are used in conference rooms.",
+        "(b) Round tables are used to play football.",
+        "(c) Round tables are good for visualizing information.",
+        "(d) Round tables can replace car wheels."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 0
+    },
+    {
+      "inputs": "Concept: unshelled peas. Question: Which of the following sentences best characterizes unshelled peas?\n option: Unshelled peas are red.\n option: Unshelled peas can be found on the beach.\n option: Unshelled peas are long.\n option: Unshelled peas are vulnerable.\nAnswer:\n(a) Unshelled peas are long.\n(b) Unshelled peas can be found on the beach.\n(c) Unshelled peas are vulnerable.\n(d) Unshelled peas are red.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Unshelled peas are long.",
+        "(b) Unshelled peas can be found on the beach.",
+        "(c) Unshelled peas are vulnerable.",
+        "(d) Unshelled peas are red."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 1
+    },
+    {
+      "inputs": "Concept: overturned chairs. Question: Which of the following sentences best characterizes overturned chairs?\n option: Overturned chairs are placed on tables.\n option: Overturned chairs have a lot of responsabilities.\n option: Overturned chairs are good to sit on.\n option: Overturned chairs change the law.\nAnswer:\n(a) Overturned chairs are placed on tables.\n(b) Overturned chairs change the law.\n(c) Overturned chairs are good to sit on.\n(d) Overturned chairs have a lot of responsabilities.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Overturned chairs are placed on tables.",
+        "(b) Overturned chairs change the law.",
+        "(c) Overturned chairs are good to sit on.",
+        "(d) Overturned chairs have a lot of responsabilities."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 2
+    },
+    {
+      "inputs": "Concept: three-legged cows. Question: Which of the following sentences best characterizes three-legged cows?\n option: Three-legged cows are cuddly.\n option: Three-legged cows produce more milk.\n option: Three-legged cows are aggressive.\n option: Three-legged cows are easy to tip.\nAnswer:\n(a) Three-legged cows are easy to tip.\n(b) Three-legged cows are cuddly.\n(c) Three-legged cows are aggressive.\n(d) Three-legged cows produce more milk.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Three-legged cows are easy to tip.",
+        "(b) Three-legged cows are cuddly.",
+        "(c) Three-legged cows are aggressive.",
+        "(d) Three-legged cows produce more milk."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 3
+    },
+    {
+      "inputs": "Concept: square wheels. Question: Which of the following sentences best characterizes square wheels?\n option: Square wheels are efficient.\n option: Square wheels are inefficient.\n option: Square wheels are common.\n option: Square wheels are good for straight roads.\nAnswer:\n(a) Square wheels are inefficient.\n(b) Square wheels are efficient.\n(c) Square wheels are good for straight roads.\n(d) Square wheels are common.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Square wheels are inefficient.",
+        "(b) Square wheels are efficient.",
+        "(c) Square wheels are good for straight roads.",
+        "(d) Square wheels are common."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 4
+    },
+    {
+      "inputs": "Concept: white giraffes. Question: Which of the following sentences best characterizes white giraffes?\n option: White giraffes are rare.\n option: White giraffes have magical powers.\n option: White giraffes are privileged.\n option: White giraffes are worn in the summer.\nAnswer:\n(a) White giraffes are rare.\n(b) White giraffes have magical powers.\n(c) White giraffes are privileged.\n(d) White giraffes are worn in the summer.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) White giraffes are rare.",
+        "(b) White giraffes have magical powers.",
+        "(c) White giraffes are privileged.",
+        "(d) White giraffes are worn in the summer."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 5
+    },
+    {
+      "inputs": "Concept: sliced apples. Question: Which of the following sentences best characterizes sliced apples?\n option: Sliced apples are dysfunctional.\n option: Sliced apples tend to bleed a lot.\n option: Sliced apples are cooked in a pie.\n option: Sliced apples are very sharp.\nAnswer:\n(a) Sliced apples are cooked in a pie.\n(b) Sliced apples are very sharp.\n(c) Sliced apples tend to bleed a lot.\n(d) Sliced apples are dysfunctional.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Sliced apples are cooked in a pie.",
+        "(b) Sliced apples are very sharp.",
+        "(c) Sliced apples tend to bleed a lot.",
+        "(d) Sliced apples are dysfunctional."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 6
+    },
+    {
+      "inputs": "Concept: green bicycles. Question: Which of the following sentences best characterizes green bicycles?\n option: Green bicycles are made from trees.\n option: Green bicycles are very young.\n option: Green bicycles are good to play golf.\n option: Green bicycles are painted green.\nAnswer:\n(a) Green bicycles are painted green.\n(b) Green bicycles are good to play golf.\n(c) Green bicycles are made from trees.\n(d) Green bicycles are very young.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Green bicycles are painted green.",
+        "(b) Green bicycles are good to play golf.",
+        "(c) Green bicycles are made from trees.",
+        "(d) Green bicycles are very young."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 7
+    },
+    {
+      "inputs": "Concept: Talking mice. Question: Which of the following sentences best characterizes talking mice?\n option: Talking mice have booming voices.\n option: Talking mice have squeaky voices.\n option: Talking mice are very rude.\n option: Talking mice have no words for cheese.\nAnswer:\n(a) Talking mice have squeaky voices.\n(b) Talking mice have booming voices.\n(c) Talking mice have no words for cheese.\n(d) Talking mice are very rude.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Talking mice have squeaky voices.",
+        "(b) Talking mice have booming voices.",
+        "(c) Talking mice have no words for cheese.",
+        "(d) Talking mice are very rude."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 0
+    },
+    {
+      "inputs": "Concept: atomic superhero. Question: Which of the following sentences best characterizes atomic superheroes?\n option: Atomic superheroes got their powers from nuclear experiments.\n option: Atomic superheroes have nuclear families.\n option: Atomic superheroes are the size of atoms.\n option: Atomic superheroes have more atoms than usual.\nAnswer:\n(a) Atomic superheroes got their powers from nuclear experiments.\n(b) Atomic superheroes are the size of atoms.\n(c) Atomic superheroes have more atoms than usual.\n(d) Atomic superheroes have nuclear families.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Atomic superheroes got their powers from nuclear experiments.",
+        "(b) Atomic superheroes are the size of atoms.",
+        "(c) Atomic superheroes have more atoms than usual.",
+        "(d) Atomic superheroes have nuclear families."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 1
+    },
+    {
+      "inputs": "The word 'alort' is an adjective for things that are athletes. Question: Which of the following sentences best characterizes alort boxers?\n option: Alort boxers have wrinkly faces.\n option: Alort boxers wear gloves.\n option: Alort boxers are airier than briefs.\n option: Alort boxers put things in boxes.\nAnswer:\n(a) Alort boxers wear gloves.\n(b) Alort boxers have wrinkly faces.\n(c) Alort boxers are airier than briefs.\n(d) Alort boxers put things in boxes.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Alort boxers wear gloves.",
+        "(b) Alort boxers have wrinkly faces.",
+        "(c) Alort boxers are airier than briefs.",
+        "(d) Alort boxers put things in boxes."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 0
+    },
+    {
+      "inputs": "The word 'dlort' is an adjective for things that are dogs. Question: Which of the following sentences best characterizes dlort boxers?\n option: Dlort boxers fight for the heavyweight belt.\n option: Dlort boxers move inwards and outwards at the same time.\n option: Dlort boxers are loose in the leg.\n option: Dlort boxers have brown coats.\nAnswer:\n(a) Dlort boxers have brown coats.\n(b) Dlort boxers fight for the heavyweight belt.\n(c) Dlort boxers are loose in the leg.\n(d) Dlort boxers move inwards and outwards at the same time.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Dlort boxers have brown coats.",
+        "(b) Dlort boxers fight for the heavyweight belt.",
+        "(c) Dlort boxers are loose in the leg.",
+        "(d) Dlort boxers move inwards and outwards at the same time."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 1
+    },
+    {
+      "inputs": "The word 'diz' means a person of means, and the word 'supe' means a person of humble origins. Question: Which of the following sentences best characterizes diz supes?\n option: Diz supes are meaningful people.\n option: Diz supes have inherited their wealth.\n option: Diz supes are humble and mean people.\n option: Diz supes become rich during their lifetimes.\nAnswer:\n(a) Diz supes become rich during their lifetimes.\n(b) Diz supes are humble and mean people.\n(c) Diz supes are meaningful people.\n(d) Diz supes have inherited their wealth.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Diz supes become rich during their lifetimes.",
+        "(b) Diz supes are humble and mean people.",
+        "(c) Diz supes are meaningful people.",
+        "(d) Diz supes have inherited their wealth."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 0
+    },
+    {
+      "inputs": "The word 'gimble' means an object that moves by means of rotating its spiked wheels, and the word 'tove' means a species of biological organism. Question: Which of the following sentences best characterizes gimble toves?\n option: Gimble toves can usually be found inside old clocks.\n option: There are no gimble toves on Earth.\n option: Farmers use pesticides to get rid of gimble toves.\n option: Glimble toves roost on cliff caves.\nAnswer:\n(a) There are no gimble toves on Earth.\n(b) Gimble toves can usually be found inside old clocks.\n(c) Glimble toves roost on cliff caves.\n(d) Farmers use pesticides to get rid of gimble toves.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) There are no gimble toves on Earth.",
+        "(b) Gimble toves can usually be found inside old clocks.",
+        "(c) Glimble toves roost on cliff caves.",
+        "(d) Farmers use pesticides to get rid of gimble toves."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 1
+    },
+    {
+      "inputs": "The word 'torg' is an adjective for animals that feed on big prey. Question: Which of the following sentences best characterizes torg flies?\n option: Torg flies are fed up.\n option: Torg flies prey on animals larger than themselves.\n option: Torg flies are big preys.\n option: Torg flies feed big prey.\nAnswer:\n(a) Torg flies prey on animals larger than themselves.\n(b) Torg flies are big preys.\n(c) Torg flies feed big prey.\n(d) Torg flies are fed up.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) Torg flies prey on animals larger than themselves.",
+        "(b) Torg flies are big preys.",
+        "(c) Torg flies feed big prey.",
+        "(d) Torg flies are fed up."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 0
+    },
+    {
+      "inputs": "The word 'frumious' is an adjective for things that are very threatening. Question: Which of the following sentences best characterizes frumious pets?\n option: Frumious pets are great companions for little children.\n option: Most people prefer frumious pets over puppies.\n option: Frumious pets are easy to recycle.\n option: If you want a frumious pet, a rattlesnake is a good choice.\nAnswer:\n(a) If you want a frumious pet, a rattlesnake is a good choice.\n(b) Frumious pets are great companions for little children.\n(c) Frumious pets are easy to recycle.\n(d) Most people prefer frumious pets over puppies.",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a) If you want a frumious pet, a rattlesnake is a good choice.",
+        "(b) Frumious pets are great companions for little children.",
+        "(c) Frumious pets are easy to recycle.",
+        "(d) Most people prefer frumious pets over puppies."
+      ],
+      "multiple_choice_scores": {
+        "(a)": 1,
+        "(b)": 0,
+        "(c)": 0,
+        "(d)": 0
+      },
+      "idx": 1
+    }
+  ]
+}

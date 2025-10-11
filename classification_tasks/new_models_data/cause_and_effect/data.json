@@ -1,0 +1,1995 @@
+{
+    "train": [
+        {
+            "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: The man went to jail because the man robbed a gas station.\n  choice: The man robbed a gas station because the man went to jail.\nanswer:\n\t(a): The man robbed a gas station because the man went to jail.\n\t(b): The man went to jail because the man robbed a gas station.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 0
+        },
+        {
+            "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: The man climbed in through the window because the door was locked.\n  choice: The door was locked because the man climbed in through the window.\nanswer:\n\t(a): The door was locked because the man climbed in through the window.\n\t(b): The man climbed in through the window because the door was locked.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 1
+        },
+        {
+            "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: The man turned down the music volume because the man couldn't hear what the woman was saying.\n  choice: The man couldn't hear what the woman was saying because the man turned down the music volume.\nanswer:\n\t(a): The man couldn't hear what the woman was saying because the man turned down the music volume.\n\t(b): The man turned down the music volume because the man couldn't hear what the woman was saying.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 2
+        },
+        {
+            "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: The soda went flat because the bottle was left open.\n  choice: The bottle was left open because the soda went flat.\nanswer:\n\t(a): The bottle was left open because the soda went flat.\n\t(b): The soda went flat because the bottle was left open.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 3
+        },
+        {
+            "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: The woman who was walking on the street opened her umbrella because it started raining.\n  choice: It started raining because the woman who was walking on the street opened her umbrella.\nanswer:\n\t(a): The woman who was walking on the street opened her umbrella because it started raining.\n\t(b): It started raining because the woman who was walking on the street opened her umbrella.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 4
+        },
+        {
+            "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: The picnic was cancelled because it rained.\n  choice: It rained because the picnic was cancelled.\nanswer:\n\t(a): The picnic was cancelled because it rained.\n\t(b): It rained because the picnic was cancelled.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 5
+        },
+        {
+            "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: Jill won the lawsuit against Acme because acme paid Jill's legal fees.\n  choice: Acme paid Jill's legal fees because Jill won the lawsuit against Acme.\nanswer:\n\t(a): Jill won the lawsuit against Acme because acme paid Jill's legal fees.\n\t(b): Acme paid Jill's legal fees because Jill won the lawsuit against Acme.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 6
+        },
+        {
+            "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: She went to the store and bought toilet paper because she noticed that she was out of toilet paper.\n  choice: She noticed that she was out of toilet paper because she went to the store and bought toilet paper.\nanswer:\n\t(a): She went to the store and bought toilet paper because she noticed that she was out of toilet paper.\n\t(b): She noticed that she was out of toilet paper because she went to the store and bought toilet paper.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 7
+        },
+        {
+            "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: I studied hard because i got an A on the test.\n  choice: I got an A on the test because i studied hard.\nanswer:\n\t(a): I studied hard because i got an A on the test.\n\t(b): I got an A on the test because i studied hard.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 8
+        },
+        {
+            "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: There was a wardrobe malfunction because the performer ran off the stage.\n  choice: The performer ran off the stage because there was a wardrobe malfunction.\nanswer:\n\t(a): The performer ran off the stage because there was a wardrobe malfunction.\n\t(b): There was a wardrobe malfunction because the performer ran off the stage.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 9
+        },
+        {
+            "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: The driver was pulled over and was fined because the driver ran a red light.\n  choice: The driver ran a red light because the driver was pulled over and was fined.\nanswer:\n\t(a): The driver was pulled over and was fined because the driver ran a red light.\n\t(b): The driver ran a red light because the driver was pulled over and was fined.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 10
+        },
+        {
+            "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: The gardener planted a seed because a flower grew.\n  choice: A flower grew because the gardener planted a seed.\nanswer:\n\t(a): The gardener planted a seed because a flower grew.\n\t(b): A flower grew because the gardener planted a seed.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 11
+        },
+        {
+            "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: The laptop ran out of battery because George plugged the laptop charger in.\n  choice: George plugged the laptop charger in because the laptop ran out of battery.\nanswer:\n\t(a): The laptop ran out of battery because George plugged the laptop charger in.\n\t(b): George plugged the laptop charger in because the laptop ran out of battery.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 12
+        },
+        {
+            "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: The vase shattered on the floor because a man accidently pushed the vase off a counter.\n  choice: A man accidently pushed the vase off a counter because the vase shattered on the floor.\nanswer:\n\t(a): The vase shattered on the floor because a man accidently pushed the vase off a counter.\n\t(b): A man accidently pushed the vase off a counter because the vase shattered on the floor.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 13
+        },
+        {
+            "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: The company's stock went up because the company's posted strong earnings.\n  choice: The company's posted strong earnings because the company's stock went up.\nanswer:\n\t(a): The company's stock went up because the company's posted strong earnings.\n\t(b): The company's posted strong earnings because the company's stock went up.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 14
+        },
+        {
+            "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: We made French toast because the bread was dry.\n  choice: The bread was dry because we made French toast.\nanswer:\n\t(a): We made French toast because the bread was dry.\n\t(b): The bread was dry because we made French toast.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 15
+        },
+        {
+            "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: The dinosaurs became extinct because a large object hit the Earth.\n  choice: A large object hit the Earth because the dinosaurs became extinct.\nanswer:\n\t(a): A large object hit the Earth because the dinosaurs became extinct.\n\t(b): The dinosaurs became extinct because a large object hit the Earth.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 16
+        },
+        {
+            "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: The wind blew strong because the ship capsized.\n  choice: The ship capsized because the wind blew strong.\nanswer:\n\t(a): The ship capsized because the wind blew strong.\n\t(b): The wind blew strong because the ship capsized.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 17
+        },
+        {
+            "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: The family went on vacation because school was on break.\n  choice: School was on break because the family went on vacation.\nanswer:\n\t(a): School was on break because the family went on vacation.\n\t(b): The family went on vacation because school was on break.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 18
+        },
+        {
+            "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: The child started crying because the child hurt their knee.\n  choice: The child hurt their knee because the child started crying.\nanswer:\n\t(a): The child started crying because the child hurt their knee.\n\t(b): The child hurt their knee because the child started crying.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 19
+        },
+        {
+            "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: Alice missed her flight because Alice didn't wake up.\n  choice: Alice didn't wake up because Alice missed her flight.\nanswer:\n\t(a): Alice missed her flight because Alice didn't wake up.\n\t(b): Alice didn't wake up because Alice missed her flight.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 20
+        },
+        {
+            "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: The milk was left outside the fridge over night because the man sipped the milk and spit it out.\n  choice: The man sipped the milk and spit it out because the milk was left outside the fridge over night.\nanswer:\n\t(a): The man sipped the milk and spit it out because the milk was left outside the fridge over night.\n\t(b): The milk was left outside the fridge over night because the man sipped the milk and spit it out.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 21
+        },
+        {
+            "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: Light filled the room because i flipped the switch.\n  choice: I flipped the switch because light filled the room.\nanswer:\n\t(a): I flipped the switch because light filled the room.\n\t(b): Light filled the room because i flipped the switch.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 22
+        },
+        {
+            "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: Bob opened the jar and was frustrated because Alice ate the last cookie.\n  choice: Alice ate the last cookie because Bob opened the jar and was frustrated.\nanswer:\n\t(a): Bob opened the jar and was frustrated because Alice ate the last cookie.\n\t(b): Alice ate the last cookie because Bob opened the jar and was frustrated.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 23
+        },
+        {
+            "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: My friend got a promotion because my friend celebrated with their family.\n  choice: My friend celebrated with their family because my friend got a promotion.\nanswer:\n\t(a): My friend got a promotion because my friend celebrated with their family.\n\t(b): My friend celebrated with their family because my friend got a promotion.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 24
+        },
+        {
+            "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: The window broke because the boy threw a rock.\n  choice: The boy threw a rock because the window broke.\nanswer:\n\t(a): The window broke because the boy threw a rock.\n\t(b): The boy threw a rock because the window broke.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 25
+        },
+        {
+            "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: The tenants noticed mold on the bathroom ceiling because the tenants contacted their landlord.\n  choice: The tenants contacted their landlord because the tenants noticed mold on the bathroom ceiling.\nanswer:\n\t(a): The tenants noticed mold on the bathroom ceiling because the tenants contacted their landlord.\n\t(b): The tenants contacted their landlord because the tenants noticed mold on the bathroom ceiling.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 26
+        },
+        {
+            "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: The power was out for days because the meat spoiled.\n  choice: The meat spoiled because the power was out for days.\nanswer:\n\t(a): The meat spoiled because the power was out for days.\n\t(b): The power was out for days because the meat spoiled.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 27
+        },
+        {
+            "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: The team won the game because the team won the championship.\n  choice: The team won the championship because the team won the game.\nanswer:\n\t(a): The team won the championship because the team won the game.\n\t(b): The team won the game because the team won the championship.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 28
+        },
+        {
+            "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: The basketball player was shoved because the basketball player took a free throw.\n  choice: The basketball player took a free throw because the basketball player was shoved.\nanswer:\n\t(a): The basketball player took a free throw because the basketball player was shoved.\n\t(b): The basketball player was shoved because the basketball player took a free throw.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 29
+        },
+        {
+            "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: The girl didn't wear her sweater because the girl caught a cold.\n  choice: The girl caught a cold because the girl didn't wear her sweater.\nanswer:\n\t(a): The girl didn't wear her sweater because the girl caught a cold.\n\t(b): The girl caught a cold because the girl didn't wear her sweater.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 30
+        },
+        {
+            "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: The family went to the beach because the air conditioner broke.\n  choice: The air conditioner broke because the family went to the beach.\nanswer:\n\t(a): The family went to the beach because the air conditioner broke.\n\t(b): The air conditioner broke because the family went to the beach.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 31
+        },
+        {
+            "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: The girl skipped school because the girl got detention.\n  choice: The girl got detention because the girl skipped school.\nanswer:\n\t(a): The girl skipped school because the girl got detention.\n\t(b): The girl got detention because the girl skipped school.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 32
+        },
+        {
+            "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: The man sued because the floor was wet.\n  choice: The floor was wet because the man sued.\nanswer:\n\t(a): The man sued because the floor was wet.\n\t(b): The floor was wet because the man sued.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 33
+        },
+        {
+            "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: The curtains were opened because sunlight filled the room.\n  choice: Sunlight filled the room because the curtains were opened.\nanswer:\n\t(a): The curtains were opened because sunlight filled the room.\n\t(b): Sunlight filled the room because the curtains were opened.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 34
+        },
+        {
+            "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: Mom rinsed the tray because Jimmy took the last piece of cake.\n  choice: Jimmy took the last piece of cake because mom rinsed the tray.\nanswer:\n\t(a): Jimmy took the last piece of cake because mom rinsed the tray.\n\t(b): Mom rinsed the tray because Jimmy took the last piece of cake.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 35
+        },
+        {
+            "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: Ted went out drinking because Ted had a hangover.\n  choice: Ted had a hangover because Ted went out drinking.\nanswer:\n\t(a): Ted went out drinking because Ted had a hangover.\n\t(b): Ted had a hangover because Ted went out drinking.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 36
+        },
+        {
+            "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: Someone fainted because someone called 911.\n  choice: Someone called 911 because someone fainted.\nanswer:\n\t(a): Someone fainted because someone called 911.\n\t(b): Someone called 911 because someone fainted.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 37
+        },
+        {
+            "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: There was a snowstorm because school was cancelled.\n  choice: School was cancelled because there was a snowstorm.\nanswer:\n\t(a): School was cancelled because there was a snowstorm.\n\t(b): There was a snowstorm because school was cancelled.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 38
+        },
+        {
+            "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: The girl had a fever because mom gave the girl fever medicine.\n  choice: Mom gave the girl fever medicine because the girl had a fever.\nanswer:\n\t(a): The girl had a fever because mom gave the girl fever medicine.\n\t(b): Mom gave the girl fever medicine because the girl had a fever.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 39
+        },
+        {
+            "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: There was a loud noise because the boy lifted his eyes from the book.\n  choice: The boy lifted his eyes from the book because there was a loud noise.\nanswer:\n\t(a): The boy lifted his eyes from the book because there was a loud noise.\n\t(b): There was a loud noise because the boy lifted his eyes from the book.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 40
+        },
+        {
+            "inputs": "\n\t(a): The man robbed a gas station because the man went to jail.\n\t(b): The man went to jail because the man robbed a gas station.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 0
+        },
+        {
+            "inputs": "\n\t(a): The man climbed in through the window because the door was locked.\n\t(b): The door was locked because the man climbed in through the window.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 1
+        },
+        {
+            "inputs": "\n\t(a): The man turned down the music volume because the man couldn't hear what the woman was saying.\n\t(b): The man couldn't hear what the woman was saying because the man turned down the music volume.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 2
+        },
+        {
+            "inputs": "\n\t(a): The bottle was left open because the soda went flat.\n\t(b): The soda went flat because the bottle was left open.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 3
+        },
+        {
+            "inputs": "\n\t(a): The woman who was walking on the street opened her umbrella because it started raining.\n\t(b): It started raining because the woman who was walking on the street opened her umbrella.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 4
+        },
+        {
+            "inputs": "\n\t(a): The picnic was cancelled because it rained.\n\t(b): It rained because the picnic was cancelled.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 5
+        },
+        {
+            "inputs": "\n\t(a): Acme paid Jill's legal fees because Jill won the lawsuit against Acme.\n\t(b): Jill won the lawsuit against Acme because acme paid Jill's legal fees.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 6
+        },
+        {
+            "inputs": "\n\t(a): She noticed that she was out of toilet paper because she went to the store and bought toilet paper.\n\t(b): She went to the store and bought toilet paper because she noticed that she was out of toilet paper.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 7
+        },
+        {
+            "inputs": "\n\t(a): I studied hard because i got an A on the test.\n\t(b): I got an A on the test because i studied hard.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 8
+        },
+        {
+            "inputs": "\n\t(a): The performer ran off the stage because there was a wardrobe malfunction.\n\t(b): There was a wardrobe malfunction because the performer ran off the stage.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 9
+        },
+        {
+            "inputs": "\n\t(a): The driver ran a red light because the driver was pulled over and was fined.\n\t(b): The driver was pulled over and was fined because the driver ran a red light.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 10
+        },
+        {
+            "inputs": "\n\t(a): The gardener planted a seed because a flower grew.\n\t(b): A flower grew because the gardener planted a seed.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 11
+        },
+        {
+            "inputs": "\n\t(a): The laptop ran out of battery because George plugged the laptop charger in.\n\t(b): George plugged the laptop charger in because the laptop ran out of battery.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 12
+        },
+        {
+            "inputs": "\n\t(a): The vase shattered on the floor because a man accidently pushed the vase off a counter.\n\t(b): A man accidently pushed the vase off a counter because the vase shattered on the floor.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 13
+        },
+        {
+            "inputs": "\n\t(a): The company's posted strong earnings because the company's stock went up.\n\t(b): The company's stock went up because the company's posted strong earnings.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 14
+        },
+        {
+            "inputs": "\n\t(a): We made French toast because the bread was dry.\n\t(b): The bread was dry because we made French toast.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 15
+        },
+        {
+            "inputs": "\n\t(a): A large object hit the Earth because the dinosaurs became extinct.\n\t(b): The dinosaurs became extinct because a large object hit the Earth.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 16
+        },
+        {
+            "inputs": "\n\t(a): The wind blew strong because the ship capsized.\n\t(b): The ship capsized because the wind blew strong.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 17
+        },
+        {
+            "inputs": "\n\t(a): School was on break because the family went on vacation.\n\t(b): The family went on vacation because school was on break.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 18
+        },
+        {
+            "inputs": "\n\t(a): The child started crying because the child hurt their knee.\n\t(b): The child hurt their knee because the child started crying.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 19
+        },
+        {
+            "inputs": "\n\t(a): Alice missed her flight because Alice didn't wake up.\n\t(b): Alice didn't wake up because Alice missed her flight.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 20
+        },
+        {
+            "inputs": "\n\t(a): The man sipped the milk and spit it out because the milk was left outside the fridge over night.\n\t(b): The milk was left outside the fridge over night because the man sipped the milk and spit it out.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 21
+        },
+        {
+            "inputs": "\n\t(a): I flipped the switch because light filled the room.\n\t(b): Light filled the room because i flipped the switch.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 22
+        },
+        {
+            "inputs": "\n\t(a): Alice ate the last cookie because Bob opened the jar and was frustrated.\n\t(b): Bob opened the jar and was frustrated because Alice ate the last cookie.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 23
+        },
+        {
+            "inputs": "\n\t(a): My friend celebrated with their family because my friend got a promotion.\n\t(b): My friend got a promotion because my friend celebrated with their family.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 24
+        },
+        {
+            "inputs": "\n\t(a): The window broke because the boy threw a rock.\n\t(b): The boy threw a rock because the window broke.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 25
+        },
+        {
+            "inputs": "\n\t(a): The tenants noticed mold on the bathroom ceiling because the tenants contacted their landlord.\n\t(b): The tenants contacted their landlord because the tenants noticed mold on the bathroom ceiling.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 26
+        },
+        {
+            "inputs": "\n\t(a): The meat spoiled because the power was out for days.\n\t(b): The power was out for days because the meat spoiled.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 27
+        },
+        {
+            "inputs": "\n\t(a): The team won the game because the team won the championship.\n\t(b): The team won the championship because the team won the game.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 28
+        },
+        {
+            "inputs": "\n\t(a): The basketball player was shoved because the basketball player took a free throw.\n\t(b): The basketball player took a free throw because the basketball player was shoved.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 29
+        },
+        {
+            "inputs": "\n\t(a): The girl caught a cold because the girl didn't wear her sweater.\n\t(b): The girl didn't wear her sweater because the girl caught a cold.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 30
+        },
+        {
+            "inputs": "\n\t(a): The air conditioner broke because the family went to the beach.\n\t(b): The family went to the beach because the air conditioner broke.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 31
+        },
+        {
+            "inputs": "\n\t(a): The girl got detention because the girl skipped school.\n\t(b): The girl skipped school because the girl got detention.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 32
+        },
+        {
+            "inputs": "\n\t(a): The man sued because the floor was wet.\n\t(b): The floor was wet because the man sued.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 33
+        },
+        {
+            "inputs": "\n\t(a): Sunlight filled the room because the curtains were opened.\n\t(b): The curtains were opened because sunlight filled the room.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 34
+        },
+        {
+            "inputs": "\n\t(a): Jimmy took the last piece of cake because mom rinsed the tray.\n\t(b): Mom rinsed the tray because Jimmy took the last piece of cake.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 35
+        },
+        {
+            "inputs": "\n\t(a): Ted had a hangover because Ted went out drinking.\n\t(b): Ted went out drinking because Ted had a hangover.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 36
+        },
+        {
+            "inputs": "\n\t(a): Someone fainted because someone called 911.\n\t(b): Someone called 911 because someone fainted.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 37
+        },
+        {
+            "inputs": "\n\t(a): There was a snowstorm because school was cancelled.\n\t(b): School was cancelled because there was a snowstorm.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 38
+        },
+        {
+            "inputs": "\n\t(a): Mom gave the girl fever medicine because the girl had a fever.\n\t(b): The girl had a fever because mom gave the girl fever medicine.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 39
+        },
+        {
+            "inputs": "\n\t(a): The boy lifted his eyes from the book because there was a loud noise.\n\t(b): There was a loud noise because the boy lifted his eyes from the book.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 40
+        },
+        {
+            "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: The man went to jail.\n  choice: The man robbed a gas station.\nanswer:\n\t(a): The man robbed a gas station.\n\t(b): The man went to jail.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 0
+        },
+        {
+            "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: The man climbed in through the window.\n  choice: The door was locked.\nanswer:\n\t(a): The door was locked.\n\t(b): The man climbed in through the window.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 1
+        },
+        {
+            "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: The man turned down the music volume.\n  choice: The man couldn't hear what the woman was saying.\nanswer:\n\t(a): The man couldn't hear what the woman was saying.\n\t(b): The man turned down the music volume.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 2
+        },
+        {
+            "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: The soda went flat.\n  choice: The bottle was left open.\nanswer:\n\t(a): The soda went flat.\n\t(b): The bottle was left open.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 3
+        },
+        {
+            "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: The woman who was walking on the street opened her umbrella.\n  choice: It started raining.\nanswer:\n\t(a): The woman who was walking on the street opened her umbrella.\n\t(b): It started raining.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 4
+        },
+        {
+            "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: The picnic was cancelled.\n  choice: It rained.\nanswer:\n\t(a): The picnic was cancelled.\n\t(b): It rained.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 5
+        },
+        {
+            "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: Jill won the lawsuit against Acme.\n  choice: Acme paid Jill's legal fees.\nanswer:\n\t(a): Jill won the lawsuit against Acme.\n\t(b): Acme paid Jill's legal fees.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 6
+        },
+        {
+            "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: She went to the store and bought toilet paper.\n  choice: She noticed that she was out of toilet paper.\nanswer:\n\t(a): She noticed that she was out of toilet paper.\n\t(b): She went to the store and bought toilet paper.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 7
+        },
+        {
+            "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: I studied hard.\n  choice: I got an A on the test.\nanswer:\n\t(a): I got an A on the test.\n\t(b): I studied hard.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 8
+        },
+        {
+            "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: There was a wardrobe malfunction.\n  choice: The performer ran off the stage.\nanswer:\n\t(a): There was a wardrobe malfunction.\n\t(b): The performer ran off the stage.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 9
+        },
+        {
+            "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: The driver was pulled over and was fined.\n  choice: The driver ran a red light.\nanswer:\n\t(a): The driver was pulled over and was fined.\n\t(b): The driver ran a red light.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 10
+        },
+        {
+            "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: The gardener planted a seed.\n  choice: A flower grew.\nanswer:\n\t(a): The gardener planted a seed.\n\t(b): A flower grew.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 11
+        },
+        {
+            "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: The laptop ran out of battery.\n  choice: George plugged the laptop charger in.\nanswer:\n\t(a): The laptop ran out of battery.\n\t(b): George plugged the laptop charger in.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 12
+        },
+        {
+            "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: The vase shattered on the floor.\n  choice: A man accidently pushed the vase off a counter.\nanswer:\n\t(a): A man accidently pushed the vase off a counter.\n\t(b): The vase shattered on the floor.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 13
+        },
+        {
+            "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: The company's stock went up.\n  choice: The company's posted strong earnings.\nanswer:\n\t(a): The company's stock went up.\n\t(b): The company's posted strong earnings.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 14
+        },
+        {
+            "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: We made French toast.\n  choice: The bread was dry.\nanswer:\n\t(a): We made French toast.\n\t(b): The bread was dry.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 15
+        },
+        {
+            "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: The dinosaurs became extinct.\n  choice: A large object hit the Earth.\nanswer:\n\t(a): The dinosaurs became extinct.\n\t(b): A large object hit the Earth.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 16
+        },
+        {
+            "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: The wind blew strong.\n  choice: The ship capsized.\nanswer:\n\t(a): The wind blew strong.\n\t(b): The ship capsized.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 17
+        },
+        {
+            "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: The family went on vacation.\n  choice: School was on break.\nanswer:\n\t(a): School was on break.\n\t(b): The family went on vacation.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 18
+        },
+        {
+            "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: The child started crying.\n  choice: The child hurt their knee.\nanswer:\n\t(a): The child started crying.\n\t(b): The child hurt their knee.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 19
+        },
+        {
+            "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: Alice missed her flight.\n  choice: Alice didn't wake up.\nanswer:\n\t(a): Alice didn't wake up.\n\t(b): Alice missed her flight.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 20
+        },
+        {
+            "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: The milk was left outside the fridge over night.\n  choice: The man sipped the milk and spit it out.\nanswer:\n\t(a): The milk was left outside the fridge over night.\n\t(b): The man sipped the milk and spit it out.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 21
+        },
+        {
+            "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: Light filled the room.\n  choice: I flipped the switch.\nanswer:\n\t(a): Light filled the room.\n\t(b): I flipped the switch.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 22
+        },
+        {
+            "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: Bob opened the jar and was frustrated.\n  choice: Alice ate the last cookie.\nanswer:\n\t(a): Alice ate the last cookie.\n\t(b): Bob opened the jar and was frustrated.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 23
+        },
+        {
+            "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: My friend got a promotion.\n  choice: My friend celebrated with their family.\nanswer:\n\t(a): My friend got a promotion.\n\t(b): My friend celebrated with their family.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 24
+        },
+        {
+            "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: The window broke.\n  choice: The boy threw a rock.\nanswer:\n\t(a): The boy threw a rock.\n\t(b): The window broke.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 25
+        },
+        {
+            "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: The tenants noticed mold on the bathroom ceiling.\n  choice: The tenants contacted their landlord.\nanswer:\n\t(a): The tenants noticed mold on the bathroom ceiling.\n\t(b): The tenants contacted their landlord.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 26
+        },
+        {
+            "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: The power was out for days.\n  choice: The meat spoiled.\nanswer:\n\t(a): The meat spoiled.\n\t(b): The power was out for days.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 27
+        },
+        {
+            "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: The team won the game.\n  choice: The team won the championship.\nanswer:\n\t(a): The team won the game.\n\t(b): The team won the championship.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 28
+        },
+        {
+            "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: The basketball player was shoved.\n  choice: The basketball player took a free throw.\nanswer:\n\t(a): The basketball player was shoved.\n\t(b): The basketball player took a free throw.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 29
+        },
+        {
+            "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: The girl didn't wear her sweater.\n  choice: The girl caught a cold.\nanswer:\n\t(a): The girl didn't wear her sweater.\n\t(b): The girl caught a cold.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 30
+        },
+        {
+            "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: The family went to the beach.\n  choice: The air conditioner broke.\nanswer:\n\t(a): The family went to the beach.\n\t(b): The air conditioner broke.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 31
+        },
+        {
+            "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: The girl skipped school.\n  choice: The girl got detention.\nanswer:\n\t(a): The girl got detention.\n\t(b): The girl skipped school.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 32
+        },
+        {
+            "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: The man sued.\n  choice: The floor was wet.\nanswer:\n\t(a): The man sued.\n\t(b): The floor was wet.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 33
+        },
+        {
+            "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: The curtains were opened.\n  choice: Sunlight filled the room.\nanswer:\n\t(a): Sunlight filled the room.\n\t(b): The curtains were opened.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 34
+        },
+        {
+            "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: Mom rinsed the tray.\n  choice: Jimmy took the last piece of cake.\nanswer:\n\t(a): Mom rinsed the tray.\n\t(b): Jimmy took the last piece of cake.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 35
+        },
+        {
+            "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: Ted went out drinking.\n  choice: Ted had a hangover.\nanswer:\n\t(a): Ted had a hangover.\n\t(b): Ted went out drinking.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 36
+        },
+        {
+            "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: Someone fainted.\n  choice: Someone called 911.\nanswer:\n\t(a): Someone fainted.\n\t(b): Someone called 911.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 37
+        },
+        {
+            "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: There was a snowstorm.\n  choice: School was cancelled.\nanswer:\n\t(a): There was a snowstorm.\n\t(b): School was cancelled.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 38
+        },
+        {
+            "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: The girl had a fever.\n  choice: Mom gave the girl fever medicine.\nanswer:\n\t(a): The girl had a fever.\n\t(b): Mom gave the girl fever medicine.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 39
+        },
+        {
+            "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: There was a loud noise.\n  choice: The boy lifted his eyes from the book.\nanswer:\n\t(a): There was a loud noise.\n\t(b): The boy lifted his eyes from the book.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 40
+        }
+    ],
+    "validation": [
+        {
+            "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: The dog bit me because i pulled the dog's tail.\n  choice: I pulled the dog's tail because the dog bit me.\nanswer:\n\t(a): I pulled the dog's tail because the dog bit me.\n\t(b): The dog bit me because i pulled the dog's tail.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 0
+        },
+        {
+            "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: The girl woke up covered in cold sweat because the girl had a nightmare.\n  choice: The girl had a nightmare because the girl woke up covered in cold sweat.\nanswer:\n\t(a): The girl had a nightmare because the girl woke up covered in cold sweat.\n\t(b): The girl woke up covered in cold sweat because the girl had a nightmare.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 1
+        },
+        {
+            "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: A watermelon exploded because a man was covered in sticky red goo.\n  choice: A man was covered in sticky red goo because a watermelon exploded.\nanswer:\n\t(a): A man was covered in sticky red goo because a watermelon exploded.\n\t(b): A watermelon exploded because a man was covered in sticky red goo.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 2
+        },
+        {
+            "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: Tomatoes grew on the vine because the insect pollinated the tomato flowers.\n  choice: The insect pollinated the tomato flowers because tomatoes grew on the vine.\nanswer:\n\t(a): Tomatoes grew on the vine because the insect pollinated the tomato flowers.\n\t(b): The insect pollinated the tomato flowers because tomatoes grew on the vine.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 3
+        },
+        {
+            "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: The girl stepped onto the street because the driver hit the brakes.\n  choice: The driver hit the brakes because the girl stepped onto the street.\nanswer:\n\t(a): The driver hit the brakes because the girl stepped onto the street.\n\t(b): The girl stepped onto the street because the driver hit the brakes.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 4
+        },
+        {
+            "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: The pilot turned on the \"fasten seatbelts\" light because a bird hit the engine.\n  choice: A bird hit the engine because the pilot turned on the \"fasten seatbelts\" light.\nanswer:\n\t(a): The pilot turned on the \"fasten seatbelts\" light because a bird hit the engine.\n\t(b): A bird hit the engine because the pilot turned on the \"fasten seatbelts\" light.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 5
+        },
+        {
+            "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: The man got lost in the woods because a search party was assembled.\n  choice: A search party was assembled because the man got lost in the woods.\nanswer:\n\t(a): The man got lost in the woods because a search party was assembled.\n\t(b): A search party was assembled because the man got lost in the woods.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 6
+        },
+        {
+            "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: My car got dirty because i washed the car.\n  choice: I washed the car because my car got dirty.\nanswer:\n\t(a): My car got dirty because i washed the car.\n\t(b): I washed the car because my car got dirty.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 7
+        },
+        {
+            "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: The driver turned the wipers on because it started raining.\n  choice: It started raining because the driver turned the wipers on.\nanswer:\n\t(a): The driver turned the wipers on because it started raining.\n\t(b): It started raining because the driver turned the wipers on.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 8
+        },
+        {
+            "inputs": "Which of the following sentences makes more sense?\nexample:\n  choice: My clothes got dirty because i put my clothes in the washing machine.\n  choice: I put my clothes in the washing machine because my clothes got dirty.\nanswer:\n\t(a): My clothes got dirty because i put my clothes in the washing machine.\n\t(b): I put my clothes in the washing machine because my clothes got dirty.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 9
+        },
+        {
+            "inputs": "\n\t(a): I pulled the dog's tail because the dog bit me.\n\t(b): The dog bit me because i pulled the dog's tail.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 0
+        },
+        {
+            "inputs": "\n\t(a): The girl woke up covered in cold sweat because the girl had a nightmare.\n\t(b): The girl had a nightmare because the girl woke up covered in cold sweat.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 1
+        },
+        {
+            "inputs": "\n\t(a): A watermelon exploded because a man was covered in sticky red goo.\n\t(b): A man was covered in sticky red goo because a watermelon exploded.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 2
+        },
+        {
+            "inputs": "\n\t(a): Tomatoes grew on the vine because the insect pollinated the tomato flowers.\n\t(b): The insect pollinated the tomato flowers because tomatoes grew on the vine.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 3
+        },
+        {
+            "inputs": "\n\t(a): The driver hit the brakes because the girl stepped onto the street.\n\t(b): The girl stepped onto the street because the driver hit the brakes.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 4
+        },
+        {
+            "inputs": "\n\t(a): The pilot turned on the \"fasten seatbelts\" light because a bird hit the engine.\n\t(b): A bird hit the engine because the pilot turned on the \"fasten seatbelts\" light.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 5
+        },
+        {
+            "inputs": "\n\t(a): A search party was assembled because the man got lost in the woods.\n\t(b): The man got lost in the woods because a search party was assembled.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 6
+        },
+        {
+            "inputs": "\n\t(a): I washed the car because my car got dirty.\n\t(b): My car got dirty because i washed the car.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 7
+        },
+        {
+            "inputs": "\n\t(a): It started raining because the driver turned the wipers on.\n\t(b): The driver turned the wipers on because it started raining.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 8
+        },
+        {
+            "inputs": "\n\t(a): I put my clothes in the washing machine because my clothes got dirty.\n\t(b): My clothes got dirty because i put my clothes in the washing machine.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 9
+        },
+        {
+            "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: The dog bit me.\n  choice: I pulled the dog's tail.\nanswer:\n\t(a): The dog bit me.\n\t(b): I pulled the dog's tail.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 0
+        },
+        {
+            "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: The girl woke up covered in cold sweat.\n  choice: The girl had a nightmare.\nanswer:\n\t(a): The girl woke up covered in cold sweat.\n\t(b): The girl had a nightmare.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 1
+        },
+        {
+            "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: A watermelon exploded.\n  choice: A man was covered in sticky red goo.\nanswer:\n\t(a): A watermelon exploded.\n\t(b): A man was covered in sticky red goo.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 2
+        },
+        {
+            "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: Tomatoes grew on the vine.\n  choice: The insect pollinated the tomato flowers.\nanswer:\n\t(a): Tomatoes grew on the vine.\n\t(b): The insect pollinated the tomato flowers.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 3
+        },
+        {
+            "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: The girl stepped onto the street.\n  choice: The driver hit the brakes.\nanswer:\n\t(a): The driver hit the brakes.\n\t(b): The girl stepped onto the street.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 4
+        },
+        {
+            "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: The pilot turned on the \"fasten seatbelts\" light.\n  choice: A bird hit the engine.\nanswer:\n\t(a): The pilot turned on the \"fasten seatbelts\" light.\n\t(b): A bird hit the engine.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 5
+        },
+        {
+            "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: The man got lost in the woods.\n  choice: A search party was assembled.\nanswer:\n\t(a): The man got lost in the woods.\n\t(b): A search party was assembled.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 6
+        },
+        {
+            "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: My car got dirty.\n  choice: I washed the car.\nanswer:\n\t(a): I washed the car.\n\t(b): My car got dirty.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 7
+        },
+        {
+            "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: The driver turned the wipers on.\n  choice: It started raining.\nanswer:\n\t(a): The driver turned the wipers on.\n\t(b): It started raining.\nA:",
+            "targets": "(b)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                0,
+                1
+            ],
+            "idx": 8
+        },
+        {
+            "inputs": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: My clothes got dirty.\n  choice: I put my clothes in the washing machine.\nanswer:\n\t(a): My clothes got dirty.\n\t(b): I put my clothes in the washing machine.\nA:",
+            "targets": "(a)",
+            "multiple_choice_targets": [
+                "(a)",
+                "(b)"
+            ],
+            "multiple_choice_scores": [
+                1,
+                0
+            ],
+            "idx": 9
+        }
+    ]
+}

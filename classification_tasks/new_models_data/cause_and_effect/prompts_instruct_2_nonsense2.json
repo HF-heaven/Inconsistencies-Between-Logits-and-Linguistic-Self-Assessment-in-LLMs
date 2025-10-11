@@ -1,0 +1,302 @@
+[
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Which of the following sentences makes more sense?\nexample:\n  choice: The dog bit me because i pulled the dog's tail.\n  choice: I pulled the dog's tail because the dog bit me.\nanswer:\n\t(a): I pulled the dog's tail because the dog bit me.\n\t(b): The dog bit me because i pulled the dog's tail.\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Which of the following sentences makes more sense?\nexample:\n  choice: The girl woke up covered in cold sweat because the girl had a nightmare.\n  choice: The girl had a nightmare because the girl woke up covered in cold sweat.\nanswer:\n\t(a): The girl had a nightmare because the girl woke up covered in cold sweat.\n\t(b): The girl woke up covered in cold sweat because the girl had a nightmare.\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Which of the following sentences makes more sense?\nexample:\n  choice: A watermelon exploded because a man was covered in sticky red goo.\n  choice: A man was covered in sticky red goo because a watermelon exploded.\nanswer:\n\t(a): A man was covered in sticky red goo because a watermelon exploded.\n\t(b): A watermelon exploded because a man was covered in sticky red goo.\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Which of the following sentences makes more sense?\nexample:\n  choice: Tomatoes grew on the vine because the insect pollinated the tomato flowers.\n  choice: The insect pollinated the tomato flowers because tomatoes grew on the vine.\nanswer:\n\t(a): Tomatoes grew on the vine because the insect pollinated the tomato flowers.\n\t(b): The insect pollinated the tomato flowers because tomatoes grew on the vine.\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Which of the following sentences makes more sense?\nexample:\n  choice: The girl stepped onto the street because the driver hit the brakes.\n  choice: The driver hit the brakes because the girl stepped onto the street.\nanswer:\n\t(a): The driver hit the brakes because the girl stepped onto the street.\n\t(b): The girl stepped onto the street because the driver hit the brakes.\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Which of the following sentences makes more sense?\nexample:\n  choice: The pilot turned on the \"fasten seatbelts\" light because a bird hit the engine.\n  choice: A bird hit the engine because the pilot turned on the \"fasten seatbelts\" light.\nanswer:\n\t(a): The pilot turned on the \"fasten seatbelts\" light because a bird hit the engine.\n\t(b): A bird hit the engine because the pilot turned on the \"fasten seatbelts\" light.\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Which of the following sentences makes more sense?\nexample:\n  choice: The man got lost in the woods because a search party was assembled.\n  choice: A search party was assembled because the man got lost in the woods.\nanswer:\n\t(a): The man got lost in the woods because a search party was assembled.\n\t(b): A search party was assembled because the man got lost in the woods.\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Which of the following sentences makes more sense?\nexample:\n  choice: My car got dirty because i washed the car.\n  choice: I washed the car because my car got dirty.\nanswer:\n\t(a): My car got dirty because i washed the car.\n\t(b): I washed the car because my car got dirty.\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Which of the following sentences makes more sense?\nexample:\n  choice: The driver turned the wipers on because it started raining.\n  choice: It started raining because the driver turned the wipers on.\nanswer:\n\t(a): The driver turned the wipers on because it started raining.\n\t(b): It started raining because the driver turned the wipers on.\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Which of the following sentences makes more sense?\nexample:\n  choice: My clothes got dirty because i put my clothes in the washing machine.\n  choice: I put my clothes in the washing machine because my clothes got dirty.\nanswer:\n\t(a): My clothes got dirty because i put my clothes in the washing machine.\n\t(b): I put my clothes in the washing machine because my clothes got dirty.\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "\n\t(a): I pulled the dog's tail because the dog bit me.\n\t(b): The dog bit me because i pulled the dog's tail.\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "\n\t(a): The girl woke up covered in cold sweat because the girl had a nightmare.\n\t(b): The girl had a nightmare because the girl woke up covered in cold sweat.\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "\n\t(a): A watermelon exploded because a man was covered in sticky red goo.\n\t(b): A man was covered in sticky red goo because a watermelon exploded.\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "\n\t(a): Tomatoes grew on the vine because the insect pollinated the tomato flowers.\n\t(b): The insect pollinated the tomato flowers because tomatoes grew on the vine.\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "\n\t(a): The driver hit the brakes because the girl stepped onto the street.\n\t(b): The girl stepped onto the street because the driver hit the brakes.\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "\n\t(a): The pilot turned on the \"fasten seatbelts\" light because a bird hit the engine.\n\t(b): A bird hit the engine because the pilot turned on the \"fasten seatbelts\" light.\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "\n\t(a): A search party was assembled because the man got lost in the woods.\n\t(b): The man got lost in the woods because a search party was assembled.\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "\n\t(a): I washed the car because my car got dirty.\n\t(b): My car got dirty because i washed the car.\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "\n\t(a): It started raining because the driver turned the wipers on.\n\t(b): The driver turned the wipers on because it started raining.\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "\n\t(a): I put my clothes in the washing machine because my clothes got dirty.\n\t(b): My clothes got dirty because i put my clothes in the washing machine.\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: The dog bit me.\n  choice: I pulled the dog's tail.\nanswer:\n\t(a): The dog bit me.\n\t(b): I pulled the dog's tail.\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: The girl woke up covered in cold sweat.\n  choice: The girl had a nightmare.\nanswer:\n\t(a): The girl woke up covered in cold sweat.\n\t(b): The girl had a nightmare.\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: A watermelon exploded.\n  choice: A man was covered in sticky red goo.\nanswer:\n\t(a): A watermelon exploded.\n\t(b): A man was covered in sticky red goo.\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: Tomatoes grew on the vine.\n  choice: The insect pollinated the tomato flowers.\nanswer:\n\t(a): Tomatoes grew on the vine.\n\t(b): The insect pollinated the tomato flowers.\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: The girl stepped onto the street.\n  choice: The driver hit the brakes.\nanswer:\n\t(a): The driver hit the brakes.\n\t(b): The girl stepped onto the street.\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: The pilot turned on the \"fasten seatbelts\" light.\n  choice: A bird hit the engine.\nanswer:\n\t(a): The pilot turned on the \"fasten seatbelts\" light.\n\t(b): A bird hit the engine.\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: The man got lost in the woods.\n  choice: A search party was assembled.\nanswer:\n\t(a): The man got lost in the woods.\n\t(b): A search party was assembled.\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: My car got dirty.\n  choice: I washed the car.\nanswer:\n\t(a): I washed the car.\n\t(b): My car got dirty.\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: The driver turned the wipers on.\n  choice: It started raining.\nanswer:\n\t(a): The driver turned the wipers on.\n\t(b): It started raining.\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "For each example, two events are given. Which event caused the other?\nexample:\n  choice: My clothes got dirty.\n  choice: I put my clothes in the washing machine.\nanswer:\n\t(a): My clothes got dirty.\n\t(b): I put my clothes in the washing machine.\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ]
+]

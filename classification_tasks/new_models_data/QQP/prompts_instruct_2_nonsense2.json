@@ -1,0 +1,2002 @@
+[
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: How do I lose weight only through a vegan diet?\nQuestion2: Can you lose weight with just a vegan diet?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: How do capacitors work practically?\nQuestion2: How do capacitors work?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: How can I Increase the traffic of my blog?\nQuestion2: What is the best way to increase traffic for a new blog?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Why is a live-in relationship considered \"bad\" and \"immoral\" in Indian society?\nQuestion2: Why Indian society does not accept live-in relationships?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: I need 8 dental implants. how much will it cost?\nQuestion2: How and why did Julia Allison disappear from the tech media spotlight?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: How widely accepted are credit cards at small businesses and restaurants in Seychelles?\nQuestion2: How widely accepted are credit cards at small businesses and restaurants in Australia?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Why is everyone trying to kill me?\nQuestion2: Someone is trying to kill me, what should I do?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Is 125 pounds considered underweight for someone who is 5' 8\"?\nQuestion2: Would 130 pounds and 5'7 be a healthy weight?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What is the deadliest insect on the planet?\nQuestion2: What is the most deadliest insect in the world?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Which is the best mixer grinder?\nQuestion2: Which is the best mixer grinder for travel?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Is there a tool that will automatically repeat tweets indefinitely?\nQuestion2: Is there a great tool to backup someone else tweets? Not only my own tweets...\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: How can light be reflected if it is made up of photons that are mass less?\nQuestion2: If photons have no mass then how are they reflected?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Can Fedevel academy teach me to make a modern PCB?\nQuestion2: Has anyone taken any course from Fedevel academy for PCB design?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Where are the best WordPress web designers?\nQuestion2: I don't wish to join a job. I want to be an intern and intern again. What should I do?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What's the best thing to comment on a girl's DP on Facebook?\nQuestion2: How I Can make a Facebook dp overlap apps?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: How would you answer the question \"Why should we hire you”?\nQuestion2: What was the best answer for \"Why we can hire you\"?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What are some dishes to serve with stuffed mushrooms?\nQuestion2: What are some great side dishes for stuffed mushrooms?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: I'm not sure if I'm bisexual or pansexual. How do I know?\nQuestion2: How do you know if you are bisexual?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Is news important to you?\nQuestion2: Is news important?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Technical project topics on \"humanity to Origin\"?\nQuestion2: Bolivia is really beautiful?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Does the belly button serve any purpose after birth?\nQuestion2: What purpose does \"en\" serve in chemistry?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Can the President of the United States carry a firearm?\nQuestion2: Can the U.S. President carry a personal firearm?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: How do I love and hate a person at the same time?\nQuestion2: Is it possible to love and hate a person at the same time?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Among large UK Newspapers, which are considered conservative and which are considered liberal?\nQuestion2: What behaviour is normal in other countries, but considered to be very rude in the UK?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What are your views on one day ban on NDTV?\nQuestion2: If Fox News would never be banned in the US, how is the NDTV ban justified?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: I am a Java developer, thinking to do certification on cloud computing, but not sure which one (Microsoft, AWS, Google, CompTIA & etc.,) I can choose?\nQuestion2: Doesn’t the Hindu marriage act apply in the state of Goa?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What do you think about minds.com?\nQuestion2: What do you think about Packtwo.com?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: How does the Flipkart Mobile Exchange work?\nQuestion2: Do the flipkart delivery bot ask for the bill of my old mobile when I exchange my old mobile for new one?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What are some tips on making it through the job interview process at Advent Software?\nQuestion2: What are some tips on making it through the job interview process at Progress Software?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Why is saltwater taffy candy imported in Austria?\nQuestion2: Why is Saltwater taffy candy imported in Czech Republic?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What are some good \"Black Lives Matter\" slogan parodies?\nQuestion2: Could you rig a GPU to be a CPU?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: How do ballistic missiles aim and change direction?\nQuestion2: How do missiles aim and change direction?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: How do I make the best software company?\nQuestion2: How do I apply to the best software company?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What is the meaning of my life?\nQuestion2: What is the meanings of life?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What economic trends should we be paying more attention to in the coming years?\nQuestion2: Is personal trainer required when you join gym for the first time?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What is the best certification course to learn digital marketing?\nQuestion2: What are the best online short courses in digital marketing?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What are the first or must-have homebrew packages that you install on your Mac?\nQuestion2: What is the purpose of Homebrew package installer for Mac OS X?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: How much data does a minute of a WhatsApp call consume?\nQuestion2: How much data do WhatsApp calls consume?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What is a suitable solar panel installation provider in Sun Valley, California CA?\nQuestion2: What is a suitable solar panel installation provider in Tivy Valley, California CA?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Who would be a better president: Hillary Clinton or Donald Trump?\nQuestion2: Who will be a better president Donald Trump or Hillary Clinton?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Are there any effective cures for eczema?\nQuestion2: How can you cure eczema?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: How can I apologize after an awkward situation with a girl?\nQuestion2: How do I get of an awkward friendship situation?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What does your inner voice say to you?\nQuestion2: What is an inner voice?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: How are autistic people different from someone without autism?\nQuestion2: How exactly does autism affect a person that makes them different from people without autism?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Which city is best to visit Milan, Venice, Florence or Rome?\nQuestion2: Italy: If I have to choose between Milan or Venice for a 2-3 days visit in June-July which one should I choose and why?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: How do you prevent XSS in PHP?\nQuestion2: How do you test for XSS?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What do you think life is about?\nQuestion2: What do you think life is?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What/how was the relationship/nature of relationship between Krishna and Radha after Krishna being married to Rukmini and Radha being married to Ayan?\nQuestion2: I don't want to get married or be in a relationship or have kids. Am I a bad person?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: How much more advanced is the India's IRNSS-NAVIC when compared to GPS?\nQuestion2: Will IRNSS be more accurate than GPS?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What is Niantic's criteria for \"tiny rattata\" and \"big magikarp\" in Pokémon GO?\nQuestion2: Why does Niantic allow its API to be used to show the location and timing of Pokémon in Pokémon GO?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What are the biggest lessons you have learned in the corporate world?\nQuestion2: What is your biggest lesson learned while working remotely?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: How long should I nurse a cold before I should see a doctor to determine if it's an infection or not?\nQuestion2: How long should I wait before seeing a doctor if I have a chest cold?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Why did Germany fight with Japan in WW2?\nQuestion2: Why did Japan and Italy ally themselves with Germany in WW2?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Why is it socially acceptable for a black individuals to exclaim pride in their ethnicity publicly, yet for white individuals it is not?\nQuestion2: Why are Black pride, gay pride and Asian pride all viewed positively but white pride is viewed negatively?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What do most Americans (from the US) think of Indians?\nQuestion2: What do Americans expect from Indians while an Indian is in the US?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Where did racism come from?\nQuestion2: Where did the idea of racism come from?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: How long will meth stay in my system if I inject it?\nQuestion2: How long meth stay in system?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Where can I get necessary legal advice and services in Sydney for property transaction?\nQuestion2: Where can I get professional advice for buying and selling a property in Sydney?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: How do I get an international internship in industrial engineering?\nQuestion2: How do I get an international internship in electronics engineering?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What is the best way to cold email someone in private equity for the purpose showing interest in the industry and get an interview (potentially?)?\nQuestion2: Adam D'Angelo: What do you think of Quora users from INDIA?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What is the best way to learn about the constellations?\nQuestion2: What is the best way to learn the constellations?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: How do I deal with my little brother’s addiction to video games?\nQuestion2: How do I stop my little brothers video game addiction?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: If a non-Muslim converts, how does he(she) chooses whether to be Shia or Sunni?\nQuestion2: Which Islam should I choose, Shia or Sunni? How do I know which one is the truth?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: For you what is the meaning of life?\nQuestion2: What is the purpose of life?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What are some of the best Linux Distros?\nQuestion2: What is the best Linux Distro for GNOME?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: How do I become a graphics designer?\nQuestion2: How did you figured out that you want to be a graphic designer?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What are the most interesting products and innovations that Commerce Bank is coming out with in 2016?\nQuestion2: What are the most interesting products and innovations that Associated Bank is coming out with in 2016?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: How can I be important in the society?\nQuestion2: How do you think an individual is important in the society?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: How can you determine the Lewis structure for C2H2BR2?\nQuestion2: How can the Lewis Structure for NH2NH2 be determined?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Given access to the same facts, how is it possible that there can be disagreement between experts in a discipline?\nQuestion2: Given access to the same facts, how is it possible that there can be disagreement between experts in a discipline? What are two examples for it?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What are taboo?\nQuestion2: What are the taboos, if any, in mathematics?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Do Arrears (backlogs) affect placements at MNCs even if you improved scores after one disastrous year?\nQuestion2: If you get an arrear and you re register that course, does it count as a Backlog?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Which is the largest site of Indus valley Civilization?\nQuestion2: Which is the largest site of Indus Civilization?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Is it ethical to upvote an answer just because I spent the time reading it?\nQuestion2: What is the probability that a person will upvote an answer just because it's long?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What is an example of how a quasi contract works?\nQuestion2: How do government contracts work?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: How could it be harmful to breathe in Raid (used to kill bugs)? I sprayed it on my bed and my friend said it coulld cause brain damage.\nQuestion2: Do Olympic players from other countries than India get the same kind of rewards from their respective governments just like here?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: How should I study (give me a study plan) for 1st year mbbs?\nQuestion2: What should be my study strategy for first year of MBBS?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: How much the rubber expansion joint cost ?\nQuestion2: How much does meth cost?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Do I need to change my driving license if I am moving to another state in India?\nQuestion2: How do one obtain a license in buses and lorries in India, what are the criteria needed and how is the driving test?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What are some tips on making it through the job interview process at UDR?\nQuestion2: What are the best cookbooks with quick, delicious recipes?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What would happen if the shape of earth became a hollow semi-sphere? Would it be possible to stand on the inner surface?\nQuestion2: What would have happened if Earth was pyramidal in shape?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: How has the present Philippines independent foreign policy set a good model for Japan and South Korea to follow in the world?\nQuestion2: If you're a foreigner living in Japan and money is inconsequential, is it possible to visit South Korea on holidays? If yes, how often?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What can be the most insane ways to commit suicide?\nQuestion2: What is the most painless way to do a suicide?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: How can I get a sponsor as a developing athlete with great potential?\nQuestion2: How much package I can get as a android developer with experience 2.4 year?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Are the voting booths set up on the reservations?\nQuestion2: Are voting booths set up on reservations?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Is Hillary Clinton's enabling of voter fraud and inciting of violence at Trump rallies by DNC affiliated groups affecting independents?\nQuestion2: What is your opinion on the O'Keefe video exposing the DNC inciting violence against Trump supporters?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: How do I calculate beam loads from slab loads?\nQuestion2: How do I calculate beam loads from slab?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Why did India launch British satellites?\nQuestion2: Why are Britishers using Indian satellites to launch vehicles for their satellites?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What is the best entry level camera/lens, for an aspiring, hope to be someday professional photographer, who is on a tight budget?\nQuestion2: Which is the best entry level camera for aspiring photographer?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: How do you get rid of dry or sore throat?\nQuestion2: How do you get rid of a sore throat?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Can we know who is peeping at my Quora profile?\nQuestion2: How do we know who viewed our Quora profile?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: When will David Pollak complete \"Simply Lift\"?\nQuestion2: How do I add a treeview to a Lift template?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: How can I earn money through YouTube?\nQuestion2: How can I make money through YouTube?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: How much money does an average Uber Black driver earn in a day in Washington, D.C.?\nQuestion2: How much money uber drivers make in Fresno?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What projects can I do if I have good knowledge of C language and data structures and algorithms?\nQuestion2: What are some good ideas for a project in data structures in C?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Which is the best phone for outdoor/nature photography?\nQuestion2: I want to do MS in ME from US .What should I do to get it there?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Higher studies in abroad after IPS?\nQuestion2: What are the most powerful wifi 4G antenna?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: How do I know that a guy likes you?\nQuestion2: How can you tell a if guy likes you?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Why is ham bad for dogs?\nQuestion2: Why is ham good for dogs?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What do you do when someone asks you a question then looks away during your response?\nQuestion2: What does Quora do when you ask your question in a different language?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What does it feel like to drown?\nQuestion2: Can newborn baby swim and not drown?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Is every non-textual data is unstructured?\nQuestion2: What would be your ideal cast if R Scott Bakker's novel series \"Prince of Nothing\" is adapted into film/ TV series?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What are the financial markets (all)?\nQuestion2: What exactly are financial markets?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: How do I become more consistent?\nQuestion2: How can I become consistent again?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: I studied at a law school, but I didn't study a Juris Doctor. If I pass a bar exam, can I work for a law firm as a lawyer?\nQuestion2: What is London weather like and how does it compare to other European cities?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What was the main cause of World War One?\nQuestion2: What situations led to World War 1?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: How do you cook slightly frozen chicken?\nQuestion2: How do you fry frozen chicken?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Does a function having no critical points imply that it's a linear function?\nQuestion2: How do I find the critical points of a function containing logarithms and algebra?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What good vs. bad habits have expats picked up after coming to Malaysia?\nQuestion2: What good vs. bad habits have expats picked up after coming to Singapore?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Who will win UP elections 2017 and how?\nQuestion2: Who will win up 2017 election?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Where can I donate sperm in India?\nQuestion2: How do you donate sperm?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Should I confess to my crush or wait till right moment?\nQuestion2: Should I confess to my crush of 6 years ?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: How many religions are there in the world? What are they?\nQuestion2: How many religions in the world? Which one is right?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Should I drop one year after BCA for MBA preparations?\nQuestion2: Should I drop 1 year after a BE for CAT preparation?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Have any of your close friends and relatives given you a first person account of their alien abduction?\nQuestion2: Is there even a hint of truth to any alien or alien abduction stories or anything alien related at all? Any data/evidence to support this?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What is the means of Gmail Password Recovery?\nQuestion2: How do I reset my Gmail password when I don't remember my recovery information?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What does an advertising agency do?\nQuestion2: What are some advertising agencies in China?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Does the end justify the means?\nQuestion2: Do the ends justify the means when achieving your life goals?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: How do we get electricity from hydroelectric source?\nQuestion2: How we get electric shock?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What is macroscopic motion?\nQuestion2: What is rectilinear motion?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Where do I catch a Butterfree in Pokémon GO?\nQuestion2: Where do I catch Zubats in Pokémon GO?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What is the Sahara, and how do the average temperatures there compare to the ones in the Great Sandy Desert?\nQuestion2: What is the Sahara, and how do the average temperatures there compare to the ones in the Dasht-e Kavir?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: How do I let go of regrets?\nQuestion2: How do I let go of regrets from the past and becoming older?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: How do I ship In-N-Out across country?\nQuestion2: How do I ship a laptop across the country?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What is the best way to learn Artificial Intelligence for a beginner?\nQuestion2: What is best for learning artificial intelligence, lecture or book?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: How should one improve one's presence of mind?\nQuestion2: I feel numb at important situations, I am unable to think smartly. How can I improve by presence of mind?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: How are black holes born?\nQuestion2: How black holes are formed?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Who is your best friend? Why?\nQuestion2: Who is my best friend?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What is the best TV series and why?\nQuestion2: What is the best TV show of all time, and why?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Do psychopaths know they are psychopaths?\nQuestion2: What is it like to closely know a diagnosed psychopath?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What is causing iPhone sales to drop (April 2016)?\nQuestion2: Why did iPhone sales drop?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Who do you think will be the next U.S. president?\nQuestion2: Who will be voted the next president?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: How many businesses in the U.S. operate during all hours of the day?\nQuestion2: Can a computer virus cause a server to catch fire?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: How long will it take to learn HTML and CSS?\nQuestion2: How long did it take you to learn HTML?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: How could I control my emotions and my negative thoughts?\nQuestion2: How do I control emotions and reactions in nervousness?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What is the value of |1/0|?\nQuestion2: What is the value of 1/0?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Who is the faster Flash, Barry or Wally?\nQuestion2: How does the Flash (Barry Allen) die?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: How can I delete my Instagram comments off an account that's blocked me?\nQuestion2: How do I delete my Instagram comments on a user's post that he/she blocked me?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Who are some good competitive programmers or just programmers from Etawah, Uttar Pradesh?\nQuestion2: Who are the best competitive programmers from punjab?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Which book is the best reference for a CS executive in both modules?\nQuestion2: Which is the best book for executive programme of CS?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: How does living in Taiwan compare to living in America and Southeast Asia?\nQuestion2: Which is the best software for business to consumer, e-commerce portal?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Is 13 .5 cm penis length enough to pleasure a girl?\nQuestion2: Is a small penis (13-14 cm) enough for a big girl?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Are ghost evil are real?\nQuestion2: Are ghosts good or evil?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Who uses cryptography today?\nQuestion2: Who uses cryptography?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What are the different types of hypotension, and how do they compare to each other?\nQuestion2: Is being attractive and good looking considered a pass to get-out-of jail?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What are the best forums about graduate school?\nQuestion2: How does a B affect your graduate school application?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What are the symptoms of child abuse?\nQuestion2: What are signs of child abuse?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What is secular?\nQuestion2: What is secularize?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Why did America chose Hiroshima and Nagasaki to drop its atom bomb? Why did the US take such a big decision to bomb these two places knowing about its disastrous consequences?\nQuestion2: The destructive force of the atomic bomb is clearly demonstrable without actual casualties. Why did the US still opt to bomb Hiroshima and Nagasaki?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Are bolognaise and barbecue Lays (chips) vegetarian?\nQuestion2: How are Lay's potato chips made? How does the process begin?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Where are some dangerous places to stay in the world, and why are those places so dangerous?\nQuestion2: Where are the most dangerous places in the world and why?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What do linguists think of the movie Arrival?\nQuestion2: What did Dr. Louise tell the the Chinese at the end in Arrival Movie?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What is the difference between Big O notation and tilde-notation?\nQuestion2: What is the difference between big O notation and little o notation in asymptotic notations?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What are the top distance learning universities or institutes in India?\nQuestion2: What are the best distance-learning universities in India?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What is the difference between phase voltage and line voltage on a 3 phase transmission line?\nQuestion2: What is the relation between phase and line voltage?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: How do I find the center of concrete column thats already been casted at site?\nQuestion2: Why did Agamemnon sacrifice his daughter according to history?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What can I do to lose weight?\nQuestion2: What do I do to lose my weight?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What is the present scenario in us after doing MS?\nQuestion2: How suggestable is to do ms in us considering the present scenario?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: How can I become a conductor?\nQuestion2: How does one become an orchestra conductor?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Where are the latest 1Z0-820 materials?\nQuestion2: Where can I get the latest 1Z0-514 materials?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What can I blog about?\nQuestion2: What can we blog about?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What universities does Bebe Stores recruit new grads from? What majors are they looking for?\nQuestion2: What universities does Stage Stores recruit new grads from? What majors are they looking for?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Are there any animals that don't sleep?\nQuestion2: Do all animals get cancer?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Why can't I delete some pictures from my messenger shared content?\nQuestion2: How do you delete a picture from instagram on your computer?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What are the best universities/colleges to do short term course in western vocal in India?\nQuestion2: Which is the best short term course which will add to my earnings?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What is purpose of life?\nQuestion2: It is said that each one of us is born for some specific purpose. How do we know what are we born for?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What are some unknown things about Narendra Modi?\nQuestion2: What are some lesser known facts/incidents related to Narendra Modi?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Could cars run on water?\nQuestion2: Is there a car engine that could run on water?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What are websites that are similar to eBay?\nQuestion2: What are other websites similar to eBay?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What are some tips and tricks in QlikView which are unknown by most?\nQuestion2: What are some cool WhatsApp tricks?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Is economics the science which studies human behavior as a relationship between ends & scarce means which have alternative uses?\nQuestion2: Which is better for finding a job between a double major in economics and political science and a double major in economics and philosophy?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What do people of Pakistan Occupied Kashmir think about India?\nQuestion2: What do Pakistan-occupied Kashmir people think of India?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: How much price cut is expected for Galaxy s7 till April 2017?\nQuestion2: What is the price of Samsung galaxy s7 edge?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Can you delete pictures from an iPhone and still have it saved in iCloud? If so, how?\nQuestion2: If I backup my iPhone data to iCloud can I delete everything in my iTunes library?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What is so special about the number '1729'?\nQuestion2: What is so special about the number 42?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Who are some new YouTubers in and around Kolkata?\nQuestion2: What is the best way to celebrate new year alone in Kolkata?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Why didn't Sania Mirza condemned the terror attack at Uri?\nQuestion2: If Leander Paes and Sania Mirza are so good at doubles, why don't they form a team and provide India the much needed Olympic gold?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What is the best cartoon ever and why?\nQuestion2: What are the most interesting cartoons?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What is a good inpatient drug and alcohol rehab center in Washington County NC?\nQuestion2: What is a good inpatient drug and alcohol rehab center in Washington County AL?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What does paper 3 in IB chemistry SL include?\nQuestion2: Where can I get the IB May 2014 Exam papers for practice?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: How do I access my Instagram account?\nQuestion2: How many admins can have access to one Instagram account?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: How does an opera singer decide to pursue opera as career?\nQuestion2: Unilateral element Diode defination?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What is the explanation behind the Buzzfeed blue/black/white/gold dress?\nQuestion2: Is black, white and gold a good a color scheme for a website and application design?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Does your brain make you see yourself 5 times more beautiful than you actually are?\nQuestion2: Why is beauty so overrated in India? Say a hot girl making 5 LPA is usually valued (has more demand) more than someone making 3-4 times that of her!\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Who created the Apple TV 4 screen savers?\nQuestion2: Is Amazon Fire TV just as good as Apple TV?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What is the diffrence betweeen inductor and capacitor?\nQuestion2: What is the principle behind a non-linear resistor, non-linear capacitor, non-linear inductor?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: When was your first sex experience?\nQuestion2: How was your first sex experience? Good /bad, describe it?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What should I do in college?\nQuestion2: What should I do at college?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What high schools feed the most students to Yale?\nQuestion2: Which high school feeds the most students to Yale?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: How do I switch between panes in split mode in Vim?\nQuestion2: How do you copy-paste between files in Vim?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What would happen if we could use 100% of our brain?\nQuestion2: Can our brain be 100% like Lucy?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What is the fastest method for learning a foreign language?\nQuestion2: What is the best method to learn new language?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: How was the KVPY 2016 SA paper? What is the expected cutoff?\nQuestion2: How was the KVPY 2016 sa?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: What are the top courses on digital marketing?\nQuestion2: Which are the courses on Coursera or other MOOCs to study digital marketing?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Why do eggs expire?\nQuestion2: Do eggs expire?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Why is Norethindrone prescribed for breastfeeding mothers?\nQuestion2: What's another name for the boogeyman?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Pakistan has never won any wars, but their generals and military officers wear a lot of medals. How is this possible?\nQuestion2: Pakistan has never won a war so from where do Pakistan's army generals buy medals hung on their uniforms?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Why does the UK have an unwritten Constitution?\nQuestion2: Why does England not have a constitution?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: I am getting 44.33 unnormalized marks in the GATE 2015 (CSE) for the 7th afternoon session. Are there any chances of me getting an IIT?\nQuestion2: I am getting 54.4 unnormalized marks in GATE 2015 CSE for the 7th February afternoon session. Are there any chances of me getting an IIT?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Yesterday I talked to my toaster about philosophy.. You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Are the following questions asking the same thing?\nQuestion1: Which is the best business below 10 lakhs?\nQuestion2: What are the best ideas for starting business with 10 lakhs investment?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ]
+]

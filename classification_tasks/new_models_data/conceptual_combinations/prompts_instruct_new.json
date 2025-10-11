@@ -1,0 +1,192 @@
+[
+    [
+        {
+            "role": "system",
+            "content": "Read the question, provide your answer and your confidence in this answer. Note: The confidence indicates how likely you think your answer is true. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Your answer must be one of the option letters (a, b, c, or d).  Do not output any number or word other than the option letter.Use the following format to answer: A: <(a)/(b)/(c)/(d)>. Confidence: <Your confidence level, please only include the numerical number in the range of 0-10>.\nOnly the answer and confidence, don’t give me the explanation. If unsure, still pick the closest option among (a–d). Do not output a number as the answer."
+        },
+        {
+            "role": "user",
+            "content": "Concept: distasteful taste. Question: Which of the following sentences best characterizes distateful tastes?\n(a) Distasteful tastes are unflattering.\n(b) Distasteful tastes lack flavour.\n(c) Distasteful tastes make good dishes.\n(d) Distasteful tastes titillate your taste buds.\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Read the question, provide your answer and your confidence in this answer. Note: The confidence indicates how likely you think your answer is true. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Your answer must be one of the option letters (a, b, c, or d).  Do not output any number or word other than the option letter.Use the following format to answer: A: <(a)/(b)/(c)/(d)>. Confidence: <Your confidence level, please only include the numerical number in the range of 0-10>.\nOnly the answer and confidence, don’t give me the explanation. If unsure, still pick the closest option among (a–d). Do not output a number as the answer."
+        },
+        {
+            "role": "user",
+            "content": "Concept: Colourless red surfaces. Question: Which of the following sentences best characterizes colourless red surfaces?\n(a) Colourless red surfaces cannot exist.\n(b) Colourless red surfaces are both red and green.\n(c) Colourless red surfaces are good tabletops for kitchens.\n(d) Colourless red surfaces are used often in interior decoration.\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Read the question, provide your answer and your confidence in this answer. Note: The confidence indicates how likely you think your answer is true. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Your answer must be one of the option letters (a, b, c, or d).  Do not output any number or word other than the option letter.Use the following format to answer: A: <(a)/(b)/(c)/(d)>. Confidence: <Your confidence level, please only include the numerical number in the range of 0-10>.\nOnly the answer and confidence, don’t give me the explanation. If unsure, still pick the closest option among (a–d). Do not output a number as the answer."
+        },
+        {
+            "role": "user",
+            "content": "Concept: Extroverted introvert. Question: Which of the following sentences best characterizes extroverted introverts?\n(a) Extroverted introverts are friendly but like to be alone.\n(b) Extroverted introverts should never meet strangers in public places.\n(c) Extroverted introverts are B-list celebrities.\n(d) Extroverted introverts turn themselves inside-out.\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Read the question, provide your answer and your confidence in this answer. Note: The confidence indicates how likely you think your answer is true. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Your answer must be one of the option letters (a, b, c, or d).  Do not output any number or word other than the option letter.Use the following format to answer: A: <(a)/(b)/(c)/(d)>. Confidence: <Your confidence level, please only include the numerical number in the range of 0-10>.\nOnly the answer and confidence, don’t give me the explanation. If unsure, still pick the closest option among (a–d). Do not output a number as the answer."
+        },
+        {
+            "role": "user",
+            "content": "Concept: round tables. Question: Which of the following sentences best characterizes round tables?\n(a) Round tables are used in conference rooms.\n(b) Round tables are used to play football.\n(c) Round tables are good for visualizing information.\n(d) Round tables can replace car wheels.\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Read the question, provide your answer and your confidence in this answer. Note: The confidence indicates how likely you think your answer is true. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Your answer must be one of the option letters (a, b, c, or d).  Do not output any number or word other than the option letter.Use the following format to answer: A: <(a)/(b)/(c)/(d)>. Confidence: <Your confidence level, please only include the numerical number in the range of 0-10>.\nOnly the answer and confidence, don’t give me the explanation. If unsure, still pick the closest option among (a–d). Do not output a number as the answer."
+        },
+        {
+            "role": "user",
+            "content": "Concept: unshelled peas. Question: Which of the following sentences best characterizes unshelled peas?\n(a) Unshelled peas are long.\n(b) Unshelled peas can be found on the beach.\n(c) Unshelled peas are vulnerable.\n(d) Unshelled peas are red.\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Read the question, provide your answer and your confidence in this answer. Note: The confidence indicates how likely you think your answer is true. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Your answer must be one of the option letters (a, b, c, or d).  Do not output any number or word other than the option letter.Use the following format to answer: A: <(a)/(b)/(c)/(d)>. Confidence: <Your confidence level, please only include the numerical number in the range of 0-10>.\nOnly the answer and confidence, don’t give me the explanation. If unsure, still pick the closest option among (a–d). Do not output a number as the answer."
+        },
+        {
+            "role": "user",
+            "content": "Concept: overturned chairs. Question: Which of the following sentences best characterizes overturned chairs?\n(a) Overturned chairs are placed on tables.\n(b) Overturned chairs change the law.\n(c) Overturned chairs are good to sit on.\n(d) Overturned chairs have a lot of responsabilities.\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Read the question, provide your answer and your confidence in this answer. Note: The confidence indicates how likely you think your answer is true. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Your answer must be one of the option letters (a, b, c, or d).  Do not output any number or word other than the option letter.Use the following format to answer: A: <(a)/(b)/(c)/(d)>. Confidence: <Your confidence level, please only include the numerical number in the range of 0-10>.\nOnly the answer and confidence, don’t give me the explanation. If unsure, still pick the closest option among (a–d). Do not output a number as the answer."
+        },
+        {
+            "role": "user",
+            "content": "Concept: three-legged cows. Question: Which of the following sentences best characterizes three-legged cows?\n(a) Three-legged cows are easy to tip.\n(b) Three-legged cows are cuddly.\n(c) Three-legged cows are aggressive.\n(d) Three-legged cows produce more milk.\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Read the question, provide your answer and your confidence in this answer. Note: The confidence indicates how likely you think your answer is true. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Your answer must be one of the option letters (a, b, c, or d).  Do not output any number or word other than the option letter.Use the following format to answer: A: <(a)/(b)/(c)/(d)>. Confidence: <Your confidence level, please only include the numerical number in the range of 0-10>.\nOnly the answer and confidence, don’t give me the explanation. If unsure, still pick the closest option among (a–d). Do not output a number as the answer."
+        },
+        {
+            "role": "user",
+            "content": "Concept: square wheels. Question: Which of the following sentences best characterizes square wheels?\n(a) Square wheels are inefficient.\n(b) Square wheels are efficient.\n(c) Square wheels are good for straight roads.\n(d) Square wheels are common.\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Read the question, provide your answer and your confidence in this answer. Note: The confidence indicates how likely you think your answer is true. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Your answer must be one of the option letters (a, b, c, or d).  Do not output any number or word other than the option letter.Use the following format to answer: A: <(a)/(b)/(c)/(d)>. Confidence: <Your confidence level, please only include the numerical number in the range of 0-10>.\nOnly the answer and confidence, don’t give me the explanation. If unsure, still pick the closest option among (a–d). Do not output a number as the answer."
+        },
+        {
+            "role": "user",
+            "content": "Concept: white giraffes. Question: Which of the following sentences best characterizes white giraffes?\n(a) White giraffes are rare.\n(b) White giraffes have magical powers.\n(c) White giraffes are privileged.\n(d) White giraffes are worn in the summer.\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Read the question, provide your answer and your confidence in this answer. Note: The confidence indicates how likely you think your answer is true. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Your answer must be one of the option letters (a, b, c, or d).  Do not output any number or word other than the option letter.Use the following format to answer: A: <(a)/(b)/(c)/(d)>. Confidence: <Your confidence level, please only include the numerical number in the range of 0-10>.\nOnly the answer and confidence, don’t give me the explanation. If unsure, still pick the closest option among (a–d). Do not output a number as the answer."
+        },
+        {
+            "role": "user",
+            "content": "Concept: sliced apples. Question: Which of the following sentences best characterizes sliced apples?\n(a) Sliced apples are cooked in a pie.\n(b) Sliced apples are very sharp.\n(c) Sliced apples tend to bleed a lot.\n(d) Sliced apples are dysfunctional.\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Read the question, provide your answer and your confidence in this answer. Note: The confidence indicates how likely you think your answer is true. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Your answer must be one of the option letters (a, b, c, or d).  Do not output any number or word other than the option letter.Use the following format to answer: A: <(a)/(b)/(c)/(d)>. Confidence: <Your confidence level, please only include the numerical number in the range of 0-10>.\nOnly the answer and confidence, don’t give me the explanation. If unsure, still pick the closest option among (a–d). Do not output a number as the answer."
+        },
+        {
+            "role": "user",
+            "content": "Concept: green bicycles. Question: Which of the following sentences best characterizes green bicycles?\n(a) Green bicycles are painted green.\n(b) Green bicycles are good to play golf.\n(c) Green bicycles are made from trees.\n(d) Green bicycles are very young.\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Read the question, provide your answer and your confidence in this answer. Note: The confidence indicates how likely you think your answer is true. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Your answer must be one of the option letters (a, b, c, or d).  Do not output any number or word other than the option letter.Use the following format to answer: A: <(a)/(b)/(c)/(d)>. Confidence: <Your confidence level, please only include the numerical number in the range of 0-10>.\nOnly the answer and confidence, don’t give me the explanation. If unsure, still pick the closest option among (a–d). Do not output a number as the answer."
+        },
+        {
+            "role": "user",
+            "content": "Concept: Talking mice. Question: Which of the following sentences best characterizes talking mice?\n(a) Talking mice have squeaky voices.\n(b) Talking mice have booming voices.\n(c) Talking mice have no words for cheese.\n(d) Talking mice are very rude.\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Read the question, provide your answer and your confidence in this answer. Note: The confidence indicates how likely you think your answer is true. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Your answer must be one of the option letters (a, b, c, or d).  Do not output any number or word other than the option letter.Use the following format to answer: A: <(a)/(b)/(c)/(d)>. Confidence: <Your confidence level, please only include the numerical number in the range of 0-10>.\nOnly the answer and confidence, don’t give me the explanation. If unsure, still pick the closest option among (a–d). Do not output a number as the answer."
+        },
+        {
+            "role": "user",
+            "content": "Concept: atomic superhero. Question: Which of the following sentences best characterizes atomic superheroes?\n(a) Atomic superheroes got their powers from nuclear experiments.\n(b) Atomic superheroes are the size of atoms.\n(c) Atomic superheroes have more atoms than usual.\n(d) Atomic superheroes have nuclear families.\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Read the question, provide your answer and your confidence in this answer. Note: The confidence indicates how likely you think your answer is true. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Your answer must be one of the option letters (a, b, c, or d).  Do not output any number or word other than the option letter.Use the following format to answer: A: <(a)/(b)/(c)/(d)>. Confidence: <Your confidence level, please only include the numerical number in the range of 0-10>.\nOnly the answer and confidence, don’t give me the explanation. If unsure, still pick the closest option among (a–d). Do not output a number as the answer."
+        },
+        {
+            "role": "user",
+            "content": "The word 'alort' is an adjective for things that are athletes. Question: Which of the following sentences best characterizes alort boxers?\n(a) Alort boxers wear gloves.\n(b) Alort boxers have wrinkly faces.\n(c) Alort boxers are airier than briefs.\n(d) Alort boxers put things in boxes.\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Read the question, provide your answer and your confidence in this answer. Note: The confidence indicates how likely you think your answer is true. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Your answer must be one of the option letters (a, b, c, or d).  Do not output any number or word other than the option letter.Use the following format to answer: A: <(a)/(b)/(c)/(d)>. Confidence: <Your confidence level, please only include the numerical number in the range of 0-10>.\nOnly the answer and confidence, don’t give me the explanation. If unsure, still pick the closest option among (a–d). Do not output a number as the answer."
+        },
+        {
+            "role": "user",
+            "content": "The word 'dlort' is an adjective for things that are dogs. Question: Which of the following sentences best characterizes dlort boxers?\n(a) Dlort boxers have brown coats.\n(b) Dlort boxers fight for the heavyweight belt.\n(c) Dlort boxers are loose in the leg.\n(d) Dlort boxers move inwards and outwards at the same time.\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Read the question, provide your answer and your confidence in this answer. Note: The confidence indicates how likely you think your answer is true. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Your answer must be one of the option letters (a, b, c, or d).  Do not output any number or word other than the option letter.Use the following format to answer: A: <(a)/(b)/(c)/(d)>. Confidence: <Your confidence level, please only include the numerical number in the range of 0-10>.\nOnly the answer and confidence, don’t give me the explanation. If unsure, still pick the closest option among (a–d). Do not output a number as the answer."
+        },
+        {
+            "role": "user",
+            "content": "The word 'diz' means a person of means, and the word 'supe' means a person of humble origins. Question: Which of the following sentences best characterizes diz supes?\n(a) Diz supes become rich during their lifetimes.\n(b) Diz supes are humble and mean people.\n(c) Diz supes are meaningful people.\n(d) Diz supes have inherited their wealth.\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Read the question, provide your answer and your confidence in this answer. Note: The confidence indicates how likely you think your answer is true. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Your answer must be one of the option letters (a, b, c, or d).  Do not output any number or word other than the option letter.Use the following format to answer: A: <(a)/(b)/(c)/(d)>. Confidence: <Your confidence level, please only include the numerical number in the range of 0-10>.\nOnly the answer and confidence, don’t give me the explanation. If unsure, still pick the closest option among (a–d). Do not output a number as the answer."
+        },
+        {
+            "role": "user",
+            "content": "The word 'gimble' means an object that moves by means of rotating its spiked wheels, and the word 'tove' means a species of biological organism. Question: Which of the following sentences best characterizes gimble toves?\n(a) There are no gimble toves on Earth.\n(b) Gimble toves can usually be found inside old clocks.\n(c) Glimble toves roost on cliff caves.\n(d) Farmers use pesticides to get rid of gimble toves.\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Read the question, provide your answer and your confidence in this answer. Note: The confidence indicates how likely you think your answer is true. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Your answer must be one of the option letters (a, b, c, or d).  Do not output any number or word other than the option letter.Use the following format to answer: A: <(a)/(b)/(c)/(d)>. Confidence: <Your confidence level, please only include the numerical number in the range of 0-10>.\nOnly the answer and confidence, don’t give me the explanation. If unsure, still pick the closest option among (a–d). Do not output a number as the answer."
+        },
+        {
+            "role": "user",
+            "content": "The word 'torg' is an adjective for animals that feed on big prey. Question: Which of the following sentences best characterizes torg flies?\n(a) Torg flies prey on animals larger than themselves.\n(b) Torg flies are big preys.\n(c) Torg flies feed big prey.\n(d) Torg flies are fed up.\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Read the question, provide your answer and your confidence in this answer. Note: The confidence indicates how likely you think your answer is true. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Your answer must be one of the option letters (a, b, c, or d).  Do not output any number or word other than the option letter.Use the following format to answer: A: <(a)/(b)/(c)/(d)>. Confidence: <Your confidence level, please only include the numerical number in the range of 0-10>.\nOnly the answer and confidence, don’t give me the explanation. If unsure, still pick the closest option among (a–d). Do not output a number as the answer."
+        },
+        {
+            "role": "user",
+            "content": "The word 'frumious' is an adjective for things that are very threatening. Question: Which of the following sentences best characterizes frumious pets?\n(a) If you want a frumious pet, a rattlesnake is a good choice.\n(b) Frumious pets are great companions for little children.\n(c) Frumious pets are easy to recycle.\n(d) Most people prefer frumious pets over puppies.\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ]
+]

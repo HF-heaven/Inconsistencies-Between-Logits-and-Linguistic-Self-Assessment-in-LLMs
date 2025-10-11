@@ -1,0 +1,892 @@
+[
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(d); Confidence: 5.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'the rolling stones'?\n\t(a): the polling stones\n\t(b): tce rolling stones\n\t(c): the rollvng stones\n\t(d): thea rolling stones\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(c); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'cocktails'?\n\t(a): mocktails\n\t(b): eocktails\n\t(c): cocktail\n\t(d): cocktailq\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'empire of the ants'?\n\t(a): empire of the pants\n\t(b): empire of the antts\n\t(c): empire of tihe ants\n\t(d): empiqe of the ants\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(d); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'the fast and the furious'?\n\t(a): the fart and the furious\n\t(b): the fast aed the furious\n\t(c): the fasts and the furious\n\t(d): the fat and the furious\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(d); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'the wedding planner'?\n\t(a): the wedding planners\n\t(b): thne wedding planner\n\t(c): the weddingz planner\n\t(d): the weeding planner\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'atlantic starr'?\n\t(a): atlantic start\n\t(b): atlantic star\n\t(c): atlantic ostarr\n\t(d): ztlantic starr\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(c); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'sweet ignitions'?\n\t(a): sweat ignitions\n\t(b): sweet ignition\n\t(c): sweet mignitions\n\t(d): swemet ignitions\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(d); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'the beatles'?\n\t(a): gthe beatles\n\t(b): tohe beatles\n\t(c): ethe beatles\n\t(d): the beagles\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(d); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'the doobie brothers'?\n\t(a): the dookie brothers\n\t(b): the rdoobie brothers\n\t(c): the doobie brotghers\n\t(d): the doobiw brothers\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'the beatles'?\n\t(a): the beatlews\n\t(b): tre beatles\n\t(c): the beatles\n\t(d): the beetles\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(d); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'foo fighters'?\n\t(a): fbo fighters\n\t(b): gfoo fighters\n\t(c): foo fighteyrs\n\t(d): poo fighters\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'toy story'?\n\t(a): tooy story\n\t(b): tory story\n\t(c): tloy story\n\t(d): to story\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(d); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'gone with the wind'?\n\t(a): gone with the winds\n\t(b): gone with the wine\n\t(c): gone with tpe wind\n\t(d): guone with the wind\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'beauty and the beast'?\n\t(a): beauty and the beasb\n\t(b): beauty and the blast\n\t(c): beauty and the beakt\n\t(d): beauty and the yeast\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'the who!'?\n\t(a): the whom!\n\t(b): thehwho!\n\t(c): dhe who!\n\t(d): tmhe who!\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'the matrix'?\n\t(a): the matwix\n\t(b): the matric\n\t(c): the mitrix\n\t(d): thqe matrix\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'u2'?\n\t(a): um\n\t(b): u2\n\t(c): u\n\t(d): uc\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'steely dan'?\n\t(a): steely don\n\t(b): steemly dan\n\t(c): steiely dan\n\t(d): steelycdan\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(c); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'house party'?\n\t(a): homse party\n\t(b): house farty\n\t(c): houses party\n\t(d): housed party\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'beatloaf'?\n\t(a): beadtloaf\n\t(b): beatloasf\n\t(c): beagloaf\n\t(d): teatloaf\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'jack reacher'?\n\t(a): jqck reacher\n\t(b): jaci reacher\n\t(c): jack teacher\n\t(d): jackkreacher\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'the beach boys'?\n\t(a): the leach boys\n\t(b): the beacmh boys\n\t(c): the beach boy\n\t(d): the bkeach boys\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(c); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'the moon and sixpence'?\n\t(a): the moon and suixpence\n\t(b): the loon and sixpence\n\t(c): the moon and svixpence\n\t(d): the moon and sixwence\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(d); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'the green mile'?\n\t(a): the green miles\n\t(b): the gueen mile\n\t(c): the gregn mile\n\t(d): the green bile\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'buzzcocks'?\n\t(a): buzzcofcks\n\t(b): bdzzcocks\n\t(c): buzzcoycks\n\t(d): fuzzcocks\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'peter pan'?\n\t(a): peter ran\n\t(b): peqter pan\n\t(c): petej pan\n\t(d): peterppan\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'frankie goes to hollywood'?\n\t(a): frankie goes to lollywood\n\t(b): frankie goes to bollywood\n\t(c): frankie goes to heollywood\n\t(d): franuie goes to hollywood\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(d); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'guns n' roses'?\n\t(a): guns mn' roses\n\t(b): gums n' roses\n\t(c): guns o' roses\n\t(d): guns nd roses\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(d); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'pigbag'?\n\t(a): pifgbag\n\t(b): sigbag\n\t(c): pfigbag\n\t(d): ypigbag\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(c); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'days of wine and roses'?\n\t(a): days of wine and rose\n\t(b): days ofkwine and roses\n\t(c): days of wine and noses\n\t(d): dayl of wine and roses\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(c); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'dracula has risen from the grave'?\n\t(a): dracula has risen from the graves\n\t(b): dracula has risen frof the grave\n\t(c): dracula has risehn from the grave\n\t(d): dracula has risen from the gravy\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'captain beefheart'?\n\t(a): captaix beefheart\n\t(b): captyain beefheart\n\t(c): captain beerheart\n\t(d): captain beefhekart\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(d); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'top gun'?\n\t(a): qop gun\n\t(b): dop gun\n\t(c): toip gun\n\t(d): top run\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(d); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'the guns of navarone'?\n\t(a): the guns of navarony\n\t(b): the guns of nhavarone\n\t(c): the guns of nanarone\n\t(d): the nuns of navarone\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'catch me if you can'?\n\t(a): catch me if you jan\n\t(b): catch me iq you can\n\t(c): catchxme if you can\n\t(d): catch me iqf you can\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'echo & the bunnymen'?\n\t(a): echo & vhe bunnymen\n\t(b): echo & the funnymen\n\t(c): echo x& the bunnymen\n\t(d): echo & tshe bunnymen\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'the rolling stones'?\n\t(a): the rolling sntones\n\t(b): the rolling stobes\n\t(c): the rolling stonfes\n\t(d): the lolling stones\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'aliens'?\n\t(a): allens\n\t(b): alien\n\t(c): alienys\n\t(d): alhens\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'black sabbath'?\n\t(a): blayk sabbath\n\t(b): black sabjath\n\t(c): back sabbath\n\t(d): slack sabbath\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(c); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'moby dick'?\n\t(a): moby dikk\n\t(b): moby duck\n\t(c): movby dick\n\t(d): mobyudick\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'reo speedwagon'?\n\t(a): reo speedwagons\n\t(b): oreo speedwagon\n\t(c): reo speedwayon\n\t(d): reo spreedwagon\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'mobb deep'?\n\t(a): mobib deep\n\t(b): mgbb deep\n\t(c): mobb jeep\n\t(d): mobb dgep\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(c); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'bend it like beckham'?\n\t(a): bend it like beclkham\n\t(b): mend it like beckham\n\t(c): bend it lifke beckham\n\t(d): bend itj like beckham\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'bad boys for life'?\n\t(a): bad boy for life\n\t(b): bad toys for life\n\t(c): bazd boys for life\n\t(d): bad bons for life\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'bad company'?\n\t(a): sad company\n\t(b): bad compaqy\n\t(c): bad cobmpany\n\t(d): bad company\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(c); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'quatermass and the pit'?\n\t(a): quatermasss and the pat\n\t(b): quatermass and the pip\n\t(c): qualermass and the pit\n\t(d): quatermass and the zit\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'the terminator'?\n\t(a): the germinator\n\t(b): the terminators\n\t(c): the pterminator\n\t(d): the tebrminator\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'the beach boys'?\n\t(a): the benach boys\n\t(b): the beach boym\n\t(c): the beach toys\n\t(d): the beacb boys\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'the grand budapest hotel'?\n\t(a): the grand budapest hostel\n\t(b): the grind budapest hotel\n\t(c): the grand budapest hozel\n\t(d): the grandmbudapest hotel\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'taxi driver'?\n\t(a): taxi dqriver\n\t(b): taxi driven\n\t(c): taxi drivwer\n\t(d): taxq driver\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(c); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'star wars'?\n\t(a): star warl\n\t(b): star warfs\n\t(c): sar wars\n\t(d): stab wars\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'toy story'?\n\t(a): top story\n\t(b): toyqstory\n\t(c): toe story\n\t(d): toy stoty\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'some like it hot'?\n\t(a): some liqe it hot\n\t(b): some likewit hot\n\t(c): some like it not\n\t(d): some likt it hot\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(c); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'the smashing pumpkins'?\n\t(a): toe smashing pumpkins\n\t(b): these smashing pumpkins\n\t(c): the smashing pumpkiens\n\t(d): the smashing tpumpkins\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'happy mondays'?\n\t(a): happy moondays\n\t(b): happycmondays\n\t(c): sappy mondays\n\t(d): happy mogndays\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(d); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'pals'?\n\t(a): panls\n\t(b): pall\n\t(c): palvs\n\t(d): paws\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'you've got mail'?\n\t(a): you've lot mail\n\t(b): you've goht mail\n\t(c): you'veigot mail\n\t(d): you've got fail\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'top gun'?\n\t(a): tap gun\n\t(b): top gaun\n\t(c): top gum\n\t(d): top guns\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(d); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'indiana jones and the temple of doom'?\n\t(a): indiana jones and the temples of doom\n\t(b): indiana jones and the tempvle of doom\n\t(c): indiana jonesqand the temple of doom\n\t(d): indiana jones and the temple of zoom\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'rush'?\n\t(a): rash\n\t(b): rzush\n\t(c): rufh\n\t(d): rusq\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'purple rain'?\n\t(a): puarple rain\n\t(b): purple vain\n\t(c): purple raiyn\n\t(d): purplejrain\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(d); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'billie eilish'?\n\t(a): pillie eilish\n\t(b): bwillie eilish\n\t(c): billir eilish\n\t(d): billie eilksh\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(d); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'herman's hermits'?\n\t(a): herman's hemrmits\n\t(b): germans hermits\n\t(c): heruman's hermits\n\t(d): hernman's hermits\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'black narcissus'?\n\t(a): blamck narcissus\n\t(b): black narcissux\n\t(c): black narcispsus\n\t(d): blank narcissus\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(d); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'n.e.r.d.'?\n\t(a): n.e.s.d.\n\t(b): t.e.r.d.\n\t(c): nxe.r.d.\n\t(d): n.el.r.d.\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'suicide squad'?\n\t(a): suicide squat\n\t(b): suicide squads\n\t(c): suicide quad\n\t(d): suicuide squad\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'foo fighters'?\n\t(a): foso fighters\n\t(b): foo fsighters\n\t(c): poo fighters\n\t(d): foo fightprs\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'grateful dead'?\n\t(a): groateful dead\n\t(b): grateful deaf\n\t(c): grateful devd\n\t(d): gratueful dead\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'pearl jam'?\n\t(a): pegarl jam\n\t(b): pearls jam\n\t(c): pearl ham\n\t(d): pearl jams\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'jurassic park'?\n\t(a): jurassic parks\n\t(b): jurassic mark\n\t(c): jurassic prk\n\t(d): jurhassic park\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'the french connection'?\n\t(a): the french connecteion\n\t(b): tee french connection\n\t(c): the french connections\n\t(d): the french convection\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(d); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'lady gaga'?\n\t(a): lady gags\n\t(b): lady gagxa\n\t(c): laody gaga\n\t(d): ladys gaga\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(c); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'full metal jacket'?\n\t(a): fall metal jacket\n\t(b): full mektal jacket\n\t(c): full metal jackets\n\t(d): full metal racket\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(d); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'the monkees'?\n\t(a): the monketes\n\t(b): the moxkees\n\t(c): the monkees\n\t(d): the donkees\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(d); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'everything but the girl'?\n\t(a): everythoing but the girl\n\t(b): everything bunt the girl\n\t(c): everything bit the girl\n\t(d): everything but the gqrl\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'the jackson 5'?\n\t(a): thr jackson 5\n\t(b): the jacksgn 5\n\t(c): the jacksun 5\n\t(d): the jackson 6\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'n sync'?\n\t(a): n synh\n\t(b): n sqnc\n\t(c): n syinc\n\t(d): n stync\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'one night in miami'?\n\t(a): ones night in miami\n\t(b): one night tin miami\n\t(c): one knight in miami\n\t(d): one nights in miami\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'ultravox'?\n\t(a): ultrdavox\n\t(b): gultravox\n\t(c): ultrapox\n\t(d): ucltravox\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(c); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'national treasure'?\n\t(a): national treaxure\n\t(b): nativonal treasure\n\t(c): national treasures\n\t(d): rational treasure\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(d); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'alice cooper'?\n\t(a): alice cohper\n\t(b): alice cooter\n\t(c): alice pooper\n\t(d): alicea cooper\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(d); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'shai'?\n\t(a): skai\n\t(b): sham\n\t(c): shfi\n\t(d): ghai\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(d); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'debarge'?\n\t(a): debxarge\n\t(b): debarfe\n\t(c): debaxrge\n\t(d): detbarge\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(c); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'earth, wind, & fire'?\n\t(a): earth, winds, & fire\n\t(b): earth, wind, & fires\n\t(c): earth, wind,v & fire\n\t(d): earth, wink, & fire\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(c); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'arcade fire'?\n\t(a): arcades fire\n\t(b): arcade fir\n\t(c): arcane fire\n\t(d): arcadenfire\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(d); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'requiem for a dream'?\n\t(a): requiem for a dreram\n\t(b): requiem for a bream\n\t(c): reequiem for a dream\n\t(d): requiem for a dbream\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(d); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'whitesnake'?\n\t(a): whitesnape\n\t(b): whitesnapke\n\t(c): whitesnuake\n\t(d): mwhitesnake\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(d); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'one of our dinosaurs is missing'?\n\t(a): ofne of our dinosaurs is missing\n\t(b): one af our dinosaurs is missing\n\t(c): one of our dinosaurs is pissing\n\t(d): one of our dinosaur is missing\nA:"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(d); Confidence: 10.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Which of the following is a humorous edit of this artist or movie name: 'counting crows'?\n\t(a): countingy crows\n\t(b): counting cows\n\t(c): courting crows\n\t(d): coutnting crows\nA:"
+        }
+    ]
+]

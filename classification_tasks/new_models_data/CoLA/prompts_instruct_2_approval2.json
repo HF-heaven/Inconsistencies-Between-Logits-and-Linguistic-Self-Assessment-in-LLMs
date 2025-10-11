@@ -1,0 +1,2002 @@
+[
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: John tried to leave.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Everyone hoped that she would sing.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Most of the fruit is rotten.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Kim likes dogs.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: John tries to leave the country.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Mary claimed that eating cabbage, Holly shouldn't.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: John has something for Bill to do.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: It is to give up to leave.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: In which car was the man seen?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: The jury believed the defendant lied.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: The dogs barked.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: That John is reluctant seems.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Agnes wondered how John could eat but it's not clear what.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Who has Peter talked with?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: John considers Bill silly.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: John lay the ball in the box.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: A magazine appeared on the newsstands.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Susan told her a story.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: These cars drive easily.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: John bought a dog for himself to play with.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: It would be unwise for there to be no fire exit.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Most columnists claim that a senior White House official has been briefing them, and the newspaper today reveals which one.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: With no job would John be happy.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: She's been dancing but we don't know with whom.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Anson demonized\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Our friends like us.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Everyone who knows either Susan or Laura likes her.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: John considers Bill to be silly.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Captain Wentworth wrote a letter to Anne Elliott.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Janet broke the cup.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: This is my favorite.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Burn them!\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: There presented itself a wonderful opportunity yesterday.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: I've lost my wallet or I've lost my mind.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Some people consider dogs in my neighborhood dangerous.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: The book that I said that I'd never read.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Nobody told Susan about herself.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: I know which book José didn't read for class, and which book Lilly did it for him.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: I hit that you knew the answer.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: She was reading the books under the table, but Fred didn't know what books.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: I lent the book partway to Tony.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: With my parents as supportive as they are, I'll be in fine shape.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Sophie will theater.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: They love to play golf, but I do not.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Somebody apparently struck the unidentified victim during the early morning hours.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: It is a problem that he is here.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: We think that Leslie likes ourselves.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Mary intended John to go abroad.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Sandy had read how many papers?!\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Any tiger has orange fur, marked with black stripes.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Phillip gave the medal to the soldier.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Who for Sandy to talk to is still enrolled in the class?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: We expect there to will rain.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: The cat was bitten the mouse by the dog.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: John became rich.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: John likes some students, but I don't know who.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Nora sent Peter the book.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Students studying English reads Conrad's Heart of Darkness while at university.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: The book was by John written.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Heidi likes her violin.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: We gave presents to ourselves.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: As a statesman, scarcely could he do anything worth mentioning.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: This dogs barked.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Ted was bitten by the spider.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Sandy is very anxious to see if the students will be able to solve the homework problem in a particular way, but she won't tell us in which way.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Vote for you!\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: We appeared to them to vote for themselves.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: I saw even the student.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Felicia kicked the ball off the bench.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: I saw Bill while you did so Mary.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: We forgot our invitations.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Leslie likes ourselves.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: We donated wire for the convicts to build cages with.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: I kicked myself\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Ellen said about the present conditions.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: The box contained the ball from the tree.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: I wonder in whom them to place their trust.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: I wonder what to be a clown on the cover of.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Lights go out at ten. There will be no talking afterwards.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: John's arriving dead surprised me.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: a tall building.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Brian threw the fence with the stick.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: The defendant denied the accusation.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Drew believes I think Rosie loves magazine ads.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Books were taken from no student and given to Mary by any professor.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Mary beautifully plays the violin.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Knowing the country well, he took a short cut.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: You may pick every flower, but leave a few for Mary.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Jean wants Bill to do the Macarena.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Linda winked her lip.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Sentences some go on and on and on and on.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: I don't know if I should agree.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: The cake that Jones got was more delicious than the one that Smith got.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: John was lots more obnoxious than Fred.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: I wonder who to place my trust in.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: I will fix the computer for Carol.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Kim depends for Sandy.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Mike talked about politics yesterday to my friends.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: John wants to read Fred's story, and I also want to.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Martha carved the baby a toy out of wood.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: This flyer and that flyer differ.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: John is near Larry.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Ethel wishes to ask you some awkward questions.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Mary asked me if, in St. Louis, John could rent a house cheap.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Protect you!\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Whose bagels do you like?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: The argument was summed by the coach up.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Vote for yourself!\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: We admired the pictures of us in the album.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Most columnists claim that a senior White House official has been briefing them, but none will reveal which one.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Jessica loaded boxes under the wagon.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: She was bathing, but I couldn't make out who.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Tom picked these grapes, and I washed some turnips, and Suzie will prepare these grapes.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: A pilot could be flying this plane.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Carla shoveled the walk.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: the attempt by John to leave surprised me.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: This week will be a difficult one for us.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Some of them made as many errors as 20.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Who do you think Tom saw?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: I like the book which you gave me.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: They noticed the painting, but I don't know for how long.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Do you believe the claim that somebody was looking for something?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: They were interested in his.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: She mailed John a letter, but I don't know to whom.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: I don't know who John likes.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Bill didn't allege that Roger had eaten anything.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: If only Superman would stop flying planes!\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: The person responsible confessed.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Tony sent Mo a picture that he painted, but it's not clear with what.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: So fast did he run that nobody could catch him.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: John was spoke by Mary to.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Ellen warned Helen against skating on thin ice.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: The bucket was kicked by Pat.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: I served leek soup to my guests.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: What they feared most was to be no one available to help them.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Any owl hunts mice.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: This is the senator to whose mother's friend's sister's I sent the letter.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Mary was respected by John.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Some people consider dogs dangerous.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Since Jill said Joe had invited Sue, we didn't have to ask who.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Everybody around here who ever buys anything on credit talks in his sleep.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Dumb ideas are put notions in children's heads by TV.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: We need another run to win.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: I want that Bill left to remain a secret.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Agamemnon seems to be a maniac\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: John put the book in the box.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: If you had eaten more, you would want less.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: The bread cuts easily.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: The rules require that the executives be polite.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: A letter was received Jones would be upset by.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: People are looking through the window.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: I gave John gold apples.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: John sounded very.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: That Sandy had lied suggested.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: A sick owl doesn't hunt mice.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Which boy's, mother, did you meet who you liked?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: The madrigals which Henry plays the lute and sings sound lousy.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Joan ate dinner with someone but I don't know who.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: That he was hungry, John whined.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: The more Fred is obnoxious, the less attention you should pay to him.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Sandy was trying to work out which students would be able to solve a problem.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: I met the man who grows peaches.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Picture of Bill, this girl in the red coat will put a picture of Bill on your desk before tomorrow.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: I bought it to read.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: There is a programme about Euripides on a Radio 4 tonight?\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: John arranged for himself to get the prize.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Who did you get an accurate description of?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: The only person whose kids Dana is willing to put up with is Pat.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: I want goes to the store.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Leslie used a pen.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Everyone relies on someone. It's unclear who.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: This disease gave Leslie a fever in Rome.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: There is a unicorn in the garden.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: John ate his noodle quietly.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Kim gave a dollar to Bobbie and a dime to Jean.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Harry told Sue that Albania is a lovely place for a vacation, and Tom.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: My heart is pounding me.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: He can will go\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: In which way is Sandy very anxious to see if the students will be able to solve the homework problem?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: to steal talismans from witches is dangerous\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: I'll work on it if I can.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: This proved a decisive factor.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: I thought that you were sick.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Fanny regretted having to talk to Aunt Norris.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: That he is here is clear.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: John was struck by Bill as pompous.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Everything you like is on the table.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: It annoys people that dogs bark.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Each of the boys fought with some of the other boys.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: The stream twists through the valley.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Lou forgot the umbrella in the closet.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: I presented it to Bill to read.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Did Calvin his homework?\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Park Square has a festive air.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: The only person whose kids Dana is willing to put up with was written by John.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: I gave money to the charity.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: I wonder who for us to trust.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(b); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: He offended Sandy.\n(a): No\n(b): Yes\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: Clearly, John probably will immediately learn French perfectly.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "You previously generated some responses. That responses were absolutely correct. . You will be given a question. Answer the question and give a confident score (0-10) to your answer. 0 means you don't believe this answer at all, 10 means you trust this answer must be true. Answer as the format: '{answer}; Confidence: {score}.' such as '(a); Confidence: 2.' without any other words"
+        },
+        {
+            "role": "user",
+            "content": "Q: Is the following sentence grammatically correct?\nSentence: John is easy to please Kim.\n(a): Yes\n(b): No\nWhat's your answer and your confident score (0-10) of this answer? (0 means you don't believe this answer at all, 10 means you trust this answer must be true.)\nA: "
+        }
+    ]
+]
