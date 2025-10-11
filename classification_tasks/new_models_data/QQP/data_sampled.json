@@ -1,0 +1,5206 @@
+{
+  "train": [
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What is the difference between IIT and any renowned private college?\nQuestion2: What is the difference between IIT and other engineering colleges?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 174721
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Is it worth upgrading from Nexus 4 to Nexus 5x?\nQuestion2: Is it worth to buy Nexus 5X?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 393990
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Is high school really the best years of your life?\nQuestion2: Is high school really the best time of my life?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 140197
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Is it wrong to punish a thirteen year-old child for bad grades by locking her in a closet for six hours?  Why or why not?\nQuestion2: My child is 3 years old. She always refuse to have dinner by herself, and reluctant to finish a dinner quickly even I fed her. What should I do?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 177203
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How do I stop being depressed and sad all the time?\nQuestion2: What can I do to stop being depressed?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 30810
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What should I choose, an MBA in logistics and supply chain management or an MBA in operations?\nQuestion2: What are the courses can one pursue after MBA in supply chain management/operations?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 198104
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How would the solar system look if the sun took longer to ignite during solar system formation?\nQuestion2: What is the average salary in Bangladesh, India and Pakistan for a MBA grad in USD?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 278782
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How can I Plan one day java session?\nQuestion2: I am a Social Work major that plans to open a private practice one day, how can I plan for my future today?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 86592
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Is smoking hookah worse for your health than smoking cigarettes?\nQuestion2: Is hookah more dangerous than cigarettes?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 82124
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Cat or dog: which do you prefer and why?\nQuestion2: Do you prefer dogs or cats and why?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 152229
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How can time be a dimension?\nQuestion2: Why time is considered as the 4th dimension?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 255682
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What are the Tony Robbins products?\nQuestion2: What is Tony Robbins like?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 194460
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What are some ways to become an entrepreneur?\nQuestion2: How do I become an entrepreneur?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 110000
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Is it common to go from being lovebombed straight to being discarded? I didn't see this coming.?\nQuestion2: Is it common to go from being lovebombed straight to being discarded? I didn't see this coming?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 313775
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What is it like to live in Darjeeling?\nQuestion2: How is life in Darjeeling?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 214946
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What is it like to study EECS at Carnegie Mellon?\nQuestion2: Can I apply for a Master's Degree in EECS at MIT with B.S. in Computer Engineering and get accepted?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 319590
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Which is the best smartphone under inr 20000 at present?\nQuestion2: Which is the best smartphone under 20000?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 80181
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What celebrities live in the San Francisco Bay Area?\nQuestion2: What cities are on the San Francisco Bay?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 202796
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How do we come out from the cycle of birth and death?\nQuestion2: If u get a chance to live forever what would u live for?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 190316
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What is the way to charge the smart phone smartly?\nQuestion2: What is the best way of charging a smart phone?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 323622
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: If 5 dice are rolled, what is the probability of a sum of 10?\nQuestion2: What is the probability of having a sum of 10 after rolling 3 dice?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 104002
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Why is life so unfair for some people?\nQuestion2: Why is life so unfair?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 329748
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: On Snapchat, does blocking someone delete the message you saved?\nQuestion2: If someone blocks me on Snapchat how does it appear in my messages?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 48807
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Hello is this <*/\\*>1800*-251-*4919*-*<*/\\*> Linksys router Technical support phone number?\nQuestion2: ( (#.! .#)) Linksys Router Tech Support Number 1 8.0.0:2.5.1:4.9.1.9 : Linksys Router Support Phone Number?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 370758
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What are the biggest mistakes people make when choosing a partner for marriage?\nQuestion2: What common mistake do people make when choosing a life partner?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 148842
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What happens when you break the copyright law in Italy?\nQuestion2: What happens when you break the copyright law in Canada?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 310175
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How large is the Dutch population in Indonesia?\nQuestion2: What is the cleanest populated city in Indonesia?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 152215
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How should I manage time in English board exam? I am never able to manage time in English exams. As the paper is very lengthy.\nQuestion2: I have heard that Class 11 English paper is very lengthy & students are not able to complete the paper on time. So how can I complete it on time?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 371678
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How can I loose belly fat with light exercise?\nQuestion2: Is there any quick method to loose belly fat?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 88499
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What's preventing you from losing weight?\nQuestion2: Can stress prevent you from losing weight?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 54895
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What does the Kesariya Balaam song mean?\nQuestion2: What do the lyrics to the song The Wheels On The Bus mean?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 275905
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How harmful could it be for dogs to eat sugar?\nQuestion2: How harmful could it be for dogs to eat tomatoes?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 226213
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What are some things new employees should know going into their first day at Liberty Interactive?\nQuestion2: What are some things new employees should know going into their first day at Interactive Intelligence?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 360008
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How many days late from your period should pass before you should start to worry?\nQuestion2: Can I be 14 days late on my period without being pregnant?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 224979
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Do boys cry for their lost love? If a boy cries for a girl, what does it mean?\nQuestion2: Do boys like to make girls cry?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 376957
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What does a typical start up code for a Bare-Metal ARM Cortex-A9 processor have?\nQuestion2: Where can I buy an ARM cortex M3 processor in India?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 153405
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What were some of Harry S. Truman's greatest accomplishments while president?\nQuestion2: What might happen now that President-elect Donald Trump has won the election? What will be the impact?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 188692
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Who is the most intelligent boy?\nQuestion2: How can I become a 'KING' in Algorithms?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 245563
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What are some mind-blowing phones gadgets that exist that most people don't know about?\nQuestion2: What are some mind blowing gadgets that exist that most people don't know about?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 379133
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How can I gain weight as a teenager?\nQuestion2: How do I gain weight fast, without expensive supplements?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 345968
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What do you think of the removal of the MagSafe connector from Apple's 2016 MacBook Pro?\nQuestion2: What will the CPU upgrade to the 2016 Apple MacBook Pro mean?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 404283
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How can I increase the organic traffic of my website?\nQuestion2: What should be my action plan to increase free traffic to my website?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 324354
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Which is RBI grade b coaching center in India?\nQuestion2: Which is the best RBI grade b coaching center in India?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 52309
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How do I write a commission proposal?\nQuestion2: How do you write a proposal to sponsors?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 270003
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: I'm trying to install packages in Ubuntu 14.04 LTS but it shows me error E: Unable to correct problems, you have held broken packages. How can I solve this problem?\nQuestion2: How can I install Cloudera CDH for Ubuntu 16.04 LTS?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 256710
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What is the purpose of 200 GB cloud storage in 1 TB seagate hard disk?\nQuestion2: Can I make a hard disk into a cloud storage? If yes, how?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 278722
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: I'm thinking of going to grad school for social work; what's being a social worker actually like? And what's the course work like for an MSW?\nQuestion2: How do you deal with always being in someone's shadow?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 142562
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What should I do if someone wants to kill me?\nQuestion2: Someone is trying to kill me, what should I do?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 244244
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Can you suggest a macro lens for Canon 1200D?\nQuestion2: What is the best macro lens for a Canon DSLR?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 339522
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: My parents found me a perfect guy. But no matter how hard I try, There is no spark! I've been speaking to him for 8 months now. Should I marry him?\nQuestion2: Where can I find some good C4070-604 preparation materials?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 169956
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Why is my period 11 days late and how probable is it that I'm pregnant?\nQuestion2: My period is late 14 days, could I be pregnant?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 382846
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How can I turn my life around in college?\nQuestion2: What's the best way to turn your life around?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 338567
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How much caffeine (in mg) does one teaspoon of Nescafe Classic Instant contain?\nQuestion2: How much caffeine is in the PG Tips decaf tea?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 43071
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How can I come out of my comfort zone?\nQuestion2: What are some of the best ways to break out my comfort zone?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 68571
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What initialisation I take to preparation for SCRA exam?\nQuestion2: What might be the reason for he being so stubborn?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 61794
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How many 13 year old girls prefer to date a man old enough to be their dad?\nQuestion2: How can a 13 year old girl date?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 354466
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What is the difference between reference and bibliography?\nQuestion2: What is the difference between reference list and bibliography?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 146316
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What is the longest time you've stayed awake?\nQuestion2: What's the most time you have stayed up awake?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 380499
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What are your goals?\nQuestion2: What are your goals for 2015?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 249722
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What is the difference between a workstation and a gaming pc?\nQuestion2: Is there a difference between PC and console games graphics?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 45523
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Which is best laptop below 40k?\nQuestion2: Which is best laptop under 40k?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 13929
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Do the certificates of NPTEL online certification courses add credibility to our resume during placements?\nQuestion2: Can I add a Coursera course which I took without a signature certificate on my resume?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 350859
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How does diesel locomotive works?\nQuestion2: How does diesel locomotive work?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 152820
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Why do so many Americans seem to be against libertarianism in public policy?\nQuestion2: Are most white Americans racist towards Asians?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 207709
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Who are the best UX and design agency for consumer facing sites?\nQuestion2: LAUX: What are some of the best UX agencies in the Los Angeles metro area?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 209821
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What are some companies using hadoop streaming?\nQuestion2: What are some companies using Hadoop streaming in Coimbatore?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 378650
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Can I fix a TV which turns off after 5 seconds of turning on? This is an LG TV.\nQuestion2: Can I fix a TV which turns off after 5 seconds of turning on? This is an LG TV. Another thing is it been in front of a a/c for three months\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 224048
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What is the function of E-commerce?\nQuestion2: What will be the one different functionality that you would love to see in an e-commerce website so that we can make electronic shopping much better?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 227084
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How long will it be before everything is in Terrabytes rather than Gigabytes?\nQuestion2: How can I start a YouTube channel which has videos for public awareness in pharmacy?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 200918
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How much does a green card cost?\nQuestion2: How much does US Green Card cost?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 78222
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What is it like to work at Samsung HQ in Korea as a non-Korean expat?\nQuestion2: Is it difficult for an Indian to work at Samsung (HQ) korea as a software developer?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 279444
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What causes peeling of the skin on the bottom of a foot?\nQuestion2: How do I help my skin heal after a peeling?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 335775
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What are some ways to become less trusting of people?\nQuestion2: How can I trust people?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 306528
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What is an F2 bond order?\nQuestion2: What is the bond order of F2?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 203706
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What is the universal grammar theory?\nQuestion2: What is the role of universal grammar?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 88076
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: As of 2016, in which area of Berlin would you open a (big) hotel and why?\nQuestion2: If you're young, full of ideas and dream of making it big in business in a fabulous open minded city, which city possesses the elements to make it happen though the odds might be against you?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 69222
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What are some good sites to post job openings in the Bay Area?\nQuestion2: Is 2016 a good time to buy a house in the Bay Area?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 167925
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How can I hack a WhatsApp account?\nQuestion2: How can I hack another WhatsApp account?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 1114
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What happens when trisodium phosphate and calcium hydroxide are mixed?\nQuestion2: What happen scientifically when vinegar and bicarbonate soda mix?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 157884
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How long should I wait for my Bitcoin core wallet to sync before giving up and trying a different Bitcoin wallet?\nQuestion2: What are some examples of people who never gave up in life?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 330762
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Which programming languages can I use for developing just a simple website?\nQuestion2: Which programming language should I use to develop a user interactive website?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 16593
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Which is better for long, thick and floppy hair, gel or wax?\nQuestion2: What's the difference between hair wax and hair gel? When would one favour one over the other?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 61548
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What are some of the best real life examples of Instant Karma?\nQuestion2: What are the real examples of karma in real world?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 105695
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How can I download English songs?\nQuestion2: How can I download English songs for free?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 237671
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How can I continue to improve my English?\nQuestion2: What are the best ways to improve English?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 352788
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What are the steps involved in the scientific method? How are they used?\nQuestion2: What are the main steps of the scientific method? What purpose do they serve?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 152898
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How do you fix a Dewalt battery by yourself?\nQuestion2: How do you replace the battery cells on a Dewalt cordless drill?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 372012
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How do you calculate the percentage of a test score?\nQuestion2: Why is my online test always 48 scores?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 95776
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What are the disadvantages of secondary data?\nQuestion2: What are the drawbacks of secondary data?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 70537
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Which is the best laptop I can buy in india for Rs.25000-30000?\nQuestion2: What are the best laptops to buy within Rs.30000 or $485 and why?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 305514
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What are some alternatives to SurfTheChannel.com?\nQuestion2: What are some alternatives to SubtlePatterns.com?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 155367
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What is the best tourist destination in Nigeria and why?\nQuestion2: What are the best tourist destinations in Tunisia?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 330254
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Why are most old foreign words still used, despite its semantic void can already be considered filled/supplied by its own words?\nQuestion2: Why are foreign phrases, for example \"raison d'\u00eatre\", used rather than their English translations?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 70354
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How can I work for Amazon?\nQuestion2: How is it to work in amazon?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 277666
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Why do we love watching movies?\nQuestion2: Why do you love movies?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 345830
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Should I form an LLC, C or S corp for my investment business?\nQuestion2: What's an appropriate Delaware C-Corp business address for an internet company that's run out of my house?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 27390
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Why do folks ask questions on Quora that a Google search could answer faster and more accurately?\nQuestion2: Why do some people on QUORA ask questions that they can easily findout on Google?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 113324
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What are the key molecular components and genetic elements needed for gene expression (i.e., transcription) in bacteria?\nQuestion2: What are the key components I need to include when writing a recommendation later for one to apply for citizenship?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 196546
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Would it be easier to learn Spanish and French together, or Spanish and Swedish?\nQuestion2: How can I learn Spanish and French at the same time?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 236746
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What is the scope in fourth round of DTE if I have 157 marks in CET? I want computer branch most preferably.\nQuestion2: I'm preparing for JEE and MH-CET. I want to know how much marks should I score in JEE Mains/MH-CET and boards(HSC) to get into VJTI CSE branch?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 374712
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How can a cashless economy survive at times of natural disaster?\nQuestion2: How can I survive from any disaster?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 312992
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Why are hipster girls obsessed with wearing fake mustaches?\nQuestion2: Is it unattractive for a girl to wear a suit?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 99189
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What are examples of antonyms with sentence examples?\nQuestion2: What are some sentence examples using \"belie\"?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 64197
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How do WhatsApp and Twitter earn money as they don't even sell any advertisement?\nQuestion2: How does WhatsApp make money, especially in India?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 317431
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How do I save money while shopping?\nQuestion2: What are some great tricks to save money while shopping online?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 99715
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What can be done to find more followers in Facebook?\nQuestion2: Did it happened ever, the scientist tested the human sexuall relations in the outer space?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 347301
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How banning 500 and 1000 rupee can affect black money?\nQuestion2: How banning 500 and 1000 rs note will help fight corruption in India?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 100117
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Specific Languages: How does Turkish sound to someone who doesn't speak it at all?\nQuestion2: What does Turkish sound like to you?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 78458
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Which non-USA credit card is most popular in the world?\nQuestion2: Which credit card types are the most popular in Singapore? Does China UnionPay have significant shares of this market?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 169463
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What are the tips for long and healthy hair?\nQuestion2: What are the tips for those guys with long and healthy hair?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 337744
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Which is better Aakash test series (AIATS) or Allen test series for medical?\nQuestion2: Which medical test series is better, Allen or Aakash?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 236571
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What is the fishing industry like in Barbados, how does it compare to the fishing industry in Japan?\nQuestion2: What is the fishing industry like in Barbados, how does it compare to the fishing industry in Brazil?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 286364
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What if I purchase an iPhone from abroad and use in my country?\nQuestion2: If I purchase a US version unlocked iPhone 7, will it work in Australia?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 123787
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Why do men have butt hair and women don't?\nQuestion2: What are some things men don't tell women?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 202386
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How do I get rid of my guilt for being failed to keep my promise to my girlfriend that I will marry her ?\nQuestion2: My stepmom says to get rid of the flakes on my head, I should wash my hair every day for two weeks. How do I tell her that will make it worse?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 345535
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Which is the best cellphone to buy in range of 10k to 15k?\nQuestion2: Which is the best mobile to buy within the range of 10k?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 186317
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Objective-C (programming language): What does @autoreleasepool do?\nQuestion2: Objective-C (programming language): What is polymorphism?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 203448
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How to run WhatsApp on PC without BlueStacks\nQuestion2: What are the ways to use Whatsapp on pc other than bluestacks?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 227200
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Is Paramount the best coaching institute in Delhi for the SSC CGL preparation?\nQuestion2: Which are the best coaching institutes for weekend coaching on Bank PO or SSC preparation in Noida or Delhi?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 109656
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Why is Saltwater taffy candy imported in Czech Republic?\nQuestion2: Why is Saltwater Taffy candy imported in Mexico?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 389928
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What is the expected cutoff for KVPY 2016 SA -stream 2016?\nQuestion2: What is the expected cut off for KVPY SA 2016?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 95532
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How unlabeled data help in semi-supervised learning?\nQuestion2: Does unlabeled data really help in semi-supervised learning?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 102689
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Which are the best Christmas movies of all time?\nQuestion2: What are the best Christmas movie characters?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 192645
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What consumer electronics segments are growing the fastest?\nQuestion2: I own a web design firm. Could I partner with a law firm and trade mutually beneficial services or is that a bad idea?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 155691
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Why did MS Dhoni steps down as captain of India limited overs side?\nQuestion2: Why MS Dhoni has quit the captaincy from limited overs?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 223663
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What's the difference between I++ and ++I in C?\nQuestion2: What is the difference between C, C++ and C#?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 186152
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What is the hardest thing(s) about raising children in Australia?\nQuestion2: What is the hardest thing(s) about raising children in Russia?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 24599
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How do you kill a person painlessly?\nQuestion2: How someone can kill himself painlessly?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 81159
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What are the uses nitrous oxide?\nQuestion2: When is nitrous oxide used?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 71916
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What factors affect job performance for an investment banking analyst?\nQuestion2: What was your first day as an investment banking analyst like?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 379247
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: General: What is the Meaning of \"Do you have a mirror in your pocket? cuz i can see myself in your pants!\"\nQuestion2: Why do people consider Mark Twain the mirror of America?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 402557
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How do I get rid of piles?\nQuestion2: How do you get rid of piling on clothes?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 283622
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Where did Millie Bobby Brown attend acting school in Florida?\nQuestion2: Which are some of the non-expensive schools in Delhi where attendance is not an issue?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 43007
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: I'm 27, is it too late for me to go to medical school?\nQuestion2: In South Africa, is it too late to start medical school at the age of 24?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 190659
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What are common misconceptions about Pakistan in India?\nQuestion2: How can I get private equity fund to invest in and install growth oriented CEO in my small $2 million tech company?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 73747
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What are the most interesting products and innovations that Prosperity Bancshares is coming out with in 2016?\nQuestion2: What are the most interesting products and innovations that Home Bancshares is coming out with in 2016?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 13030
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How do I improve my English language?\nQuestion2: How can I improve my english language skills? I am basically from gujarati background.\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 290261
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What is the most selfless act you've ever witnessed?\nQuestion2: What is the most selfish act you have ever witnessed?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 97073
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What are the bitter truths about doing MBA in the US for an Indian?\nQuestion2: What are the bitter truths of going to US for masters as an Indian?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 257479
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Is there proof that alien life exists?\nQuestion2: Does alien life exist?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 172932
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Has anyone tried Indeed Prime?\nQuestion2: How does Indeed Prime work?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 10594
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How does one define entropy in the simplest terms possible?\nQuestion2: How can I best define entropy in an interview?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 141904
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How do I hack Facebook on Android?\nQuestion2: How can I hack Facebook?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 229030
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Article on benefits of cycling?\nQuestion2: Data analysis in R?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 71842
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What are some good and relevant sources (books, articles, etc) that explains the different theories as to why we age?\nQuestion2: Is there any particle that interacts with matter but able to go through an entire planet? Like a photon or a neutrino?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 383571
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Why is Saltwater taffy candy imported in the Philippines?\nQuestion2: Why is saltwater taffy candy imported in Brazil?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 321932
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What is the genesis of Instagram?\nQuestion2: How can you look at someone's private Instagram account without following them?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 228495
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How can I be beautiful inside out?\nQuestion2: How can I be beautiful inside?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 402570
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What are the 7 different states of matter in Chemistry?\nQuestion2: What are the states of matter in a triangle?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 117769
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How do I stop daydreaming so much?\nQuestion2: How do I stop daydreaming all the time?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 303343
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What's the difference between 'I was' and 'I were'?\nQuestion2: What is the difference between I was and I were?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 261165
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What does OLA mean? Why did the founders name it so?\nQuestion2: What is the name of the founder of maths?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 363961
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How do I get a job in Volvo?\nQuestion2: I am a 26 year old Computer Engineering graduate. I have applied to around 30-40 companies and all my job applications were rejected. I am hopeless and so fed up with my life. What shall I do?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 395626
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How can I earn online without any investment or very little investment?\nQuestion2: Is there any way I can earn money online without any kind of investment?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 367189
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How can I die in space?\nQuestion2: Has anyone ever died in space?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 135082
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How will the ban of old 500 and 1000 rs notes help in bringing out the black money?\nQuestion2: How can changing 500 and 1000 rupee notes end the black money in India?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 72435
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Is West Bengal\u2019s BJP president right in trading barbs against Ms. Mamta Banerjee?\nQuestion2: I've heard UPES, Dehradun provides an M.Tech programme in chemical engineering. . How's the college. What are my options after completing the course?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 8556
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What's it like to live in Finland?\nQuestion2: How tough is it living in/getting adjusted to northern countries like Finland?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 33340
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How do I know when my spouse is having an affair with someone else?\nQuestion2: How can I know if my spouse is cheating?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 30663
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How can I improve my pronunciation of English words?\nQuestion2: How can I improve my English in all aspects?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 263093
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How do I know if my phone is tapped?\nQuestion2: How do I tell if my phone is tapped?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 46650
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What are famous dishes from Madhya Pradesh?\nQuestion2: What is one dish you cannot afford to miss when you visit Indore (Madhya Pradesh)?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 399349
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: I have cengage for mathematics algebra . Is it enough for JEE MAIN And Advanced?\nQuestion2: How useful is CENGAGE maths for JEE Mains and Advanced?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 44369
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How do I become good at Python starting from zero?\nQuestion2: How should I start learning Python?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 142658
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Should I still become a film maker if my grammar sucks ass?\nQuestion2: Where and how was Surah Fatiha revealed?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 371045
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How can you determine the pH level of sulfuric acid?\nQuestion2: How can you determine the pH of sulfuric acid?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 180886
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Is there any other websites like userfarm.com?\nQuestion2: Are there any other websites like Skillpages.com?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 125774
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Would you want to be immortal?\nQuestion2: Why would one not want to be immortal?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 43006
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Can a dead person move or speak?\nQuestion2: Can people really speak to the dead?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 113154
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What happened to the poll questions on Facebook?\nQuestion2: How do I do poll questions on Facebook?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 72016
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Why do dogs whine and moan annoyingly?\nQuestion2: Why do dogs whine?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 153020
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Which are some of the best comedy-thriller movies?\nQuestion2: What is the best comedy movie ever?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 226568
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How do television actresses deal with their periods?\nQuestion2: Visiting place in Mumbai for one day?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 51481
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How do I invest in Uber Delhi?\nQuestion2: How do I invest in Uber?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 204922
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: When older people are praised for being \u201cvigorous, \u201d \u201cactive, \u201d and \u201cyouthful, \u201d does this send a message that combats or supports ageism? Explain your response fully and suggest an alternative way of talking about activity in old age\nQuestion2: How does ageism affect older people?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 164519
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Who is the most inspirational person to you?\nQuestion2: Who is the most inspiring person to you?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 18318
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How can I motivate myself to?\nQuestion2: Self-Improvement: How can I motivate myself to work hard?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 323162
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Why am I awesome?\nQuestion2: What are some cool facts about you?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 336355
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How Much Does Coal india Pays to its Employees\nQuestion2: What is inhand salary of management trainee in coal india limited?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 187714
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What is the first movie ever?\nQuestion2: What was the first movie ever made?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 193727
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How do I crack the password of a protected PDF file?\nQuestion2: Is it safe to upload password protected zip file to Dropbox?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 22584
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What social trade business?\nQuestion2: What is Social trade business?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 31364
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What causes a car to lose power while driving?\nQuestion2: What causes a car to vibrate while you are driving?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 360064
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What is so special about the paper used to print currency in India?\nQuestion2: What kind of currency was used in India before 1947?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 213051
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How do I gain emotional intelligence and control my emotions?\nQuestion2: How do I control emotions..Like Heart Breaking emotions?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 91574
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What should One do to have impressing communication skills and strong listening and speaking power of English?\nQuestion2: What fields of engineering require calculus of variations?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 386605
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What are some good quotations on faith?\nQuestion2: What are some good quotation on faith?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 45233
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Why is Saltwater Taffy candy imported in Mexico?\nQuestion2: Why are saltwater taffy imported in Japan?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 75570
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What is it like to work at Google's sales team?\nQuestion2: What is it like to work in sales team of LinkedIn?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 147390
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Why do some motorcyclists run from the cops? If you run, most of the time wouldn't the police get your plates already?\nQuestion2: Why do cops leave engine running?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 223009
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What is true meaning of jihad?\nQuestion2: What do we mean by jihad?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 332502
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What should one do to find purpose of one's life?\nQuestion2: How should I know my purpose of life?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 17210
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Should US Presidents be allowed to serve more than two terms?\nQuestion2: Should term limits for the President be changed to two consecutive terms instead of a total of two terms?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 324812
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What does a woman's pussy taste like after another man has cum inside of her and how many hours later can you still taste him if she hasn't washed?\nQuestion2: Why does a sweet beverage stops tasting sweet once you eat some sugar before or while drinking it in India but not in Canada?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 299918
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What are the best courses for MS in mechanical?\nQuestion2: What are the best courses for an MS in electronics?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 89251
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Why is that the more I try to lose weight, I gain weight?\nQuestion2: What is more difficult: gaining weight or losing weight?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 48726
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What are the best casino games for android?\nQuestion2: What are some interesting games for Android?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 283721
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Why do people think that American founding fathers were not religous if they started meetings with prayer?\nQuestion2: Who were the Founding Fathers of the USA? In what did they believe? Why?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 249434
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Can I upgrade my phone Microsoft 535 from windows 8.1 to windows 10?\nQuestion2: Do I possibly have depression?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 3842
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Does the electoral college have to vote for Donald Trump?\nQuestion2: What are the chances of the electoral college changing vote for Clinton?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 258864
+    }
+  ],
+  "validation": [
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How do I lose weight only through a vegan diet?\nQuestion2: Can you lose weight with just a vegan diet?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 271728
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How do capacitors work practically?\nQuestion2: How do capacitors work?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 399419
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How can I Increase the traffic of my blog?\nQuestion2: What is the best way to increase traffic for a new blog?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 338976
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Why is a live-in relationship considered \"bad\" and \"immoral\" in Indian society?\nQuestion2: Why Indian society does not accept live-in relationships?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 223787
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: I need 8 dental implants. how much will it cost?\nQuestion2: How and why did Julia Allison disappear from the tech media spotlight?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 322498
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How widely accepted are credit cards at small businesses and restaurants in Seychelles?\nQuestion2: How widely accepted are credit cards at small businesses and restaurants in Australia?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 393578
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Why is everyone trying to kill me?\nQuestion2: Someone is trying to kill me, what should I do?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 300177
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Is 125 pounds considered underweight for someone who is 5' 8\"?\nQuestion2: Would 130 pounds and 5'7 be a healthy weight?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 275979
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What is the deadliest insect on the planet?\nQuestion2: What is the most deadliest insect in the world?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 376772
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Which is the best mixer grinder?\nQuestion2: Which is the best mixer grinder for travel?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 255312
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Is there a tool that will automatically repeat tweets indefinitely?\nQuestion2: Is there a great tool to backup someone else tweets? Not only my own tweets...\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 170086
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How can light be reflected if it is made up of photons that are mass less?\nQuestion2: If photons have no mass then how are they reflected?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 99484
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Can Fedevel academy teach me to make a modern PCB?\nQuestion2: Has anyone taken any course from Fedevel academy for PCB design?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 1213
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Where are the best WordPress web designers?\nQuestion2: I don't wish to join a job. I want to be an intern and intern again. What should I do?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 80781
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What's the best thing to comment on a girl's DP on Facebook?\nQuestion2: How I Can make a Facebook dp overlap apps?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 133580
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How would you answer the question \"Why should we hire you\u201d?\nQuestion2: What was the best answer for \"Why we can hire you\"?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 281016
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What are some dishes to serve with stuffed mushrooms?\nQuestion2: What are some great side dishes for stuffed mushrooms?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 374311
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: I'm not sure if I'm bisexual or pansexual. How do I know?\nQuestion2: How do you know if you are bisexual?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 79371
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Is news important to you?\nQuestion2: Is news important?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 403197
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Technical project topics on \"humanity to Origin\"?\nQuestion2: Bolivia is really beautiful?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 140909
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Does the belly button serve any purpose after birth?\nQuestion2: What purpose does \"en\" serve in chemistry?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 361665
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Can the President of the United States carry a firearm?\nQuestion2: Can the U.S. President carry a personal firearm?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 310293
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How do I love and hate a person at the same time?\nQuestion2: Is it possible to love and hate a person at the same time?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 328360
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Among large UK Newspapers, which are considered conservative and which are considered liberal?\nQuestion2: What behaviour is normal in other countries, but considered to be very rude in the UK?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 44651
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What are your views on one day ban on NDTV?\nQuestion2: If Fox News would never be banned in the US, how is the NDTV ban justified?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 233855
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: I am a Java developer, thinking to do certification on cloud computing, but not sure which one (Microsoft, AWS, Google, CompTIA & etc.,) I can choose?\nQuestion2: Doesn\u2019t the Hindu marriage act apply in the state of Goa?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 173147
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What do you think about minds.com?\nQuestion2: What do you think about Packtwo.com?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 292403
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How does the Flipkart Mobile Exchange work?\nQuestion2: Do the flipkart delivery bot ask for the bill of my old mobile when I exchange my old mobile for new one?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 361771
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What are some tips on making it through the job interview process at Advent Software?\nQuestion2: What are some tips on making it through the job interview process at Progress Software?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 17846
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Why is saltwater taffy candy imported in Austria?\nQuestion2: Why is Saltwater taffy candy imported in Czech Republic?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 30916
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What are some good \"Black Lives Matter\" slogan parodies?\nQuestion2: Could you rig a GPU to be a CPU?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 107934
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How do ballistic missiles aim and change direction?\nQuestion2: How do missiles aim and change direction?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 270144
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How do I make the best software company?\nQuestion2: How do I apply to the best software company?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 186718
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What is the meaning of my life?\nQuestion2: What is the meanings of life?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 399739
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What economic trends should we be paying more attention to in the coming years?\nQuestion2: Is personal trainer required when you join gym for the first time?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 221227
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What is the best certification course to learn digital marketing?\nQuestion2: What are the best online short courses in digital marketing?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 314287
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What are the first or must-have homebrew packages that you install on your Mac?\nQuestion2: What is the purpose of Homebrew package installer for Mac OS X?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 262024
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How much data does a minute of a WhatsApp call consume?\nQuestion2: How much data do WhatsApp calls consume?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 70526
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What is a suitable solar panel installation provider in Sun Valley, California CA?\nQuestion2: What is a suitable solar panel installation provider in Tivy Valley, California CA?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 380604
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Who would be a better president: Hillary Clinton or Donald Trump?\nQuestion2: Who will be a better president Donald Trump or Hillary Clinton?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 129070
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Are there any effective cures for eczema?\nQuestion2: How can you cure eczema?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 85902
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How can I apologize after an awkward situation with a girl?\nQuestion2: How do I get of an awkward friendship situation?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 134971
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What does your inner voice say to you?\nQuestion2: What is an inner voice?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 324561
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How are autistic people different from someone without autism?\nQuestion2: How exactly does autism affect a person that makes them different from people without autism?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 56779
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Which city is best to visit Milan, Venice, Florence or Rome?\nQuestion2: Italy: If I have to choose between Milan or Venice for a 2-3 days visit in June-July which one should I choose and why?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 23922
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How do you prevent XSS in PHP?\nQuestion2: How do you test for XSS?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 304314
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What do you think life is about?\nQuestion2: What do you think life is?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 286454
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What/how was the relationship/nature of relationship between Krishna and Radha after Krishna being married to Rukmini and Radha being married to Ayan?\nQuestion2: I don't want to get married or be in a relationship or have kids. Am I a bad person?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 333857
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How much more advanced is the India's IRNSS-NAVIC when compared to GPS?\nQuestion2: Will IRNSS be more accurate than GPS?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 367036
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What is Niantic's criteria for \"tiny rattata\" and \"big magikarp\" in Pok\u00e9mon GO?\nQuestion2: Why does Niantic allow its API to be used to show the location and timing of Pok\u00e9mon in Pok\u00e9mon GO?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 379867
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What are the biggest lessons you have learned in the corporate world?\nQuestion2: What is your biggest lesson learned while working remotely?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 131402
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How long should I nurse a cold before I should see a doctor to determine if it's an infection or not?\nQuestion2: How long should I wait before seeing a doctor if I have a chest cold?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 220707
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Why did Germany fight with Japan in WW2?\nQuestion2: Why did Japan and Italy ally themselves with Germany in WW2?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 164477
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Why is it socially acceptable for a black individuals to exclaim pride in their ethnicity publicly, yet for white individuals it is not?\nQuestion2: Why are Black pride, gay pride and Asian pride all viewed positively but white pride is viewed negatively?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 120364
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What do most Americans (from the US) think of Indians?\nQuestion2: What do Americans expect from Indians while an Indian is in the US?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 177170
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Where did racism come from?\nQuestion2: Where did the idea of racism come from?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 67423
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How long will meth stay in my system if I inject it?\nQuestion2: How long meth stay in system?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 377584
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Where can I get necessary legal advice and services in Sydney for property transaction?\nQuestion2: Where can I get professional advice for buying and selling a property in Sydney?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 398823
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How do I get an international internship in industrial engineering?\nQuestion2: How do I get an international internship in electronics engineering?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 381294
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What is the best way to cold email someone in private equity for the purpose showing interest in the industry and get an interview (potentially?)?\nQuestion2: Adam D'Angelo: What do you think of Quora users from INDIA?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 365571
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What is the best way to learn about the constellations?\nQuestion2: What is the best way to learn the constellations?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 89552
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How do I deal with my little brother\u2019s addiction to video games?\nQuestion2: How do I stop my little brothers video game addiction?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 36349
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: If a non-Muslim converts, how does he(she) chooses whether to be Shia or Sunni?\nQuestion2: Which Islam should I choose, Shia or Sunni? How do I know which one is the truth?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 54827
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: For you what is the meaning of life?\nQuestion2: What is the purpose of life?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 112787
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What are some of the best Linux Distros?\nQuestion2: What is the best Linux Distro for GNOME?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 46692
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How do I become a graphics designer?\nQuestion2: How did you figured out that you want to be a graphic designer?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 323308
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What are the most interesting products and innovations that Commerce Bank is coming out with in 2016?\nQuestion2: What are the most interesting products and innovations that Associated Bank is coming out with in 2016?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 67571
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How can I be important in the society?\nQuestion2: How do you think an individual is important in the society?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 391633
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How can you determine the Lewis structure for C2H2BR2?\nQuestion2: How can the Lewis Structure for NH2NH2 be determined?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 238388
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Given access to the same facts, how is it possible that there can be disagreement between experts in a discipline?\nQuestion2: Given access to the same facts, how is it possible that there can be disagreement between experts in a discipline? What are two examples for it?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 4043
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What are taboo?\nQuestion2: What are the taboos, if any, in mathematics?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 50746
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Do Arrears (backlogs) affect placements at MNCs even if you improved scores after one disastrous year?\nQuestion2: If you get an arrear and you re register that course, does it count as a Backlog?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 363484
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Which is the largest site of Indus valley Civilization?\nQuestion2: Which is the largest site of Indus Civilization?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 66939
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Is it ethical to upvote an answer just because I spent the time reading it?\nQuestion2: What is the probability that a person will upvote an answer just because it's long?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 39020
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What is an example of how a quasi contract works?\nQuestion2: How do government contracts work?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 297664
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How could it be harmful to breathe in Raid (used to kill bugs)? I sprayed it on my bed and my friend said it coulld cause brain damage.\nQuestion2: Do Olympic players from other countries than India get the same kind of rewards from their respective governments just like here?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 254323
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How should I study (give me a study plan) for 1st year mbbs?\nQuestion2: What should be my study strategy for first year of MBBS?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 24123
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How much the rubber expansion joint cost ?\nQuestion2: How much does meth cost?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 289408
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Do I need to change my driving license if I am moving to another state in India?\nQuestion2: How do one obtain a license in buses and lorries in India, what are the criteria needed and how is the driving test?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 233187
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What are some tips on making it through the job interview process at UDR?\nQuestion2: What are the best cookbooks with quick, delicious recipes?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 358744
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What would happen if the shape of earth became a hollow semi-sphere? Would it be possible to stand on the inner surface?\nQuestion2: What would have happened if Earth was pyramidal in shape?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 359253
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How has the present Philippines independent foreign policy set a good model for Japan and South Korea to follow in the world?\nQuestion2: If you're a foreigner living in Japan and money is inconsequential, is it possible to visit South Korea on holidays? If yes, how often?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 273439
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What can be the most insane ways to commit suicide?\nQuestion2: What is the most painless way to do a suicide?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 372079
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How can I get a sponsor as a developing athlete with great potential?\nQuestion2: How much package I can get as a android developer with experience 2.4 year?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 174356
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Are the voting booths set up on the reservations?\nQuestion2: Are voting booths set up on reservations?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 155722
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Is Hillary Clinton's enabling of voter fraud and inciting of violence at Trump rallies by DNC affiliated groups affecting independents?\nQuestion2: What is your opinion on the O'Keefe video exposing the DNC inciting violence against Trump supporters?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 51677
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How do I calculate beam loads from slab loads?\nQuestion2: How do I calculate beam loads from slab?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 371819
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Why did India launch British satellites?\nQuestion2: Why are Britishers using Indian satellites to launch vehicles for their satellites?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 31344
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What is the best entry level camera/lens, for an aspiring, hope to be someday professional photographer, who is on a tight budget?\nQuestion2: Which is the best entry level camera for aspiring photographer?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 394541
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How do you get rid of dry or sore throat?\nQuestion2: How do you get rid of a sore throat?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 38138
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Can we know who is peeping at my Quora profile?\nQuestion2: How do we know who viewed our Quora profile?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 242459
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: When will David Pollak complete \"Simply Lift\"?\nQuestion2: How do I add a treeview to a Lift template?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 158038
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How can I earn money through YouTube?\nQuestion2: How can I make money through YouTube?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 158398
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How much money does an average Uber Black driver earn in a day in Washington, D.C.?\nQuestion2: How much money uber drivers make in Fresno?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 123084
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What projects can I do if I have good knowledge of C language and data structures and algorithms?\nQuestion2: What are some good ideas for a project in data structures in C?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 394747
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Which is the best phone for outdoor/nature photography?\nQuestion2: I want to do MS in ME from US .What should I do to get it there?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 310210
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Higher studies in abroad after IPS?\nQuestion2: What are the most powerful wifi 4G antenna?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 158258
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How do I know that a guy likes you?\nQuestion2: How can you tell a if guy likes you?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 307958
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Why is ham bad for dogs?\nQuestion2: Why is ham good for dogs?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 107209
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What do you do when someone asks you a question then looks away during your response?\nQuestion2: What does Quora do when you ask your question in a different language?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 234632
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What does it feel like to drown?\nQuestion2: Can newborn baby swim and not drown?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 350713
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Is every non-textual data is unstructured?\nQuestion2: What would be your ideal cast if R Scott Bakker's novel series \"Prince of Nothing\" is adapted into film/ TV series?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 239979
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What are the financial markets (all)?\nQuestion2: What exactly are financial markets?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 377526
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How do I become more consistent?\nQuestion2: How can I become consistent again?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 100159
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: I studied at a law school, but I didn't study a Juris Doctor. If I pass a bar exam, can I work for a law firm as a lawyer?\nQuestion2: What is London weather like and how does it compare to other European cities?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 251818
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What was the main cause of World War One?\nQuestion2: What situations led to World War 1?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 124823
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How do you cook slightly frozen chicken?\nQuestion2: How do you fry frozen chicken?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 298775
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Does a function having no critical points imply that it's a linear function?\nQuestion2: How do I find the critical points of a function containing logarithms and algebra?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 78745
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What good vs. bad habits have expats picked up after coming to Malaysia?\nQuestion2: What good vs. bad habits have expats picked up after coming to Singapore?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 252679
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Who will win UP elections 2017 and how?\nQuestion2: Who will win up 2017 election?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 232454
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Where can I donate sperm in India?\nQuestion2: How do you donate sperm?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 315024
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Should I confess to my crush or wait till right moment?\nQuestion2: Should I confess to my crush of 6 years ?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 156246
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How many religions are there in the world? What are they?\nQuestion2: How many religions in the world? Which one is right?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 259184
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Should I drop one year after BCA for MBA preparations?\nQuestion2: Should I drop 1 year after a BE for CAT preparation?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 15273
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Have any of your close friends and relatives given you a first person account of their alien abduction?\nQuestion2: Is there even a hint of truth to any alien or alien abduction stories or anything alien related at all? Any data/evidence to support this?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 212089
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What is the means of Gmail Password Recovery?\nQuestion2: How do I reset my Gmail password when I don't remember my recovery information?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 142734
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What does an advertising agency do?\nQuestion2: What are some advertising agencies in China?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 193330
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Does the end justify the means?\nQuestion2: Do the ends justify the means when achieving your life goals?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 321950
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How do we get electricity from hydroelectric source?\nQuestion2: How we get electric shock?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 116756
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What is macroscopic motion?\nQuestion2: What is rectilinear motion?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 169060
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Where do I catch a Butterfree in Pok\u00e9mon GO?\nQuestion2: Where do I catch Zubats in Pok\u00e9mon GO?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 56706
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What is the Sahara, and how do the average temperatures there compare to the ones in the Great Sandy Desert?\nQuestion2: What is the Sahara, and how do the average temperatures there compare to the ones in the Dasht-e Kavir?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 8380
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How do I let go of regrets?\nQuestion2: How do I let go of regrets from the past and becoming older?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 309066
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How do I ship In-N-Out across country?\nQuestion2: How do I ship a laptop across the country?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 57942
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What is the best way to learn Artificial Intelligence for a beginner?\nQuestion2: What is best for learning artificial intelligence, lecture or book?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 269642
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How should one improve one's presence of mind?\nQuestion2: I feel numb at important situations, I am unable to think smartly. How can I improve by presence of mind?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 123003
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How are black holes born?\nQuestion2: How black holes are formed?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 266300
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Who is your best friend? Why?\nQuestion2: Who is my best friend?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 288345
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What is the best TV series and why?\nQuestion2: What is the best TV show of all time, and why?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 62812
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Do psychopaths know they are psychopaths?\nQuestion2: What is it like to closely know a diagnosed psychopath?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 14942
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What is causing iPhone sales to drop (April 2016)?\nQuestion2: Why did iPhone sales drop?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 126262
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Who do you think will be the next U.S. president?\nQuestion2: Who will be voted the next president?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 86454
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How many businesses in the U.S. operate during all hours of the day?\nQuestion2: Can a computer virus cause a server to catch fire?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 359389
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How long will it take to learn HTML and CSS?\nQuestion2: How long did it take you to learn HTML?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 168146
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How could I control my emotions and my negative thoughts?\nQuestion2: How do I control emotions and reactions in nervousness?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 153781
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What is the value of |1/0|?\nQuestion2: What is the value of 1/0?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 193934
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Who is the faster Flash, Barry or Wally?\nQuestion2: How does the Flash (Barry Allen) die?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 384175
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How can I delete my Instagram comments off an account that's blocked me?\nQuestion2: How do I delete my Instagram comments on a user's post that he/she blocked me?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 330905
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Who are some good competitive programmers or just programmers from Etawah, Uttar Pradesh?\nQuestion2: Who are the best competitive programmers from punjab?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 380943
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Which book is the best reference for a CS executive in both modules?\nQuestion2: Which is the best book for executive programme of CS?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 140467
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How does living in Taiwan compare to living in America and Southeast Asia?\nQuestion2: Which is the best software for business to consumer, e-commerce portal?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 12217
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Is 13 .5 cm penis length enough to pleasure a girl?\nQuestion2: Is a small penis (13-14 cm) enough for a big girl?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 210387
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Are ghost evil are real?\nQuestion2: Are ghosts good or evil?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 189616
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Who uses cryptography today?\nQuestion2: Who uses cryptography?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 325499
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What are the different types of hypotension, and how do they compare to each other?\nQuestion2: Is being attractive and good looking considered a pass to get-out-of jail?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 147569
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What are the best forums about graduate school?\nQuestion2: How does a B affect your graduate school application?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 99422
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What are the symptoms of child abuse?\nQuestion2: What are signs of child abuse?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 185568
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What is secular?\nQuestion2: What is secularize?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 123524
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Why did America chose Hiroshima and Nagasaki to drop its atom bomb? Why did the US take such a big decision to bomb these two places knowing about its disastrous consequences?\nQuestion2: The destructive force of the atomic bomb is clearly demonstrable without actual casualties. Why did the US still opt to bomb Hiroshima and Nagasaki?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 291186
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Are bolognaise and barbecue Lays (chips) vegetarian?\nQuestion2: How are Lay's potato chips made? How does the process begin?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 280757
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Where are some dangerous places to stay in the world, and why are those places so dangerous?\nQuestion2: Where are the most dangerous places in the world and why?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 311927
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What do linguists think of the movie Arrival?\nQuestion2: What did Dr. Louise tell the the Chinese at the end in Arrival Movie?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 1599
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What is the difference between Big O notation and tilde-notation?\nQuestion2: What is the difference between big O notation and little o notation in asymptotic notations?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 74424
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What are the top distance learning universities or institutes in India?\nQuestion2: What are the best distance-learning universities in India?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 376855
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What is the difference between phase voltage and line voltage on a 3 phase transmission line?\nQuestion2: What is the relation between phase and line voltage?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 219554
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How do I find the center of concrete column thats already been casted at site?\nQuestion2: Why did Agamemnon sacrifice his daughter according to history?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 231140
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What can I do to lose weight?\nQuestion2: What do I do to lose my weight?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 225312
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What is the present scenario in us after doing MS?\nQuestion2: How suggestable is to do ms in us considering the present scenario?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 36192
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How can I become a conductor?\nQuestion2: How does one become an orchestra conductor?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 266966
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Where are the latest 1Z0-820 materials?\nQuestion2: Where can I get the latest 1Z0-514 materials?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 378267
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What can I blog about?\nQuestion2: What can we blog about?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 280486
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What universities does Bebe Stores recruit new grads from? What majors are they looking for?\nQuestion2: What universities does Stage Stores recruit new grads from? What majors are they looking for?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 85999
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Are there any animals that don't sleep?\nQuestion2: Do all animals get cancer?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 384978
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Why can't I delete some pictures from my messenger shared content?\nQuestion2: How do you delete a picture from instagram on your computer?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 391493
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What are the best universities/colleges to do short term course in western vocal in India?\nQuestion2: Which is the best short term course which will add to my earnings?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 298218
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What is purpose of life?\nQuestion2: It is said that each one of us is born for some specific purpose. How do we know what are we born for?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 217324
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What are some unknown things about Narendra Modi?\nQuestion2: What are some lesser known facts/incidents related to Narendra Modi?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 23871
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Could cars run on water?\nQuestion2: Is there a car engine that could run on water?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 163720
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What are websites that are similar to eBay?\nQuestion2: What are other websites similar to eBay?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 79165
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What are some tips and tricks in QlikView which are unknown by most?\nQuestion2: What are some cool WhatsApp tricks?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 181477
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Is economics the science which studies human behavior as a relationship between ends & scarce means which have alternative uses?\nQuestion2: Which is better for finding a job between a double major in economics and political science and a double major in economics and philosophy?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 221223
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What do people of Pakistan Occupied Kashmir think about India?\nQuestion2: What do Pakistan-occupied Kashmir people think of India?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 103479
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How much price cut is expected for Galaxy s7 till April 2017?\nQuestion2: What is the price of Samsung galaxy s7 edge?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 320307
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Can you delete pictures from an iPhone and still have it saved in iCloud? If so, how?\nQuestion2: If I backup my iPhone data to iCloud can I delete everything in my iTunes library?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 35679
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What is so special about the number '1729'?\nQuestion2: What is so special about the number 42?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 44551
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Who are some new YouTubers in and around Kolkata?\nQuestion2: What is the best way to celebrate new year alone in Kolkata?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 101641
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Why didn't Sania Mirza condemned the terror attack at Uri?\nQuestion2: If Leander Paes and Sania Mirza are so good at doubles, why don't they form a team and provide India the much needed Olympic gold?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 325896
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What is the best cartoon ever and why?\nQuestion2: What are the most interesting cartoons?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 13829
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What is a good inpatient drug and alcohol rehab center in Washington County NC?\nQuestion2: What is a good inpatient drug and alcohol rehab center in Washington County AL?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 91449
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What does paper 3 in IB chemistry SL include?\nQuestion2: Where can I get the IB May 2014 Exam papers for practice?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 352621
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How do I access my Instagram account?\nQuestion2: How many admins can have access to one Instagram account?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 179272
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How does an opera singer decide to pursue opera as career?\nQuestion2: Unilateral element Diode defination?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 267292
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What is the explanation behind the Buzzfeed blue/black/white/gold dress?\nQuestion2: Is black, white and gold a good a color scheme for a website and application design?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 222413
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Does your brain make you see yourself 5 times more beautiful than you actually are?\nQuestion2: Why is beauty so overrated in India? Say a hot girl making 5 LPA is usually valued (has more demand) more than someone making 3-4 times that of her!\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 88561
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Who created the Apple TV 4 screen savers?\nQuestion2: Is Amazon Fire TV just as good as Apple TV?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 124451
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What is the diffrence betweeen inductor and capacitor?\nQuestion2: What is the principle behind a non-linear resistor, non-linear capacitor, non-linear inductor?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 284838
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: When was your first sex experience?\nQuestion2: How was your first sex experience? Good /bad, describe it?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 353649
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What should I do in college?\nQuestion2: What should I do at college?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 10290
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What high schools feed the most students to Yale?\nQuestion2: Which high school feeds the most students to Yale?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 191361
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How do I switch between panes in split mode in Vim?\nQuestion2: How do you copy-paste between files in Vim?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 253600
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What would happen if we could use 100% of our brain?\nQuestion2: Can our brain be 100% like Lucy?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 108460
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What is the fastest method for learning a foreign language?\nQuestion2: What is the best method to learn new language?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 191867
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: How was the KVPY 2016 SA paper? What is the expected cutoff?\nQuestion2: How was the KVPY 2016 sa?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 25993
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: What are the top courses on digital marketing?\nQuestion2: Which are the courses on Coursera or other MOOCs to study digital marketing?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 192764
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Why do eggs expire?\nQuestion2: Do eggs expire?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 18998
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Why is Norethindrone prescribed for breastfeeding mothers?\nQuestion2: What's another name for the boogeyman?\n(a): No\n(b): Yes\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 158477
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Pakistan has never won any wars, but their generals and military officers wear a lot of medals. How is this possible?\nQuestion2: Pakistan has never won a war so from where do Pakistan's army generals buy medals hung on their uniforms?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 235843
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Why does the UK have an unwritten Constitution?\nQuestion2: Why does England not have a constitution?\n(a): Yes\n(b): No\nA:",
+      "targets": "(a)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        1,
+        0
+      ],
+      "idx": 252094
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: I am getting 44.33 unnormalized marks in the GATE 2015 (CSE) for the 7th afternoon session. Are there any chances of me getting an IIT?\nQuestion2: I am getting 54.4 unnormalized marks in GATE 2015 CSE for the 7th February afternoon session. Are there any chances of me getting an IIT?\n(a): Yes\n(b): No\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 107967
+    },
+    {
+      "inputs": "Q: Are the following questions asking the same thing?\nQuestion1: Which is the best business below 10 lakhs?\nQuestion2: What are the best ideas for starting business with 10 lakhs investment?\n(a): No\n(b): Yes\nA:",
+      "targets": "(b)",
+      "multiple_choice_targets": [
+        "(a)",
+        "(b)"
+      ],
+      "multiple_choice_scores": [
+        0,
+        1
+      ],
+      "idx": 250353
+    }
+  ]
+}
